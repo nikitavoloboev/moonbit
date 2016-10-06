@@ -125,12 +125,12 @@ I try to use the best tools that I can to get these tasks completed.
 	- I then star the words I don't know and move them all to Anki so I actually learn them
 - [Week Cal](https://itunes.apple.com/app/id381059732)
 	- I use it to mostly view what is ahead in my schedule for the next day / week
-		- or adjust my event where necessary
+		- or adjust my events where necessary
 - [Focus](https://itunes.apple.com/app/focus-productivity-timer/id975017240?mt=8)
 	- pomodoro timers are really great as they give you a very specific time frame where you can focus
 	- I mostly use the app on the macbook as that is where I do real work but sometimes a small pomodoro session from the phone is also great to have
 - [Toggl Timer](https://itunes.apple.com/us/app/toggl-work-time-tracker/id885767775?mt=8)
-	- I try and track all the time I spend so that I can both be conscios of what it is I am doing and later analyse the data and see where I can improve and where my time is really being spent
+	- I try and track all the time I spend so that I can both be conscious of what it is I am doing and later analyse the data and see where I can improve and where my time is really being spent
 - [Due](http://www.dueapp.com/)
 	- this is a pretty neat app to set out quick timers for things either recurring or one time
 	- I mostly use it to set quick actionable reminders
