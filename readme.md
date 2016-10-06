@@ -46,7 +46,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- I tag most of my entries with a *time* tag and set priority for each task
 - [Launch Centre Pro](https://contrast.co/launch-center-pro/)
 	- iOS version of [Alfred](https://www.alfredapp.com) Launcher
-	-[here](http://i.imgur.com/rdhb6gP.png) is how my main screen of it looks
+	- [here](http://i.imgur.com/rdhb6gP.png) is how my main screen of it looks
 		- here is [web](http://i.imgur.com/xdSOiSe.png) and [life](http://i.imgur.com/LE2E1eL.png) sections of it
 	- I actually don't use it as much as I would like to as everything is already fast w/o a need of a launcher
 		- but I like how I can make searches scoped to some site 
