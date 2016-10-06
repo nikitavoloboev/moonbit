@@ -101,7 +101,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- it's nice that I can slowly lower this number of undread pieces with my phone
 - [Day One](http://dayoneapp.com)
 	- I don't actually like to write on my phone as it is very inefficient 
-	- I mostly use this app to read my *'on this day'*[entries](http://www.nikitavoloboev.xyz/post/day-evaluations/) I wrote a year or two ago and sometimes add photographs to my entries 
+	- I mostly use this app to read my *'on this day'* [entries](http://www.nikitavoloboev.xyz/post/day-evaluations/) I wrote a year or two ago and sometimes add photographs to my entries 
 - [Ulysses](https://ulyssesapp.com)
 	- Ulysses is my go-to place for anything I want to write
 	- it has everything I need from a great note taking app
