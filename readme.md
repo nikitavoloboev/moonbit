@@ -6,7 +6,7 @@ I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-![](http://i.imgur.com/WXY8bFi.png)
+![](http://i.imgur.com/nTJDl6M.png)
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
