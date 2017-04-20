@@ -1,6 +1,6 @@
-#my wonderful world of iOS
+# my wonderful world of iOS
 
-#Screens
+# Screens
 With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
 I wanted to write out how and what I use iOS for.
 
@@ -16,7 +16,7 @@ few messaging applications on the bottom rows :
 My bottom dock is just three applications. My task manager, a launcher and
 a book reader.
 
-#Philosophy
+# Philosophy
 For me, an iPhone is essentially a consumption and communication device. I can
 do everything I can do on the phone, faster and better on the laptop. Thus
     I find it is very valuable to give each of these devices a well defined
@@ -38,8 +38,8 @@ search the internet and read my mail.
 I of course do other things too, but these are the main ones. With that said,
 I try to use the best tools that I can to get these tasks completed. 
 
-#Apps
-##Dock
+# Apps
+## Dock
 - [2Do](http://www.2doapp.com/) 
 	- this is where all my tasks, thoughts, plans live
 	- can seperate the tasks into their relevant lists and filter through everything nicely
@@ -56,7 +56,7 @@ I try to use the best tools that I can to get these tasks completed.
 		- why not help myself with the task by reading them on the go
 	- I also love how I can add notes and highlights and how everything is synced up with iCloud
 
-##Main Screen 
+## Main Screen 
 - [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager-album/id984305203?mt=8)
 	- Apple's photos app has no easy way to delete multiple photographs
 		- this solves it
@@ -135,8 +135,8 @@ I try to use the best tools that I can to get these tasks completed.
 	- this is a pretty neat app to set out quick timers for things either recurring or one time
 	- I mostly use it to set quick actionable reminders
 
-##Second Screen
-###Bottom Row
+## Second Screen
+### Bottom Row
 - [Messenger](https://www.messenger.com)
 	- although I don't agree with Facebook's and Google's thirst for collecting as much user's data as possible
 		- it is hard to argue that nearly every other person has a facebook account and thus you can use messenger to communicate with them
