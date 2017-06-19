@@ -62,6 +62,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- I also love how I can add notes and highlights and how everything is synced up with iCloud
 
 <h2 align="center"> Main Screen </h2>
+
 - [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager-album/id984305203?mt=8)
 	- Apple's photos app has no easy way to delete multiple photographs
 		- this solves it
