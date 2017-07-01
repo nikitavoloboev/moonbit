@@ -1,5 +1,14 @@
 <h1 align="center"> my wonderful world of iOS 📱</h1>
 
+<div align="center">
+<a href="https://www.patreon.com/nikitavoloboev">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/nikitavoloboev/my-ios/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
 <h1 align="center"> Screens</h1>
 
 With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
