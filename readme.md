@@ -182,9 +182,9 @@ I try to use the best tools that I can to get these tasks completed.
 	- I like using Dropbox more than Google Drive as I find Dropbox's integration with macOS to be a lot better
 	- use it to send myself books to read on my phone, keep some of my file data synced and synchronise a couple of applicatios that require Dropbox for syncing
 
+<h1 align="center"> Thanks 🍀</h1>
 
-
-
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
 
 
 
