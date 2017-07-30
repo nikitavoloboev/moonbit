@@ -16,15 +16,14 @@ I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-![](http://i.imgur.com/iM0c8rf.png)
+![](http://i.imgur.com/kMPF7ov.jpg)
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
 
-![](http://i.imgur.com/HO9PLbX.png)
+![](http://i.imgur.com/10BH1tA.jpg)
 
-My bottom dock is just three applications. My task manager, a launcher and
-a book reader.
+My bottom dock contains my essential applications. My task manager, mind mapping app, a launcher and a book reader.
 
 <h1 align="center"> Philosophy</h1>
 
@@ -37,15 +36,13 @@ With all the freedom and power that a smartphone brings, it also brings a lot
 of **distraction**. There is Twitter, Facebook, Instagram with their endless
 feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all
 times is exhausting and addictive, that is why I have a browser on my second
-page, twitter in a folder, facebook deleted. Aside from privacy issues that
-come with having Facebook on your phone, the truth is that you never do need
+page and facebook deleted. Aside from [privacy issues that come with having Facebook](https://learn-anything.xyz/economics/business/companies/facebook) on your phone, the truth is that you never do need
 it.
 
 I use my phone when I am not using my computer. I use it to read books, update
 my budget, make photographs, edit them, check tasks I have set out to do, listen to
 podcasts, music, audio books, read wikipedia, answer messages on slack,
-telegram, write quick notes and memos, keep up-to-date with my pocket articles,
-search the internet and read my mail.
+telegram, write quick notes and memos, search the internet and read my mail.
 I of course do other things too, but these are the main ones. With that said,
 I try to use the best tools that I can to get these tasks completed. 
 
