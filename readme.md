@@ -21,7 +21,7 @@ I use just two screens. The first screen contains applications I most often use 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
 
-<p align="center"><img src="media/screen1.jpg" alt="img" width="600"></p>
+<p align="center"><img src="media/screen2.jpg" alt="img" width="600"></p>
 
 My bottom dock contains my essential applications. My task manager, mind mapping app, a launcher and a book reader.
 
