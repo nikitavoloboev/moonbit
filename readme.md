@@ -167,7 +167,7 @@ I try to use the best tools that I can to get these tasks completed.
 - [Viki](https://itunes.apple.com/us/app/viki-nice-reader-for-wikipedia/id993435362?mt=8)
 	- I love wikipedia
 		- you can easily get lost in the amount of articles it has and how everything is neatly linked together
-		- this app makes the process of discovery and reading of this new knowlege easier and prettier to the eye
+		- this app makes the process of discovery and reading of this new knowledge easier and prettier to the eye
 - [Safari](http://www.wikiwand.com/en/Safari_(web_browser))
 	- best browser on iOS, hands down
 	- use it both on macOS and iOS and am quite happy with this choice
