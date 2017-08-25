@@ -16,7 +16,7 @@ I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-<p align="center"><img src="media/screen1.jpg" alt="img" width="600"></p>
+<p align="center"><img src="media/screen1s.jpg" alt="img" width="600"></p>
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
@@ -150,13 +150,8 @@ I try to use the best tools that I can to get these tasks completed.
 <h1 align="center"> Second Screen </h1>
 <h2 align="center"> Bottom Row </h2>
 
-- [Messenger](https://www.messenger.com)
-	- although I don't agree with Facebook's and Google's thirst for collecting as much user's data as possible
-		- it is hard to argue that nearly every other person has a facebook account and thus you can use messenger to communicate with them
-		- it is also much nicer to just 'friend' a person and talk to him then to add his number to a phone, ask for their name and surname and so on
-		- facebook makes things convenient and easy although in a perfect world everyone would embrace [Signal](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 - [Telegram](https://itunes.apple.com/app/telegram-messenger/id686449807)
-	- I really like this messenger over whatsapp
+	- I really like this messenger over whatsapp (due to whatsapp being property of Facebook)
 	- it has a native desktop client unlike whatsapp, fun stickets and bots
 - [Airmail](http://airmailapp.com/ios)
 	- I really like this email client for its simplicity and features
