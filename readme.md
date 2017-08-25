@@ -16,7 +16,7 @@ I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-<p align="center"><img src="media/screen1s.jpg" alt="img" width="600"></p>
+<p align="center"><img src="media/screen1.jpg" alt="img" width="600"></p>
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
