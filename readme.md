@@ -63,7 +63,7 @@ I try to use the best tools that I can to get these tasks completed.
 		- but I like how I can make searches scoped to some site 
 - [iBooks](https://itunes.apple.com/en/app/ibooks/id364709193?mt=8)
 	- ideally this is where most of the time spent on the phone should be thus I have put it on the dock
-	- I *try* to [read	a lot of books](https://www.goodreads.com/review/list/15768482?shelf=currently-reading)
+	- I *try* to [read	a lot of books](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=to-read)
 		- why not help myself with the task by reading them on the go
 	- I also love how I can add notes and highlights and how everything is synced up with iCloud
 
