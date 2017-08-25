@@ -105,10 +105,10 @@ I try to use the best tools that I can to get these tasks completed.
 		- this means I scan every paper I write on
 			- when I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly
 			- from there I can search for anything that I want quickly
-- [Streaks](https://itunes.apple.com/en/app/streaks/id963034692?mt=8)
+- [Streaks](https://itunes.apple.com/us/app/streaks/id963034692?mt=8)
 	- habits are extremely important to keep on top of things
 	- [here](http://i.imgur.com/lVh8FjJ.png) are mine
-- [Pocket](https://itunes.apple.com/en/app/pocket-save-articles-videos/id309601447?mt=8)
+- [Pocket](https://itunes.apple.com/us/app/pocket-save-articles-videos/id309601447?mt=8)
 	- I have a lot of articles waiting for me to be read in Pocket
 	- it's nice that I can slowly lower this number of undread pieces with my phone
 - [Day One](http://dayoneapp.com)
