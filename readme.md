@@ -1,22 +1,12 @@
-<h1 align="center"> my wonderful world of iOS 📱</h1>
+# My wonderful world of iOS 📱 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
 
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/nikitavoloboev/my-ios/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
-<h1 align="center"> Screens</h1>
-
+## Screens
 With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
 I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-<p align="center"><img src="media/screen1.png" alt="img" width="600"></p>
+![](media/screen1.png)
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
@@ -25,8 +15,7 @@ few messaging applications on the bottom rows :
 
 My bottom dock contains my essential applications. My task manager, mind mapping app, a launcher and a book reader.
 
-<h1 align="center"> Philosophy</h1>
-
+## Philosophy
 For me, an iPhone is essentially a consumption and communication device. I can
 do everything I can do on the phone, faster and better on the laptop. Thus
     I find it is very valuable to give each of these devices a well defined
@@ -46,11 +35,8 @@ telegram, write quick notes and memos, search the internet and read my mail.
 I of course do other things too, but these are the main ones. With that said,
 I try to use the best tools that I can to get these tasks completed. 
 
-
-<h1 align="center"> Apps </h1>
-
-<h2 align="center"> Dock </h2>
-
+## Apps
+### Dock
 - [2Do](http://www.2doapp.com/) 
 	- this is where all my tasks, thoughts, plans live
 	- can seperate the tasks into their relevant lists and filter through everything nicely
@@ -67,8 +53,8 @@ I try to use the best tools that I can to get these tasks completed.
 		- why not help myself with the task by reading them on the go
 	- I also love how I can add notes and highlights and how everything is synced up with iCloud
 
-<h2 align="center"> Main Screen </h2>
 
+### Main Screen
 - [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager-album/id984305203?mt=8)
 	- Apple's photos app has no easy way to delete multiple photographs
 		- this solves it
@@ -147,9 +133,9 @@ I try to use the best tools that I can to get these tasks completed.
 	- this is a pretty neat app to set out quick timers for things either recurring or one time
 	- I mostly use it to set quick actionable reminders
 
-<h1 align="center"> Second Screen </h1>
-<h2 align="center"> Bottom Row </h2>
 
+## Second Screen
+### Bottom Row
 - [Telegram](https://itunes.apple.com/app/telegram-messenger/id686449807)
 	- I really like this messenger over whatsapp (due to whatsapp being property of Facebook)
 	- it has a native desktop client unlike whatsapp, fun stickets and bots
@@ -170,7 +156,5 @@ I try to use the best tools that I can to get these tasks completed.
 	- I like using Dropbox more than Google Drive as I find Dropbox's integration with macOS to be a lot better
 	- use it to send myself books to read on my phone, keep some of my file data synced and synchronise a couple of applicatios that require Dropbox for syncing
 
-<h1 align="center"> Thanks 🍀</h1>
-
+## Thanks 🍀
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
-
