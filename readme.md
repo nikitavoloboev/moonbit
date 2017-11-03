@@ -6,13 +6,13 @@ I wanted to write out how and what I use iOS for.
 
 I use just two screens. The first screen contains applications I most often use : 
 
-<img src="media/screen1.png" width="400" alt="img">
+<img src="https://i.imgur.com/mjtTceJ.jpg" width="400" alt="img">
 
 
 The second screen contains everything else sorted by folders with
 few messaging applications on the bottom rows : 
 
-<img src="media/screen2.png" width="400" alt="img">
+<img src="https://i.imgur.com/b49Evpe.jpg" width="400" alt="img">
 
 My bottom dock contains my essential applications. My task manager, mind mapping app, a launcher and a book reader.
 
