@@ -1,4 +1,5 @@
 # My wonderful world of iOS 📱 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
+> What I use on my phone
 
 ## Screens
 With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
@@ -157,5 +158,5 @@ I try to use the best tools that I can to get these tasks completed.
 	- I like using Dropbox more than Google Drive as I find Dropbox's integration with macOS to be a lot better
 	- use it to send myself books to read on my phone, keep some of my file data synced and synchronise a couple of applicatios that require Dropbox for syncing
 
-## Thanks 🍀
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
+## Thank you 💜
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
