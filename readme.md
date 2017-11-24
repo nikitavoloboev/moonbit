@@ -1,15 +1,17 @@
 # My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
+> A list of applications and tools I use that make my iOS experience even more amazing
+
 ## Screens
 With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
 I wanted to write out how and what I use iOS for.
 
-I use just two screens. The first screen contains applications I most often use : 
+I use just two screens. The first screen contains applications I most often use: 
 
 <img src="https://i.imgur.com/mjtTceJ.jpg" width="400" alt="img">
 
 
 The second screen contains everything else sorted by folders with
-few messaging applications on the bottom rows : 
+few messaging applications on the bottom rows: 
 
 <img src="https://i.imgur.com/b49Evpe.jpg" width="400" alt="img">
 
@@ -158,3 +160,6 @@ I try to use the best tools that I can to get these tasks completed.
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+
+## License
+MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
