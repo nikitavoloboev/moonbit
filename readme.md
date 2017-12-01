@@ -1,21 +1,18 @@
 # My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
 > A list of applications and tools I use that make my iOS experience even more amazing
 
-## Screens
-With success of my [macOS setup](https://github.com/nikitavoloboev/my-mac-os),
-I wanted to write out how and what I use iOS for.
-
-I use just two screens. The first screen contains applications I most often use: 
-
 <img src="https://i.imgur.com/mjtTceJ.jpg" width="400" alt="img">
-
-
-The second screen contains everything else sorted by folders with
-few messaging applications on the bottom rows: 
 
 <img src="https://i.imgur.com/b49Evpe.jpg" width="400" alt="img">
 
-My bottom dock contains my essential applications. My task manager, mind mapping app, a launcher and a book reader.
+## Contents
+- [Philosophy](#philosophy)
+- [Apps](#apps)
+  - [Dock](#dock)
+  - [First screen](#main-screen)
+  - [Second Screen](#second-screen)
+  	- [Bottom apps](#bottom-apps)
+- [My wonderful world of macOS](#my-wonderful-world-of-macos)
 
 ## Philosophy
 For me, an iPhone is essentially a consumption and communication device. I can
@@ -56,7 +53,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- I also love how I can add notes and highlights and how everything is synced up with iCloud
 
 
-### Main Screen
+### First Screen
 - [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager-album/id984305203?mt=8)
 	- Apple's photos app has no easy way to delete multiple photographs
 		- this solves it
@@ -137,7 +134,7 @@ I try to use the best tools that I can to get these tasks completed.
 
 
 ## Second Screen
-### Bottom Row
+### Bottom apps
 - [Telegram](https://itunes.apple.com/app/telegram-messenger/id686449807)
 	- I really like this messenger over whatsapp (due to whatsapp being property of Facebook)
 	- it has a native desktop client unlike whatsapp, fun stickets and bots
@@ -157,6 +154,12 @@ I try to use the best tools that I can to get these tasks completed.
 - [Dropbox](https://itunes.apple.com/en/app/dropbox/id327630330?mt=8)
 	- I like using Dropbox more than Google Drive as I find Dropbox's integration with macOS to be a lot better
 	- use it to send myself books to read on my phone, keep some of my file data synced and synchronise a couple of applicatios that require Dropbox for syncing
+
+## [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os)
+If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
+
+## Contributing
+I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-ios/issues).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
