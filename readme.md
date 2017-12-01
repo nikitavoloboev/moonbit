@@ -1,9 +1,11 @@
 # My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
 > A list of applications and tools I use that make my iOS experience even more amazing
 
-<img src="https://i.imgur.com/mjtTceJ.jpg" width="400" alt="img">
-
-<img src="https://i.imgur.com/b49Evpe.jpg" width="400" alt="img">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="200" heigth="400" src="https://i.imgur.com/mjtTceJ.jpg"></a>
+    
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="200" heigth="400" src="https://i.imgur.com/b49Evpe.jpg"></a>
 
 ## Contents
 - [Philosophy](#philosophy)
