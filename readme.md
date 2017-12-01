@@ -157,7 +157,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- I like using Dropbox more than Google Drive as I find Dropbox's integration with macOS to be a lot better
 	- use it to send myself books to read on my phone, keep some of my file data synced and synchronise a couple of applicatios that require Dropbox for syncing
 
-## [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os)
+## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
 ## Contributing
