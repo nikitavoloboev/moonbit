@@ -161,7 +161,7 @@ I try to use the best tools that I can to get these tasks completed.
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
 ## Contributing
-I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-ios/issues).
+I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-ios/issues/new).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
