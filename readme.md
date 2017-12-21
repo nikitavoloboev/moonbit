@@ -1,9 +1,9 @@
-# My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev) 
+# My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="200" heigth="400" src="https://i.imgur.com/mjtTceJ.jpg"></a>
-    
+
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="200" heigth="400" src="https://i.imgur.com/b49Evpe.jpg"></a>
 
@@ -20,7 +20,7 @@
 For me, an iPhone is essentially a consumption and communication device. I can
 do everything I can do on the phone, faster and better on the laptop. Thus
     I find it is very valuable to give each of these devices a well defined
-    purpose and use them in this way. 
+    purpose and use them in this way.
 
 With all the freedom and power that a smartphone brings, it also brings a lot
 of **distraction**. There is Twitter, Facebook, Instagram with their endless
@@ -34,11 +34,11 @@ my budget, make photographs, edit them, check tasks I have set out to do, listen
 podcasts, music, audio books, read wikipedia, answer messages on slack,
 telegram, write quick notes and memos, search the internet and read my mail.
 I of course do other things too, but these are the main ones. With that said,
-I try to use the best tools that I can to get these tasks completed. 
+I try to use the best tools that I can to get these tasks completed.
 
 ## Apps
 ### Dock
-- [2Do](http://www.2doapp.com/) 
+- [2Do](http://www.2doapp.com/)
 	- this is where all my tasks, thoughts, plans live
 	- can seperate the tasks into their relevant lists and filter through everything nicely
 	- I tag most of my entries with a *time* tag and set priority for each task
@@ -47,7 +47,7 @@ I try to use the best tools that I can to get these tasks completed.
 	- [here](http://i.imgur.com/rdhb6gP.png) is how my main screen of it looks
 		- here is [web](http://i.imgur.com/xdSOiSe.png) and [life](http://i.imgur.com/LE2E1eL.png) sections of it
 	- I actually don't use it as much as I would like to as everything is already fast w/o a need of a launcher
-		- but I like how I can make searches scoped to some site 
+		- but I like how I can make searches scoped to some site
 - [iBooks](https://itunes.apple.com/en/app/ibooks/id364709193?mt=8)
 	- ideally this is where most of the time spent on the phone should be thus I have put it on the dock
 	- I *try* to [read	a lot of books](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=to-read)
@@ -65,12 +65,12 @@ I try to use the best tools that I can to get these tasks completed.
 			- [google photos](https://photos.google.com) is too much of a privacy breach for me
 - [Everyday](http://everyday-app.com)
 	- I started taking a photograph of myself every day
-	- it's actually pretty fun way to see yourself change and the timelapse movie it makes is pretty great and convenient 
+	- it's actually pretty fun way to see yourself change and the timelapse movie it makes is pretty great and convenient
 - [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8)
 	- I am still learning how to edit photographs well but this app helps me with this task
 	- the only edits I do are to add a filter and adjust brightness
 - Music
-	- I actually only use it to listen to audio books 
+	- I actually only use it to listen to audio books
 		- as I only like to listen to audio books and podcasts when I am commuting and am with my phone
 - [YNAB Classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8)
 	- my budget tracker of choice
@@ -81,7 +81,7 @@ I try to use the best tools that I can to get these tasks completed.
 - [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8)
 	- one of the most useful apps I have on the phone
 	- let's me listen to the plethora of podcasts I love
-	- it also has [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) to cut out on silent pauses 
+	- it also has [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) to cut out on silent pauses
 - [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-edit-annotate-sign/id743974925?mt=8)
 	- I mostly use this app on the laptop but if I do want to read any PDF on my phone, this is where I do it
 - [CityMaps2Go](https://itunes.apple.com/us/app/citymaps2go-plan-trips-travel/id408866084?mt=8)
@@ -99,8 +99,8 @@ I try to use the best tools that I can to get these tasks completed.
 	- I have a lot of articles waiting for me to be read in Pocket
 	- it's nice that I can slowly lower this number of undread pieces with my phone
 - [Day One](http://dayoneapp.com)
-	- I don't actually like to write on my phone as it is very inefficient 
-	- I mostly use this app to read my *'on this day'* [entries](http://www.nikitavoloboev.xyz/post/day-evaluations/) I wrote a year or two ago and sometimes add photographs to my entries 
+	- I don't actually like to write on my phone as it is very inefficient
+	- I mostly use this app to read my *'on this day'* [entries](http://www.nikitavoloboev.xyz/post/day-evaluations/) I wrote a year or two ago and sometimes add photographs to my entries
 - [Ulysses](https://ulyssesapp.com)
 	- Ulysses is my go-to place for anything I want to write
 	- it has everything I need from a great note taking app
@@ -109,9 +109,9 @@ I try to use the best tools that I can to get these tasks completed.
 	- [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) is extremely powerful
 	- I try to use this fact when I can to make cards on things I actually want to memorise
 		- mostly it is english, russian words I learn or some mathematical rules or some other computer science concept I want to memorise
-- [Mindnode](http://mindnode.com/) 
+- [Mindnode](http://mindnode.com/)
 	- mind mapping is really awesome
-	- I use it to plan out my weekly tasks I have for the week 
+	- I use it to plan out my weekly tasks I have for the week
 	- I use it to plan out and break down any projects I am working on, books I want to read and when
 - Notes
 	- I use it to jot down names of people I meet and some other trivia information I don't really need to index straight away
@@ -166,7 +166,7 @@ If you found this interesting, I also have a [similar repository](https://github
 I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-ios/issues/new).
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared.
 
 ## License
 MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
