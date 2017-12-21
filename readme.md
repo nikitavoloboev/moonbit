@@ -15,6 +15,7 @@
   - [Second Screen](#second-screen)
   	- [Bottom apps](#bottom-apps)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos)
+- [Related](#related)
 
 ## Philosophy
 For me, an iPhone is essentially a consumption and communication device. I can
@@ -159,6 +160,9 @@ I try to use the best tools that I can to get these tasks completed.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
+
+## Related
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
 ## Contributing
 [Suggestions](https://github.com/nikitavoloboev/my-ios/issues) and pull requests are highly encouraged!
