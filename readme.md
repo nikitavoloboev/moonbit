@@ -18,7 +18,7 @@
 For me, an iPhone is essentially a consumption and communication device. I can
 do everything I can do on the phone, faster and better on the laptop. Thus I find it is very valuable to give each of these devices a well defined purpose and use them in this way.
 
-With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Facebook, Instagram with their endless feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all times is exhausting and addictive.
+With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all times is exhausting and addictive.
 
 I use my phone when I am not using my computer. I use it to read books, update my budget, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read wikipedia, answer messages on slack, telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main ones. With that said, I try to use the best tools that I can to get these tasks completed.
 
