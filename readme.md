@@ -173,6 +173,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - Pomodoro timers are really great as they give you a very specific time frame where you can focus.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
+<img src="https://i.imgur.com/cDtuXQl.jpg" width="500" alt="img">
+
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
 ## Related
