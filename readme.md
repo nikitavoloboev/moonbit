@@ -25,39 +25,39 @@ I use my phone when I am not using my computer. I use it to read books, update m
 ## Applications
 Here is a list of apps that I use the most in my day to day life, sorted by their importance.
 
-### 1. [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
-- This is my favourite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
 
-### 2. [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8)
-- My favourite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
+### 1. [Day One](https://dayoneapp.com)
+- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to to journals like `Photo a Day`, `Feelings` and `Check ins`.
+- I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
+
+### 2. [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
+- This is my favourite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
 
 ### 3. [2Do](https://www.2doapp.com/ios/)
 - My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
 - I can seperate the tasks by tags and filter through everything nicely. 
 - I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2Do.html).
 
-### 4. [Overcast](https://overcast.fm)
+### 3. [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8)
+- My favourite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
+
+### 4. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8)
+- Really like it as a way to share experiences that happened to me through photographs, videos and stories.
+
+### 5. [Overcast](https://overcast.fm)
 - Let's me listen to the plethora of podcasts I love.
 - It also has [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) to cut out on silent pauses.
 
-### 5. [Week Cal](https://itunes.apple.com/app/id381059732)
-- I use it to mostly view what is ahead in my schedule for Today.
-
-### 6. [Day One](https://dayoneapp.com)
-- I don't actually like to write on my phone as it is very inefficient.
-- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to to journals like `Photo a Day`, `Feelings` and `Travel`.
-- I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
-
-### 7. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8)
-- Really like it as a way to share experiences that happened to me through photographs, videos and stories.
-
-### 8. [iBooks](https://www.apple.com/ibooks/)
+### 6. [iBooks](https://www.apple.com/ibooks/)
 - Ideally this is where most of the time spent on the phone should be.
 - I try to read books and listeing to podcasts over anything else and iBooks is a great ePub reader for that. 
 - I usually send ePub files to a Dropbox folder and then open the files from iBooks on iPhone and read.
 - I also love how I can add notes and highlights and how everything is synced up with iCloud.
 
-### 9. [V for Wiki](http://v-for-wiki.com)
+### 7. [Week Cal](https://itunes.apple.com/app/id381059732)
+- I use it to mostly view what is ahead in my schedule for Today.
+
+### 8. [V for Wiki](http://v-for-wiki.com)
 - A really amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
 
 ### 10. [Strong](http://strongapp.io)
@@ -72,9 +72,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 ### 12. [Streaks](https://streaksapp.com)
 - Habits are extremely important to keep on top of things.
 - [Here](http://i.imgur.com/lVh8FjJ.png) are mine.
-
-### 13. [Swarm](https://www.swarmapp.com/)
-- Use it to check in to various places. It's pretty awesome to see after a while of using the app where you've been and which places you liked.
 
 ### 14. [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8)
 - Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily. 
