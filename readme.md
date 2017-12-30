@@ -27,7 +27,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 
 ### 1. [Day One](https://dayoneapp.com)
-- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to to journals like `Photo a Day`, `Feelings` and `Check ins`.
+- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to journals like `Photo a Day`, `Feelings` and `Check ins`.
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 ### 2. [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
