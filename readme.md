@@ -2,10 +2,10 @@
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/sZBd1eP.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/C5XHDDr.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/8z4VD6n.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/vSaLuSi.jpg"></a>
 
 ## Contents
 - [Philosophy](#philosophy)
