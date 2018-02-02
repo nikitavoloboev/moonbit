@@ -35,8 +35,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 ### 3. [2Do](https://www.2doapp.com/ios/)
 - My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
-- I can seperate the tasks by tags and filter through everything nicely. 
-- I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2Do.html).
+- I can seperate the tasks by tags and filter through everything nicely.
+- I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 
 ### 3. [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8)
 - My favourite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
@@ -50,7 +50,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 ### 6. [iBooks](https://www.apple.com/ibooks/)
 - Ideally this is where most of the time spent on the phone should be.
-- I try to read books and listeing to podcasts over anything else and iBooks is a great ePub reader for that. 
+- I try to read books and listeing to podcasts over anything else and iBooks is a great ePub reader for that.
 - I usually send ePub files to a Dropbox folder and then open the files from iBooks on iPhone and read.
 - I also love how I can add notes and highlights and how everything is synced up with iCloud.
 
@@ -65,7 +65,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 ### 11. [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8)
 - Ulysses is my go-to place for anything I want to write.
-- I don't often use it as I much prefer using the macOS version. I wrote about how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Ulysses.html).
+- I don't often use it as I much prefer using the macOS version. I wrote about how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/ulysses.html).
 - It has everything I need from a great note taking app:
 		- Great organisation of content, search, markdown, simplicity, quick export to PDF.
 
@@ -74,7 +74,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - [Here](http://i.imgur.com/lVh8FjJ.png) are mine.
 
 ### 14. [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8)
-- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily. 
+- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily.
 
 ### 15. [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8)
 - Use it often to quickly reference a recipe I want to make to see things I need and how to make it.
@@ -90,8 +90,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - I prefer this search engine over Google's on iOS due to privacy. But also due it providing [Bang](https://duckduckgo.com/bang) searches. Thus I can quickly search on variety of websites by simply prepending my query with `!` bang. (i.e. `!w physics` to search wikipedia for physics).
 
 ### 19. [YNAB Classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8)
-- My budget tracker of choice. I am not using YNAB subscription as I find it quite expensive but also because I have YNAB 4 version on mac. 
-- I really love the app for its ideology of being more proactive with your money. 
+- My budget tracker of choice. I am not using YNAB subscription as I find it quite expensive but also because I have YNAB 4 version on mac.
+- I really love the app for its ideology of being more proactive with your money.
 - I set a budget for every category and try to fall within the bounds of my budget whilst I track every cent I spend.
 
 ### 20. [Dropbox](https://www.dropbox.com/iphoneapp)
@@ -147,12 +147,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 ### 35. [Photos](http://www.apple.com/lae/ios/photos/)
 - Right now my photos are a mess and I can't find a good way to organise them well like I can with [Pixave](http://www.littlehj.com/).
-- But nevertheless this is the only place right now where I can store my personal images. 
+- But nevertheless this is the only place right now where I can store my personal images.
 
 ### 36. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8)
 - My life is fully digital.
-- This means I scan every paper I write on. 
-	- When I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. 
+- This means I scan every paper I write on.
+	- When I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly.
 	- From there I can search for anything that I want quickly
 
 ### 37. [Apple Notes](https://support.apple.com/en-us/HT205773)
