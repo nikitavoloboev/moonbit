@@ -7,7 +7,6 @@
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="200" heigth="400" src="https://i.imgur.com/vSaLuSi.jpg"></a>
 
-## Contents
 - [Philosophy](#philosophy)
 - [Applications](#applications)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos)
