@@ -31,6 +31,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 
 ### 2. [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
 - This is my favourite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
+- I use the app to quickly send media/messages between mac and my phone. Sometimes these includes some notes or thoughts I had that I then often transfer to my [wiki](https://wiki.nikitavoloboev.xyz).
 
 ### 3. [2Do](https://www.2doapp.com/ios/)
 - My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
