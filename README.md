@@ -2,10 +2,10 @@
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/C5XHDDr.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/eQYC7Ie.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/vSaLuSi.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
 
 - [Philosophy](#philosophy)
 - [Applications](#applications)
@@ -24,14 +24,13 @@ I use my phone when I am not using my computer. I use it to read books, update m
 ## Applications
 Here is a list of apps that I use the most in my day to day life, sorted by their importance.
 
-
 ### 1. [Day One](https://dayoneapp.com)
 - I often use it to check on events that happened to me `On this day`. As well as adding quick entries to journals like `Photo a Day`, `Travel` and `Feelings`.
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 ### 2. [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
 - This is my favourite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
-- I use the app to quickly send media/messages between mac and my phone. Sometimes these includes some notes or thoughts I had that I then often transfer to my [wiki](https://wiki.nikitavoloboev.xyz).
+- I use the app to quickly send media/messages between my mac and the phone. Sometimes these includes some notes or thoughts I had that I then often transfer to my [wiki](https://wiki.nikitavoloboev.xyz).
 
 ### 3. [2Do](https://www.2doapp.com/ios/)
 - My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
