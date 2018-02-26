@@ -1,10 +1,10 @@
 # My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications and tools I use that make my iOS experience even more amazing
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="200" heigth="400" src="https://i.imgur.com/eQYC7Ie.jpg"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
 
 - [Philosophy](#philosophy)
@@ -169,7 +169,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - Pomodoro timers are really great as they give you a very specific time frame where you can focus.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
-<img src="https://i.imgur.com/cDtuXQl.jpg" width="500" alt="img">
+<img src="https://i.imgur.com/TQUUbAF.jpg" width="500" alt="img">
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
