@@ -14,7 +14,7 @@
 
 - [Philosophy](#philosophy)
 - [Applications](#applications)
-- [My wonderful world of macOS](#my-wonderful-world-of-macos)
+- [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
 
