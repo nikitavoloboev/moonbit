@@ -7,6 +7,9 @@
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
 
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
+
 - [Philosophy](#philosophy)
 - [Applications](#applications)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos)
