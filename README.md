@@ -12,6 +12,7 @@
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
+##### Contents
 - [Philosophy](#philosophy)
 - [Applications](#applications)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
