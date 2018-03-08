@@ -154,20 +154,13 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 ### 34. Apple Clock - Alarms & timers
 - I love that Apple finally added night mode to the app. I use it to set my alarms, timers (often created by Siri).
 
-### 35. [Terminology](https://itunes.apple.com/us/app/terminology-3-extensible-dictionary/id687798859?mt=8) - Word definitions& lookups
-- I use it to find definitions of new words I encounter whilst reading a book or reading the internet.
-- I find the definitions to be really well thought out and understandable. I then star the words I don't know and move them all to Anki so I actually learn them.
-
-### 36. [Focus](https://itunes.apple.com/app/focus-productivity-timer/id975017240?mt=8) - Pomodoro timers
-- Pomodoro timers are really great as they give you a very specific time frame where you can focus.
-
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
 <img src="https://i.imgur.com/01RJrn2.jpg" width="500" alt="img">
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
 
 ## Related
-- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
 
 ## Contributing
 [Suggestions](../../issues/) and pull requests are highly encouraged!
