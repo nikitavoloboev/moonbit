@@ -50,7 +50,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - I really love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 ### 6. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
-- Really like it as a way to share my life through photographs, videos and stories.
+- Really like it as a way to share my life through photographs, videos and stories. I block camera and microphone access and only cross post edited photographs from VSCO.
 
 ### 7. [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 - My preferred client for browsing Reddit.
@@ -154,7 +154,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 ### 34. Apple Clock - Alarms & timers
 - I love that Apple finally added night mode to the app. I use it to set my alarms, timers (often created by Siri).
 
-## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os)
+## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 <img src="https://i.imgur.com/01RJrn2.jpg" width="500" alt="img">
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os) going over what applications I use on macOS.
