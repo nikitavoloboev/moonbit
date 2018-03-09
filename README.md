@@ -50,7 +50,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - I really love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 ### 6. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
-- Really like it as a way to share my life through photographs, videos and stories. I block camera and microphone access and only cross post edited photographs from VSCO.
+- Really like it as a way to share my life through photographs, videos and stories.
+- I block [camera and microphone access](https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023) and only cross post edited photographs from VSCO.
 
 ### 7. [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 - My preferred client for browsing Reddit.
