@@ -2,13 +2,13 @@
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/mrWDYXC.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/tdRKBBh.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/ghV6y0v.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/04HIo7S.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/7XRVnAe.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/b7HA1ee.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -39,7 +39,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by thei
 - I can seperate the tasks by tags and filter through everything nicely. I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 
 ### 3. [Day One](https://dayoneapp.com) - Digital journal
-- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to journals like `Photo a Day`, `Travel` and `Feelings`.
+- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to journals like `Life`, `Travel` and `Feelings`.
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 ### 4. [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8) - Twitter client
