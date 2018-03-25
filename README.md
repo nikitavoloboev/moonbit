@@ -84,6 +84,9 @@ out on silent pauses.
 - Ulysses is my go-to place for anything I want to write.
 - I mostly use the app to sometimes make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
+### 15. [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
+- Use the app to block annoying ads and tracking in Safari.
+
 ### 15. [iBooks](https://www.apple.com/ibooks/)
 - Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles really well. It also syncs my notes and highlights as I read the book.
 
