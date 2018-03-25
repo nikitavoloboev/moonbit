@@ -164,7 +164,7 @@ out on silent pauses.
 - I love that Apple finally added night mode to the app. I use it to set my alarms, timers (often created by Siri).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
-<img src="https://i.imgur.com/DqMMpjd.jpg" width="500" alt="img">
+<img src="https://i.imgur.com/zAKij1K.jpg" width="500" alt="img">
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
 
