@@ -53,7 +53,12 @@ out on silent pauses.
 ### 6. [Streaks](https://streaksapp.com) - Habit tracker
 - Do something often enough and it becomes a habit. I try to cultivate and grow new heathly habits with time.
 - I use the app to list the habits I hope to integrate in my life. If I get 60 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
-<img src="https://i.imgur.com/gsfrdvu.jpg" width="500" alt="img">
+
+<a align="center">
+    <img width="200" heigth="400" src="https://i.imgur.com/d1hDlYW.jpg"></a>
+
+<a align="center">
+    <img width="200" heigth="400" src="https://i.imgur.com/391f0WS.jpg"></a>
 
 ### 7. [Strong](http://strongapp.io) - Workout tracker
 - I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
@@ -87,35 +92,35 @@ out on silent pauses.
 ### 15. [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
 - Use the app to block annoying ads and tracking in Safari.
 
-### 15. [iBooks](https://www.apple.com/ibooks/)
+### 16. [iBooks](https://www.apple.com/ibooks/)
 - Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles really well. It also syncs my notes and highlights as I read the book.
 
-### 16. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
+### 17. [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
 - Really like it as a way to share my life through photographs, videos and stories.
 - I block [camera and microphone access](https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023) and only cross post edited photographs from VSCO.
 
-### 17. [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
+### 18. [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 - Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily.
 
-### 18. [V for Wiki](http://v-for-wiki.com) - Wiki reader
+### 19. [V for Wiki](http://v-for-wiki.com) - Wiki reader
 - A really amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
 
-### 19. [Anki](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app) - Intelligent flash cards
+### 20. [Anki](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app) - Intelligent flash cards
 - I often use it to review cars I have made. It uses very powerful [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to memorise things into your long term memory.
 
-### 20. [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
+### 21. [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
 - Use it quickly review various mind maps I made. I really like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
-### 21. [Dropbox](https://www.dropbox.com/iphoneapp) - File hosting
+### 22. [Dropbox](https://www.dropbox.com/iphoneapp) - File hosting
 - Use it to sync files between my devices. I also use it to sync some applications like YNAB.
 
-### 22. [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
+### 23. [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 - I only keep essential teams I am signed up for on iOS.
 
-### 23. [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
+### 24. [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
 - Can't live without the app. It holds all my passwords and anything private so that I only need to rememeber one thing. My master password.
 
-### 24. [GitPoint](https://gitpoint.co/) - GitHub app
+### 25. [GitPoint](https://gitpoint.co/) - GitHub app
 - Use it to browse GitHub and sometimes respond to issues on GitHub.
 
 ### 25. [Slidebox](http://slidebox.co/) - Remove images
