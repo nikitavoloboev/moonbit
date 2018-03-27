@@ -2,13 +2,13 @@
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="300" heigth="400" src="https://i.imgur.com/2HOSNBE.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/2HOSNBE.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="300" heigth="400" src="https://i.imgur.com/vIKiul6.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/vIKiul6.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="300" heigth="400" src="https://i.imgur.com/5qTNhZZ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/5qTNhZZ.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
