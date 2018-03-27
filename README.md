@@ -55,10 +55,10 @@ out on silent pauses.
 - I use the app to list the habits I hope to integrate in my life. If I get 60 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
 
 <a align="center">
-    <img width="250" heigth="400" src="https://i.imgur.com/d1hDlYW.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/d1hDlYW.jpg"></a>
 
 <a align="center">
-    <img width="250" heigth="400" src="https://i.imgur.com/391f0WS.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/391f0WS.jpg"></a>
 
 ### 7. [Strong](http://strongapp.io) - Workout tracker
 - I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
