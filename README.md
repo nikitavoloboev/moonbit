@@ -171,7 +171,7 @@ out on silent pauses.
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 <img src="https://i.imgur.com/zAKij1K.jpg" width="600" alt="img">
 
-If you found this interesting, I also have a similar repository going over what [applications I use on macOS](https://github.com/nikitavoloboev/my-mac-os#readme).
+If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
 
 ## Related
 - [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
