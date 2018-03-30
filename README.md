@@ -47,7 +47,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 - My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customised the app to work with my own gestures.
-<img src="https://i.imgur.com/dTIq5WI.jpg" width="500" alt="img">
 
 #### [AirMail](http://airmailapp.com/ios) - Mail client
 - My favourite email client that I really like due its simplicity of UI and also UX.
