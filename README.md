@@ -64,7 +64,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
-- Do something often enough and it becomes a habit. I try to cultivate and grow new heathly habits with time.
+- Do something often enough and it becomes a habit. I try to [cultivate and grow new heathly habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
 - I use the app to list the habits I hope to integrate in my life. If I get 60 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
 
 #### [Strong](http://strongapp.io) - Workout tracker
