@@ -170,7 +170,8 @@ out on silent pauses.
 
 ## Widgets
 Here are the widgets I use:
-<img src="https://i.imgur.com/wrUTCkN.jpg" width="500" alt="img">
+
+<img src="https://i.imgur.com/wrUTCkN.jpg" width="200" alt="img">
 
 I use `Up Next` to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com) to mark of habits I have completed throughout the day. I use Activity Feed to quickly mark off certain locations I have been too to [Day One](https://dayoneapp.com) and [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day.
 
