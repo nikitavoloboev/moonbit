@@ -22,6 +22,7 @@
 	- [Utilities](#utilities)
 	- [Write](#write)
 	- [Music](#music)
+- [Widgets](#widgets)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -166,6 +167,12 @@ out on silent pauses.
 ### Music
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 - Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily.
+
+## Widgets
+Here are the widgets I use:
+![](https://i.imgur.com/wrUTCkN.jpg)
+
+I use `Up Next` to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com) to mark of habits I have completed throughout the day. I use Activity Feed to quickly mark off certain locations I have been too to [Day One](https://dayoneapp.com) and [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 <img src="https://i.imgur.com/zAKij1K.jpg" width="600" alt="img">
