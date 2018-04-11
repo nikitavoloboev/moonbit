@@ -2,13 +2,13 @@
 > A list of applications and tools I use that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2HOSNBE.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/vIBgeqK.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/vIKiul6.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/a8sg9U6.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/5qTNhZZ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/S7ZDr52.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -129,7 +129,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 out on silent pauses.
 
 #### [YNAB Classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8) - Budget manager
-- My budget tracker of choice. I really love the app for its ideology of being more proactive with your money.
+- My budget tracker of choice. Currently waiting for [Actual](https://www.producthunt.com/upcoming/actual) to release an iOS app.
 - I set a budget for every category and try to fall within the bounds of my budget whilst I track every cent I spend.
 
 #### [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
