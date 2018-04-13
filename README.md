@@ -50,7 +50,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customised the app to work with my own gestures.
 
 #### [AirMail](http://airmailapp.com/ios) - Mail client
-- My favourite email client that I really like due its simplicity of UI and also UX.
+- My favourite email client that I love due its simplicity of UI and also UX.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 - I only keep essential teams I am signed up for on iOS.
