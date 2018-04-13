@@ -82,7 +82,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I use it to mostly view what is ahead in my schedule for Today. I often make actual plans on the mac.
 
 #### [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
-- Use it quickly review various mind maps I made. I really like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
+- Use it quickly review various mind maps I made. I like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
 ### Photos
 #### [Photos](http://www.apple.com/lae/ios/photos/) - Photo library
@@ -94,7 +94,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I then post the edited photos I like to Instagram.
 
 #### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
-- Really like it as a way to share my life through photographs, videos and stories.
+- Like it as a way to share my life through photographs, videos and stories.
 - I block [camera and microphone access](https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023) and only cross post edited photographs from VSCO.
 
 #### [Slidebox](http://slidebox.co/) - Remove images
@@ -102,16 +102,16 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Learn
 #### [iBooks](https://www.apple.com/ibooks/)
-- Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles really well. It also syncs my notes and highlights as I read the book.
+- Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles well. It also syncs my notes and highlights as I read the book.
 
 #### [V for Wiki](http://v-for-wiki.com) - Wiki reader
-- A really amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
+- Amazing and beautiful Wikipedia reader. The typography of it and the design makes you explore and easily get lost in reading the wiki.
 
 #### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
 - Use the app to read articles on Medium.
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
-- All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing any Trello board I need really quick.
+- All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing any Trello board I need quickly.
 
 #### [Anki](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app) - Intelligent flash cards
 - I often use it to review cars I have made. It uses very powerful [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to memorise things into your long term memory.
