@@ -1,5 +1,5 @@
 # My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
-> List of applications and tools I use that make my iOS experience even more amazing
+> List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/vIBgeqK.jpg"></a>
