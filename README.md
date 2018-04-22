@@ -189,7 +189,7 @@ If you found this interesting, I also have a [similar repository](https://github
 I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](../../issues/new).
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
 ## License
 MIT © [Nikita Voloboev](https://nikitavoloboev.xyz)
