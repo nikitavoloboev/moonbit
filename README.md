@@ -78,7 +78,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
 - Use it to read PDF books and documents. I use and love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
 
-#### [Week Cal](https://itunes.apple.com/app/id381059732) - Calendar
+#### [Week Calendar](https://itunes.apple.com/app/id381059732)
 - I use it to mostly view what is ahead in my schedule for Today. I often make actual plans on the mac.
 
 #### [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
