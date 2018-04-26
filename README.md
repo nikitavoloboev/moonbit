@@ -173,7 +173,7 @@ Here are the widgets I use:
 
 <img src="https://i.imgur.com/QUrbsDT.jpg" width="200" alt="img">
 
-I use [Week cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 <img src="https://i.imgur.com/zAKij1K.jpg" width="600" alt="img">
