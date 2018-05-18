@@ -2,13 +2,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/bvChc4o.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/lqZPG7s.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/of1rNCs.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/e0gEkdn.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/uifGeML.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/vUFWJvc.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -128,10 +128,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I really love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut
 out on silent pauses.
 
-#### [YNAB Classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8) - Budget manager
-- My budget tracker of choice. Currently waiting for [Actual](https://www.producthunt.com/upcoming/actual) to release an iOS app.
-- I set a budget for every category and try to fall within the bounds of my budget whilst I track every cent I spend.
-
 #### [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
 - Use the app to block annoying ads and tracking in Safari.
 
@@ -140,9 +136,6 @@ out on silent pauses.
 
 #### [Due](http://www.dueapp.com) - Quick timers
 - Use it to quickly set timers and reminders. The UI is geared towards making the process of setting a reminder of any kind super quickly.
-
-#### [CityMaps2Go](https://itunes.apple.com/us/app/citymaps2go-pro-trip-planner/id327783342?mt=8) - Local maps
-- Love it for its ability to download maps locally. This helps especially when I am travelling to areas where I don' have 3G internet.
 
 #### [Launch Centre Pro](https://contrast.co/launch-center-pro/) - Quick programable actions
 - iOS version of [Alfred](https://www.alfredapp.com) Launcher.
