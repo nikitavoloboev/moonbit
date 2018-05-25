@@ -97,9 +97,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - Like it as a way to share my life through photographs, videos and stories.
 - I block [camera and microphone access](https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023) and only cross post edited photographs from VSCO.
 
-#### [Slidebox](http://slidebox.co/) - Remove images
-- Apple's Photos app has no easy way to delete multiple photographs. This solves it.
-
 ### Learn
 #### [iBooks](https://www.apple.com/ibooks/)
 - Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles well. It also syncs my notes and highlights as I read the book.
@@ -112,12 +109,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
 - All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing any Trello board I need quickly.
-
-#### [Anki](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app) - Intelligent flash cards
-- I often use it to review cars I have made. It uses very powerful [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to memorise things into your long term memory.
-
-#### [Quora](https://itunes.apple.com/us/app/quora/id456034437?mt=8) - Question and answer site
-- Sometimes use it to read through Quora questions although I often dislike the quality of the questions you get as it is often the same things being asked and answered.
 
 ### Utilities
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
@@ -138,10 +129,8 @@ out on silent pauses.
 - Use it to quickly set timers and reminders. The UI is geared towards making the process of setting a reminder of any kind super quickly.
 
 #### [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
-- My life is fully digital.
-- This means I scan every paper I write on.
-	- When I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly.
-	- From there I can search for anything that I want quickly
+- My life is fully digital. This means I scan every paper I write on.
+- When I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. From there I can search for anything that I want quickly
 
 #### Apple Clock - Alarms & timers
 - I love that Apple finally added night mode to the app. I use it to set my alarms, timers (often created by Siri).
