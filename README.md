@@ -49,11 +49,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 - My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customised the app to work with my own gestures.
 
-#### [AirMail](http://airmailapp.com/ios) - Mail client
-- My favourite email client that I love due its simplicity of UI and also UX.
+#### [Airmail](http://airmailapp.com/ios) - Mail client
+- My favourite email client that I love due its simplicity of UI and UX.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
-- I only keep essential teams I am signed up for on iOS.
+- I only keep essential teams I am signed up on there.
 
 ### Productivity
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
@@ -61,12 +61,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I can seperate the tasks by tags and filter through everything nicely. I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 
 #### [Day One](https://dayoneapp.com) - Digital journal
-- I often use it to check on events that happened to me `On this day`. As well as adding quick entries to [my journals](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html) like `Life` and `Travel`.
+- I often use it to check on events that happened to me `On this day`.
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 - Do something often enough and it becomes a habit. I try to [cultivate and grow new heathly habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
-- I use the app to list the habits I hope to integrate in my life. If I get 60 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
+- I use the app to list the habits I hope to integrate in my life. If I get 30 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
 
 #### [Strong](http://strongapp.io) - Workout tracker
 - I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
@@ -137,12 +137,6 @@ out on silent pauses.
 #### [Due](http://www.dueapp.com) - Quick timers
 - Use it to quickly set timers and reminders. The UI is geared towards making the process of setting a reminder of any kind super quickly.
 
-#### [Launch Centre Pro](https://contrast.co/launch-center-pro/) - Quick programable actions
-- iOS version of [Alfred](https://www.alfredapp.com) Launcher.
-- [Here](http://i.imgur.com/rdhb6gP.png) is how my main screen of it looks
-	- Here is [web](http://i.imgur.com/xdSOiSe.png) and [life](http://i.imgur.com/LE2E1eL.png) sections of it.
-- I actually don't use it as much as I would like to as everything is already fast w/o a need of a launcher. But I like how I can make searches scoped to some site.
-
 #### [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
 - My life is fully digital.
 - This means I scan every paper I write on.
@@ -164,7 +158,7 @@ out on silent pauses.
 ## Widgets
 Here are the widgets I use:
 
-<img src="https://i.imgur.com/QUrbsDT.jpg" width="200" alt="img">
+<img src="https://i.imgur.com/IFDBUNr.jpg" width="200" alt="img">
 
 I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
 
