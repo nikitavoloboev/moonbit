@@ -2,13 +2,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/lqZPG7s.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/sD3Gsgq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/e0gEkdn.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/NJyvMtI.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/vUFWJvc.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/p4akGww.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -147,9 +147,9 @@ out on silent pauses.
 ## Widgets
 Here are the widgets I use:
 
-<img src="https://i.imgur.com/IFDBUNr.jpg" width="200" alt="img">
+<img src="https://i.imgur.com/Vt8rx2I.jpg" width="300" alt="img">
 
-I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
