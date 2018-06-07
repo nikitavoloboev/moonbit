@@ -116,7 +116,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Overcast](https://overcast.fm) - Podcasts
 - Let's me listen to the plethora of podcasts I love.
-- I really love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut
+- I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut
 out on silent pauses.
 
 #### [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
