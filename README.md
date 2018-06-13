@@ -72,7 +72,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
-- I use the app mainly as my meal planner of recipes I want to make during the day. Often I make the meal plans on my mac and then just view the things I plan to eat from my phone and cook it. I try to always cook my own food.
+- I use the app mainly as my meal planner for [recipes](https://github.com/nikitavoloboev/recipes#readme) I want to make during the day. Often I make the meal plans on my mac and then just view the things I plan to eat from my phone and cook it. I try to always cook my own food.
 - I also use it as my shopping list.
 
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
