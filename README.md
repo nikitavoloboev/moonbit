@@ -33,7 +33,7 @@ do everything I can do on the phone, faster and better on the laptop. Thus I fin
 
 With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all times is exhausting and addictive.
 
-I use my phone when I am not using my computer. I use it to read books, update my budget, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read wikipedia, answer messages on slack, telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main ones. With that said, I try to use the best tools that I can to get these tasks completed.
+I use my phone when I am not using my computer. I use it to read books, update my budget, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read Wikipedia, answer messages on slack, telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main ones. With that said, I try to use the best tools that I can to get these tasks completed.
 
 ## Applications
 Here is a list of apps that I use the most in my day to day life, sorted by category and their importance.
@@ -44,13 +44,13 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I also use the app to quickly send media/messages between my mac and the phone.
 
 #### [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8) - Twitter client
-- My favourite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
+- My favorite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
 
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
-- My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customised the app to work with my own gestures.
+- My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customized the app to work with my own gestures.
 
 #### [Airmail](http://airmailapp.com/ios) - Mail client
-- My favourite email client that I love due its simplicity of UI and UX.
+- My favorite email client that I love due its simplicity of UI and UX.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 - I only keep essential teams I am signed up on there.
@@ -58,14 +58,14 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 ### Productivity
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 - My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
-- I can seperate the tasks by tags and filter through everything nicely. I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
+- I can separate the tasks by tags and filter through everything nicely. I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 
 #### [Day One](https://dayoneapp.com) - Digital journal
 - I often use it to check on events that happened to me `On this day`.
 - I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
-- Do something often enough and it becomes a habit. I try to [cultivate and grow new heathly habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
+- Do something often enough and it becomes a habit. I try to [cultivate and grow new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
 - I use the app to list the habits I hope to integrate in my life. If I get 30 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
 
 #### [Strong](http://strongapp.io) - Workout tracker
@@ -86,7 +86,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Photos
 #### [Photos](http://www.apple.com/lae/ios/photos/) - Photo library
-- Right now my photos are a mess and I can't find a good way to organise them well like I can with [Pixave](http://www.littlehj.com/).
+- Right now my photos are a mess and I can't find a good way to organize them well like I can with [Pixave](http://www.littlehj.com/).
 - But nevertheless this is the only place right now where I can store my personal images.
 
 #### [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Image editor and photo sharing
@@ -112,7 +112,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Utilities
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
-- Can't live without the app. It holds all my passwords and anything private so that I only need to rememeber one thing. My master password.
+- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 - Let's me listen to the plethora of podcasts I love.
@@ -130,7 +130,7 @@ out on silent pauses.
 
 #### [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
 - My life is fully digital. This means I scan every paper I write on.
-- When I do that, the image gets dropped to my dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. From there I can search for anything that I want quickly
+- When I do that, the image gets dropped to my Dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. From there I can search for anything that I want quickly
 
 #### Apple Clock - Alarms & timers
 - I love that Apple finally added night mode to the app. I use it to set my alarms, timers (often created by Siri).
@@ -153,7 +153,7 @@ Here are the widgets I use:
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/SK4iY82.jpg"></a>
 
-I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favouries` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favorites` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
@@ -167,7 +167,7 @@ If you found this interesting, I also have a [similar repository](https://github
 ## Contributing
 [Suggestions](../../issues/) and pull requests are highly encouraged!
 
-I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](../../issues/new).
+I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](../../issues/new).
 
 ## Thank you 💜
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
