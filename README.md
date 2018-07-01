@@ -5,10 +5,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/MqhYnpE.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/3hI9N9t.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/CcYlsSg.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ArakUCa.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/rD6DEmB.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -49,7 +49,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 - My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customized the app to work with my own gestures.
 
-#### [Airmail](http://airmailapp.com/ios) - Mail client
+#### [Spark](https://sparkmailapp.com) - Mail client
 - My favorite email client that I love due its simplicity of UI and UX.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
@@ -66,7 +66,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 - Do something often enough and it becomes a habit. I try to [cultivate and grow new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
-- I use the app to list the habits I hope to integrate in my life. If I get 30 ongoing repetitions, I remove the habit and add new ones. Here is how it looks for me now:
+- I use the app to list the habits I hope to integrate in my life. If I get 30 ongoing repetitions, I remove the habit and add new ones.
 
 #### [Strong](http://strongapp.io) - Workout tracker
 - I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
@@ -119,7 +119,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut
 out on silent pauses.
 
-#### [Adguard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
+#### [AdGuard](https://itunes.apple.com/us/app/adguard-adblock-privacy/id1047223162?mt=8) - Safari ad blocker
 - Use the app to block annoying ads and tracking in Safari.
 
 #### [Dropbox](https://www.dropbox.com/iphoneapp) - File hosting
@@ -128,7 +128,7 @@ out on silent pauses.
 #### [Due](http://www.dueapp.com) - Quick timers
 - Use it to quickly set timers and reminders. The UI is geared towards making the process of setting a reminder of any kind super quickly.
 
-#### [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
+#### [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
 - My life is fully digital. This means I scan every paper I write on.
 - When I do that, the image gets dropped to my Dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. From there I can search for anything that I want quickly
 
@@ -153,7 +153,29 @@ Here are the widgets I use:
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/SK4iY82.jpg"></a>
 
-I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [Scanbot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favorites` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favorites` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+
+## Screen Time
+I loved how iOS 12 added the Screen Time feature where now you could set limits to apps & websites as well as set a Downtime time in which only apps you want to use are activated and the rest are disabled. I have turned on Downtime to activate from 10 PM to 9 AM:
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/cyeL6uv.jpg"></a>
+
+Here are the limits I currently have set for apps/websites:
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/xukZlAF.jpg"></a>
+
+And here are the apps that I allow during Downtime:
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/XBXzdyt.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/3SNsmQI.jpg"></a>
+
+The other awesome utility from Screen Time is how I can analyze how I spend the time on my phone and which apps I use the most alongside what notifications get sent to me the most often. I try to cut out any notifications that bring no value to me and the only notifications that can reach me are from my task manager, calendar and Telegram.
+
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
