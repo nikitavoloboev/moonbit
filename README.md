@@ -2,7 +2,7 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/MqhYnpE.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Ew6Ldsn.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/CcYlsSg.jpg"></a>
