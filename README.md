@@ -176,6 +176,11 @@ And here are the apps that I allow during Downtime:
 
 The other awesome utility from Screen Time is how I can analyze how I spend the time on my phone and which apps I use the most alongside what notifications get sent to me the most often. I try to cut out any notifications that bring no value to me and the only notifications that can reach me are from my task manager, calendar and Telegram.
 
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/JfK3sGN.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/ZVlqG73.jpg"></a>
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
