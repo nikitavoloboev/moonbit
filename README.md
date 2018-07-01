@@ -23,6 +23,7 @@
 	- [Write](#write)
 	- [Music](#music)
 - [Widgets](#widgets)
+- [Screen Time](#screen-time)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
