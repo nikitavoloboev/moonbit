@@ -159,6 +159,7 @@ I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events tha
 
 ## Control Center
 Here is how my control center looks:
+
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/Q92BBjx.jpg"></a>
 
