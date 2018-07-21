@@ -2,13 +2,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Ew6Ldsn.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/fFDNOC2.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/CcYlsSg.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/qyK9YZx.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/rD6DEmB.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/G0j4Yz6.jpg"></a>
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -80,9 +80,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
 - Use it to read PDF books and documents. I use and love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
 
-#### [Week Calendar](https://itunes.apple.com/app/id381059732)
-- I use it to mostly view what is ahead in my schedule for Today. I often make actual plans on the mac.
-
 #### [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
 - Use it quickly review various mind maps I made. I like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
@@ -150,12 +147,12 @@ out on silent pauses.
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/5d6NJgK.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/G1CuImo.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/SK4iY82.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/zdk10rz.jpg"></a>
 
-I use [Week Cal](https://itunes.apple.com/app/id381059732) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favorites` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
+I use [Fantastical](https://flexibits.com/fantastical-iphone) to see the events that are coming soon on my schedule. I use [Streaks](https://streaksapp.com/) to mark of habits I have completed throughout the day. I use [Trello](https://trello.com) to quickly add any [ideas](https://trello.com/b/alB1ryRP) or things to Trello. I use [Swarm](https://www.swarmapp.com) to quickly mark off certain locations I have been too. I use [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) to see the recipes I have planned to eat/cook for the day. [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) to quickly make a scan, `Favorites` to quickly make calls and [Overcast](https://overcast.fm) to see the current & upcoming podcast episodes.
 
 ## Control Center
 Here is how my control center looks:
