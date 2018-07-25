@@ -81,7 +81,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - Use it to read PDF books and documents. I use and love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
 
 #### [MindNode](https://mindnode.com/mindnode/ios) - Interactive Mind Mapping
-- Use it quickly review various mind maps I made. I like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
+- Use it quickly review various mind maps I made. I like the mind mapping format and I wrote about it in more detail [here](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
 ### Photos
 #### [Photos](http://www.apple.com/lae/ios/photos/) - Photo library
