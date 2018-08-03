@@ -124,9 +124,6 @@ out on silent pauses.
 #### [Dropbox](https://www.dropbox.com/iphoneapp) - File hosting
 - Use it to sync files between my devices. I also use it to sync some applications like YNAB.
 
-#### [Due](http://www.dueapp.com) - Quick timers
-- Use it to quickly set timers and reminders. The UI is geared towards making the process of setting a reminder of any kind super quickly.
-
 #### [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
 - My life is fully digital. This means I scan every paper I write on.
 - When I do that, the image gets dropped to my Dropbox folder and from there gets picked up by [Pixave](http://www.littlehj.com/) and sorted accordingly. From there I can search for anything that I want quickly
