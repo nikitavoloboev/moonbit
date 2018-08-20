@@ -97,7 +97,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 - I block [camera and microphone access](https://medium.com/@damln/instagram-is-listening-to-you-97e8f2c53023) and only cross post edited photographs from VSCO.
 
 ### Learn
-#### [iBooks](https://www.apple.com/ibooks/)
+#### [Books](https://www.apple.com/ibooks/)
 - Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles well. It also syncs my notes and highlights as I read the book.
 
 #### [V for Wiki](http://v-for-wiki.com) - Wiki reader
@@ -186,7 +186,7 @@ The other awesome utility from Screen Time is how I can analyze how I spend the 
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
 
