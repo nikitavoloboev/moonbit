@@ -101,11 +101,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Image editor and photo sharing
 
-- Use it to quickly edit photographs I made as I much prefer its filters and editing options than other photo editors. I then post the edited photos I like to [Instagram](https://www.instagram.com/nikitavoloboev/).
+- Use it to quickly edit photographs I made as I much prefer its filters and editing options than other photo editors. I then post the edited photos I like to Instagram.
 
 #### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
 
-- Like it as a way to share my life through photographs, videos and stories.
+- Like it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
 
 ### Learn
 
