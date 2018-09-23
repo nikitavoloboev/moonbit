@@ -166,7 +166,7 @@ I plan to make more Shortcuts for automating my browser use.
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
-![](https://i.imgur.com/8Jm0ete.jpg)
+<img src="https://i.imgur.com/8Jm0ete.jpg" width="300" alt="img">
 
 ## Widgets
 
