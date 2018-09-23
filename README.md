@@ -178,7 +178,7 @@ Here is how my control center looks:
 
 ## Shortcuts
 
-Here are all the Shortcuts I've made and use in [Shortcuts app](https://support.apple.com/guide/shortcuts/welcome/ios). I activate all of them with Siri.
+Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I've made and use. I activate all of them with Siri.
 
 - [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
 
