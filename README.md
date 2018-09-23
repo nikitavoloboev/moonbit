@@ -22,6 +22,7 @@
   - [Utilities](#utilities)
   - [Write](#write)
   - [Music](#music)
+- [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Control Center](#control-center)
 - [Shortcuts](#shortcuts)
