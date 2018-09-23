@@ -24,6 +24,7 @@
   - [Music](#music)
 - [Widgets](#widgets)
 - [Control Center](#control-center)
+- [Shortcuts](#shortcuts)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -174,6 +175,12 @@ Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/Vvb0eWJ.jpg"></a>
+
+## Shortcuts
+
+Here are all the Shortcuts I've made and use in [Shortcuts app](https://support.apple.com/guide/shortcuts/welcome/ios). I activate all of them with Siri.
+
+- [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
