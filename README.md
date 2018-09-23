@@ -159,6 +159,14 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily.
 
+## Safari Browser
+
+I plan to make more Shortcuts for automating my browser use.
+
+One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
+
+![](https://i.imgur.com/8Jm0ete.jpg)
+
 ## Widgets
 
 Here are the widgets I use:
