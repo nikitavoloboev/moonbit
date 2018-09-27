@@ -22,6 +22,7 @@
   - [Utilities](#utilities)
   - [Write](#write)
   - [Music](#music)
+  - [Travel](#travel)
 - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Control Center](#control-center)
@@ -133,16 +134,19 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing any Trello board I need quickly.
 
+#### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
+
+- I have very low attention span on reading books so listening to audibooks is perfect for me. I listen to either a podcast or an audiobook when I am commuting or going to sleep.
+
+#### [Overcast](https://overcast.fm) - Podcasts
+
+- Lets me listen to the plethora of podcasts I love. I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+
 ### Utilities
 
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
 
 - Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
-
-#### [Overcast](https://overcast.fm) - Podcasts
-
-- Lets me listen to the plethora of podcasts I love.
-- I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 #### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
 
@@ -162,7 +166,17 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 
-- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and share playlists easily.
+- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and [share playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) easily.
+
+### Travel
+
+#### [Foursquare](https://itunes.apple.com/us/app/foursquare-city-guide/id306934924?mt=8) - Restaurants and bars nearby
+
+- Use the app to mark all the places I've been too and make many lists of places I've liked.
+
+#### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
+
+- Prefer using it over Apple Maps.
 
 ## Safari Browser
 
