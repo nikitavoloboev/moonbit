@@ -47,7 +47,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
-- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) and work on tasks based on priority. I wrote more on how I use the app [here]().
+- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) and work on tasks based on priority.
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
