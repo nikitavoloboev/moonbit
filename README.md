@@ -221,6 +221,10 @@ Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/i
 - [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
 - [Open Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
 
+#### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
+
+- Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005/2) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
+
 ### Safari Browser
 
 I plan to make more Shortcuts for automating my browser use.
