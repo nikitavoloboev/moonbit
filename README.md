@@ -26,6 +26,7 @@
 - [Widgets](#widgets)
 - [Control Center](#control-center)
 - [Shortcuts](#shortcuts)
+- [Games](#games)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
