@@ -219,6 +219,7 @@ Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/i
 - [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
 - [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
 - [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
+- [Open Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
 
 ### Safari Browser
 
