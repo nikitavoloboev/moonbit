@@ -23,6 +23,7 @@
   - [Write](#write)
   - [Music](#music)
   - [Travel](#travel)
+  - [Health](#health)
 - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Control Center](#control-center)
@@ -54,6 +55,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
 - If I get 30 ongoing repetitions, I've learned the habit, I remove it and add new ones.
+
+#### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
+
+- Prefer it to stock calendar app due to a cleaner design and ability to add events quickly with natural language.
 
 #### [Strong](http://strongapp.io) - Workout tracker
 
@@ -148,6 +153,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
 
+#### [Google Assistant](https://itunes.apple.com/us/app/google-assistant/id1220976145?mt=8)
+
+- Other than Siri shortcuts, Siri is still very limited in what it can do. Gooogle assistant is much better at understanding a [broad range of commands](http://ok-google.io).
+
 #### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
 
 - Use the app to block annoying ads and tracking in Safari.
@@ -177,6 +186,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
 
 - Prefer using it over Apple Maps.
+
+### Health
+
+#### [MyFitnessPal](https://itunes.apple.com/us/app/myfitnesspal/id341232718?mt=8) - Calorie Counter & Diet Tracker
+
+- Use the app to track all the food I eat. I eat a whole food plant based diet.
 
 ## Safari Browser
 
