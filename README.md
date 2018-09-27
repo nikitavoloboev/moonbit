@@ -70,6 +70,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use it to read PDF books and documents. I love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
 
+#### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
+
+- Use the app for listening to background noise as I dislike listening to music when trying to focus. I also use it to practice focused meditation.
+
 ### Social
 
 #### [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8) - Messenger
@@ -107,6 +111,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Like it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
 
+#### [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) - Photo & Album Organizer
+
+- Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some library and this app lets me easily do that.
+
 ### Learn
 
 #### [Books](https://www.apple.com/ibooks/)
@@ -129,7 +137,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
 
-- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password.
+- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
