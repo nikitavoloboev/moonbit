@@ -24,10 +24,11 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Health](#health)
-- [Safari Browser](#safari-browser)
+  - [Automation](#automation)
+    - [Shortcuts](#shortcuts)
+  - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Control Center](#control-center)
-- [Shortcuts](#shortcuts)
 - [Games](#games)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
@@ -209,7 +210,15 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use the app to track all the food I eat. I eat a whole food plant based diet.
 
-## Safari Browser
+### Automation
+
+#### Shortcuts
+
+Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I've made and use. I activate all of them with Siri.
+
+- [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
+
+### Safari Browser
 
 I plan to make more Shortcuts for automating my browser use.
 
@@ -236,12 +245,6 @@ Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/Vvb0eWJ.jpg"></a>
-
-## Shortcuts
-
-Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I've made and use. I activate all of them with Siri.
-
-- [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
 
 ## Games
 
