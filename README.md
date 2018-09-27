@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Ich2ZBl.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/u9AVOFm.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/jCP8a7Q.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/61ODEL1.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/dGfXpsg.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/m6R733p.jpg"></a>
 
 ##### Contents
 
@@ -46,13 +46,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
-- My task manager of choice. I mostly use it to view the tasks I have made on the mac that I need to complete for today.
-- I can separate the tasks by tags and filter through everything nicely. I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
+- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) and work on tasks based on priority. I wrote more on how I use the app [here]().
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Do something often enough and it becomes a habit. I try to [cultivate and grow new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
-- I use the app to list the habits I hope to integrate in my life. If I get 30 ongoing repetitions, I remove the habit and add new ones.
+- Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
+- If I get 30 ongoing repetitions, I've learned the habit, I remove it and add new ones.
 
 #### [Strong](http://strongapp.io) - Workout tracker
 
@@ -60,17 +59,15 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Day One](https://dayoneapp.com) - Digital journal
 
-- I often use it to check on events that happened to me `On this day`.
-- I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
+- I often use it to check on events that happened to me `On this day`. I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
-- I use the app mainly as my meal planner for [recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I want to make during the day. Often I make the meal plans on my mac and then just view the things I plan to eat from my phone and cook it. I try to always cook my own food.
-- I also use it as my shopping list.
+- I use the app mainly as my meal planner for [recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I want to make during the day. I also use the app as a grocery list.
 
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
 
-- Use it to read PDF books and documents. I use and love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
+- Use it to read PDF books and documents. I love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
 
 ### Social
 
@@ -135,9 +132,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
-- Let's me listen to the plethora of podcasts I love.
-- I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut
-  out on silent pauses.
+- Lets me listen to the plethora of podcasts I love.
+- I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 #### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
 
@@ -151,8 +147,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- Ulysses is my go-to place for anything I want to write.
-- I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
+- Ulysses is my go-to place for anything I want to write. I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
 ### Music
 
@@ -173,10 +168,13 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/7Wsb8Ew.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/E9StJt0.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/XOWKRT2.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Y2QdYy8.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/ryP8ZZL.jpg"></a>
 
 ## Control Center
 
@@ -190,6 +188,20 @@ Here is how my control center looks:
 Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I've made and use. I activate all of them with Siri.
 
 - [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
+
+## Games
+
+I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
+
+<img src="https://i.imgur.com/CBIAsnK.jpg" width="400" alt="img">
+
+- [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
+- [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
+- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
+- [Human Resource Machine](https://itunes.apple.com/us/app/human-resource-machine/id1005098334?mt=8)
+- [the Sequence](https://itunes.apple.com/us/app/the-sequence/id1035217840?mt=8) - Build a sequence using special modules to transfer binary cell.
+- [the Sequence 2](https://itunes.apple.com/us/app/the-sequence-2/id1340353421?mt=8)
+- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
