@@ -214,9 +214,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### Shortcuts
 
-Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I've made and use. I activate all of them with Siri.
+Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate all of them with Siri or [control center](#control-center).
 
 - [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
+- [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
+- [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
 
 ### Safari Browser
 
