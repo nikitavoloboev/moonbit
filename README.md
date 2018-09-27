@@ -133,7 +133,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
 
-- Use the app to read articles on Medium.
+- Use the app to read articles on Medium in Night Mode.
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
 
@@ -160,6 +160,14 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Google Assistant](https://itunes.apple.com/us/app/google-assistant/id1220976145?mt=8)
 
 - Other than Siri shortcuts, Siri is still very limited in what it can do. Gooogle assistant is much better at understanding a [broad range of commands](http://ok-google.io).
+
+#### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
+
+- I store all my documents and files in iCloud, however I love using Google Docs/Sheets and I use IFTTT to log automatically various things like [saving all my liked YouTube videos to a Google Sheet](https://ifttt.com/applets/74691784d-save-all-of-your-liked-videos-in-a-spreadsheet).
+
+#### [GitHawk](http://githawk.com/) - GitHub on the Go
+
+- Use it respond to issues on GitHub as well as create issues to repositories.
 
 #### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
 
