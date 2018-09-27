@@ -97,7 +97,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Spark](https://sparkmailapp.com) - Mail client
 
-- My favorite email client that I love due its simplicity of UI and UX.
+- My favorite email client that I love due its simplicity of UI and UX as well as separation of emails based on their type (Inbox, newsletters) and ability to snooze emails.
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 
@@ -146,6 +146,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Overcast](https://overcast.fm) - Podcasts
 
 - Lets me listen to the plethora of podcasts I love. I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+
+#### [Reeder](http://reederapp.com/ios/) - RSS Reeder
+
+- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html).
 
 ### Utilities
 
