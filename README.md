@@ -177,6 +177,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - My life is fully digital. This means I scan every paper I write on.
 
+#### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
+
+- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance/finance.html) for the month accordingly.
+
 ### Write
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
