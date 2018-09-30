@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/u9AVOFm.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/QX0Udzb.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/61ODEL1.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/bXXQ2aV.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/m6R733p.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ETMBGXz.jpg"></a>
 
 ##### Contents
 
@@ -188,6 +188,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Ulysses is my go-to place for anything I want to write. I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
+#### [Taskmator](https://itunes.apple.com/us/app/taskmator-taskpaper-client/id806250172?mt=8) - TaskPaper Client
+
+- I use [TaskPaper](https://www.taskpaper.com/) on macOS to [brainstorm problems I am trying to solve](https://wiki.nikitavoloboev.xyz/research/solving-problems.html). This app lets me quickly edit my `Think` document on the go.
+
 ### Music
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
@@ -238,13 +242,13 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/E9StJt0.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/f2WPMmV.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Y2QdYy8.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ydlSmek.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ryP8ZZL.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/lmAzyHg.jpg"></a>
 
 ## Control Center
 
