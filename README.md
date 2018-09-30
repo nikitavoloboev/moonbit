@@ -1,4 +1,4 @@
-# My wonderful world of iOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# My wonderful world of iOS [![Thanks](http://bit.ly/saythankss)](https://patreon.com/nikitavoloboev)
 
 > List of applications and tools that make my iOS experience even more amazing
 
@@ -283,10 +283,8 @@ If you found this interesting, I also have a [similar repository](https://github
 
 I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](../../issues/new).
 
-## Thank you 💜
+## Thank you
 
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-## License
-
-MIT © [Nikita Voloboev](https://nikitavoloboev.xyz)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
