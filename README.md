@@ -282,9 +282,9 @@ I use Apple Watch as a way to track my health and fitness and view useful inform
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/KnciAZ9.jpg"></a>
 
-The left watch face show my current time and day, my activity, current or future calendar event (with Fantastical) and the current weather. I can also quickly start some fitness activity or a [Strong](http://strongapp.io) workout with a press of a button.
+The left watch face shows the current time and day, my activity streaks, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a [Strong](http://strongapp.io) workout with a press of a button.
 
-The right watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and ability to quickly start doing some breathing exercises. More importantly though it shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback with [AutoWake](https://autowake.tantsissa.com).
+The right watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and ability to quickly start doing some breathing exercises. More importantly though it shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
