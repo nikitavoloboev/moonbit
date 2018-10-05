@@ -274,13 +274,17 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## WatchOS
 
-I use Apple Watch as a way to track fitness information and workouts. Here is the watch face I am using currently:
+I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two watch faces, one for day to day use and one for morning/evening routines.
 
-![](https://i.imgur.com/Ir2ZY9Q.png)
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/gY6SzJv.jpg"></a>
 
-The complications I use show my current time and day, my activity, current or future calendar event (with Fantastical), current weather and battery. It also lets me quickly start a workout with a press of a button.
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/KnciAZ9.jpg"></a>
 
-I also use [AutoSleep](http://autosleep.tantsissa.com/) watch app to track my sleep.
+The left watch face show my current time and day, my activity, current or future calendar event (with Fantastical) and the current weather. I can also quickly start some fitness activity or a [Strong](http://strongapp.io) workout with a press of a button.
+
+The right watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and ability to quickly start doing some breathing exercises. More importantly though it shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback with [AutoWake](https://autowake.tantsissa.com).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
