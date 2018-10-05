@@ -30,6 +30,7 @@
 - [Widgets](#widgets)
 - [Control Center](#control-center)
 - [Games](#games)
+- [WatchOS](#watchos)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -270,6 +271,16 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 - [the Sequence](https://itunes.apple.com/us/app/the-sequence/id1035217840?mt=8) - Build a sequence using special modules to transfer binary cell.
 - [the Sequence 2](https://itunes.apple.com/us/app/the-sequence-2/id1340353421?mt=8)
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
+
+## WatchOS
+
+I use Apple Watch as a way to track fitness information and workouts. Here is the watch face I am using currently:
+
+![](https://i.imgur.com/Ir2ZY9Q.png)
+
+The complications I use show my current time and day, my activity, current or future calendar event (with Fantastical), current weather and batter. And it lets me quickly start a workout with a press of a button.
+
+And I use [AutoSleep](http://autosleep.tantsissa.com/) watch app to track my sleep.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
