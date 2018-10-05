@@ -278,9 +278,9 @@ I use Apple Watch as a way to track fitness information and workouts. Here is th
 
 ![](https://i.imgur.com/Ir2ZY9Q.png)
 
-The complications I use show my current time and day, my activity, current or future calendar event (with Fantastical), current weather and batter. And it lets me quickly start a workout with a press of a button.
+The complications I use show my current time and day, my activity, current or future calendar event (with Fantastical), current weather and battery. It also lets me quickly start a workout with a press of a button.
 
-And I use [AutoSleep](http://autosleep.tantsissa.com/) watch app to track my sleep.
+I also use [AutoSleep](http://autosleep.tantsissa.com/) watch app to track my sleep.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
