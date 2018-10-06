@@ -293,11 +293,11 @@ I use Apple Watch as a way to track my health and fitness and view useful inform
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/CP1Uqp0.jpg"></a>
 
-The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) and the amount of calories burned for the day. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
+The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) and the amount of calories I burned for the day. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The middle watch face is one I am using through the majority of the day. It shows the current time and day, my activity streaks, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a quick mindfulness break with some breathing exercises.
+The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, my activity rings, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a quick mindfulness break with some breathing exercises.
 
-The last watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and more importantly, shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
+The last watch face is one I activate in the evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and more importantly, shows information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
