@@ -232,7 +232,7 @@ Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/i
 - [Google](https://www.icloud.com/shortcuts/e72d6d2b97654736b93ea7bdcc46e949) - Triggered with Siri and a passed in query. i.e. `Google JavaScript` which then presents results on the phone itself.
 - [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
 - [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
-- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard person to some app or a person.
+- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard to some app or a person.
 
 #### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
