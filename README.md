@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/crA7nS3.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/YZj0YXO.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/qh3wFtP.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/m6Mzeio.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/C5VsmQS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/czl49Hc.jpg"></a>
 
 ##### Contents
 
@@ -219,12 +219,20 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### Shortcuts
 
-Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate all of them with Siri or [widgets](#widgets).
+![](https://i.imgur.com/BsiRZ9F.jpg)
 
-- [Make a Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html).
+> Grey colored ones are activated as widgets whilst blue are triggered from Siri
+
+Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use.
+
+- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine. Starts Overcast podcast, opens a list of my morning routine items (brush teeth, clean face, start working through my 2Do list) and completes Streaks morning routine habit.
+- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html) to make a scan. Scanbot then automatically puts the scan to my Scans folder in iCloud.
+- [Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
+- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to ask a question when Siri can't handle my query.
+- [Google](https://www.icloud.com/shortcuts/e72d6d2b97654736b93ea7bdcc46e949) - Triggered with Siri and a passed in query. i.e. `Google JavaScript` which then presents results on the phone itself.
 - [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
 - [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
-- [Open Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
+- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard person to some app or a person.
 
 #### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
@@ -243,13 +251,13 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/f2WPMmV.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/2sXiq4a.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ydlSmek.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/2OE7k7O.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/lmAzyHg.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/tzgyGqS.jpg"></a>
 
 ## Control Center
 
@@ -274,17 +282,22 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## WatchOS
 
-I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two watch faces, one for day to day use and one for morning/evening routines.
+I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use three watch faces. One for fitness tracking, one for day to day operations and one for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/gY6SzJv.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/wosH8bM.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KnciAZ9.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/msyccWR.jpg"></a>
 
-The left watch face shows the current time and day, my activity streaks, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a [Strong](http://strongapp.io) workout with a press of a button.
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/CP1Uqp0.jpg"></a>
 
-The right watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and ability to quickly start doing some breathing exercises. More importantly though it shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
+The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) and the amount of calories burned for the day. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
+
+The middle watch face is one I am using through the majority of the day. It shows the current time and day, my activity streaks, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a quick mindfulness break with some breathing exercises.
+
+The last watch face is one I activate in my evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and more importantly, shows me information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
