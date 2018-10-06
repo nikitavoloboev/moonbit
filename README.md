@@ -270,7 +270,7 @@ Here is how my control center looks:
 
 I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
 
-<img src="https://i.imgur.com/CBIAsnK.jpg" width="400" alt="img">
+<img src="https://i.imgur.com/z4TKPN7.jpg" width="400" alt="img">
 
 - [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
 - [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
