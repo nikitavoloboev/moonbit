@@ -219,7 +219,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### Shortcuts
 
-![](https://i.imgur.com/BsiRZ9F.jpg)
+<img src="https://i.imgur.com/BsiRZ9F.jpg" width="300" alt="img">
 
 > Grey colored ones are activated as widgets whilst blue are triggered from Siri
 
