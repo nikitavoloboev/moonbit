@@ -285,19 +285,19 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use three watch faces. One for fitness tracking, one for day to day operations and one for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/wosH8bM.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LaU75vp.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/msyccWR.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Mc8hA2o.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/CP1Uqp0.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/bTfSb8z.jpg"></a>
 
-The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) and the amount of calories I burned for the day. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
+The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) that show amount of calories I burned for the day, minutes of exercise & standup time. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, my activity rings, current or future calendar events (with Fantastical) and the current weather. I can also quickly start some fitness activity or a quick mindfulness break with some breathing exercises.
+The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place.
 
-The last watch face is one I activate in the evening and it includes quick access to my [Streaks](https://streaksapp.com) habits and more importantly, shows information from my last sleep session and time left until I have to wake up so I get my 8 hours of sleep. It also shows my battery level as I charge my phone quickly in the evening and morning and wear the phone to sleep to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com).
+The last watch face is one I activate in the evening and it shows information from my last sleep session and time left until I have to wake up so I get my ~ 8 hours of sleep. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I have I have throughout my day.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
