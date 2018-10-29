@@ -3,10 +3,10 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/czl49Hc.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/wNz7PZR.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Tv69r33.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/czl49Hc.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/jnrKEdS.jpg"></a>
