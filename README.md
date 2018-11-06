@@ -251,13 +251,13 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2sXiq4a.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/GtwJBLe.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2OE7k7O.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/oA97exV.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/tzgyGqS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/4vC43lD.jpg"></a>
 
 ## Control Center
 
