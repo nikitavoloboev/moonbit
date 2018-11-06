@@ -24,7 +24,7 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Health](#health)
-- [Safari Browser](#safari-browser)
+  - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
 - [Control Center](#control-center)
@@ -214,9 +214,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use the app to track all the food I eat. I eat a whole food plant based diet.
 
-## Safari Browser
-
-I plan to make more Shortcuts for automating my browser use.
+### Safari Browser
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
