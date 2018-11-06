@@ -24,10 +24,9 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Health](#health)
-  - [Automation](#automation)
-    - [Shortcuts](#shortcuts)
-  - [Safari Browser](#safari-browser)
+- [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
+- [Shortcuts](#shortcuts)
 - [Control Center](#control-center)
 - [Games](#games)
 - [WatchOS](#watchos)
@@ -215,30 +214,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use the app to track all the food I eat. I eat a whole food plant based diet.
 
-### Automation
-
-#### Shortcuts
-
-<img src="https://i.imgur.com/BsiRZ9F.jpg" width="300" alt="img">
-
-> Grey colored ones are activated as widgets whilst blue are triggered from Siri
-
-Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use.
-
-- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine. Starts Overcast podcast, opens a list of my morning routine items (brush teeth, clean face, start working through my 2Do list) and completes Streaks morning routine habit.
-- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html) to make a scan. Scanbot then automatically puts the scan to my Scans folder in iCloud.
-- [Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
-- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to ask a question when Siri can't handle my query.
-- [Google](https://www.icloud.com/shortcuts/e72d6d2b97654736b93ea7bdcc46e949) - Triggered with Siri and a passed in query. i.e. `Google JavaScript` which then presents results on the phone itself.
-- [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
-- [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
-- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard to some app or a person.
-
-#### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
-
-- Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005/2) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
-
-### Safari Browser
+## Safari Browser
 
 I plan to make more Shortcuts for automating my browser use.
 
@@ -258,6 +234,27 @@ Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/4vC43lD.jpg"></a>
+
+## Shortcuts
+
+<img src="https://i.imgur.com/BsiRZ9F.jpg" width="300" alt="img">
+
+> Grey colored ones are activated as widgets whilst blue are triggered from Siri
+
+Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use.
+
+- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine. Starts Overcast podcast, opens a list of my morning routine items (brush teeth, clean face, start working through my 2Do list) and completes Streaks morning routine habit.
+- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html) to make a scan. Scanbot then automatically puts the scan to my Scans folder in iCloud.
+- [Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
+- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to ask a question when Siri can't handle my query.
+- [Google](https://www.icloud.com/shortcuts/e72d6d2b97654736b93ea7bdcc46e949) - Triggered with Siri and a passed in query. i.e. `Google JavaScript` which then presents results on the phone itself.
+- [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
+- [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
+- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard to some app or a person.
+
+### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
+
+- Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005/2) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
 
 ## Control Center
 
