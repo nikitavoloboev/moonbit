@@ -235,19 +235,13 @@ Here are the widgets I use:
 
 ## Shortcuts
 
-<img src="https://i.imgur.com/BsiRZ9F.jpg" width="300" alt="img">
+I color all the shortcuts I use as widgets with Grey color.
 
-> Grey colored ones are activated as widgets whilst blue are triggered from Siri
+Below are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate nearly all of them from widgets that can be seen above.
 
-Here are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use.
-
-- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine. Starts Overcast podcast, opens a list of my morning routine items (brush teeth, clean face, start working through my 2Do list) and completes Streaks morning routine habit.
-- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanbot](https://scanbot.io/en/index.html) to make a scan. Scanbot then automatically puts the scan to my Scans folder in iCloud.
-- [Ideas](https://www.icloud.com/shortcuts/73fd0d470b634bf6a3b980754fdb5f87) - Opens my [Ideas Trello board](https://trello.com/b/alB1ryRP) quickly so I can quickly note down an idea I have. Have similar shortcuts for other Trello boards too.
-- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to ask a question when Siri can't handle my query.
-- [Google](https://www.icloud.com/shortcuts/e72d6d2b97654736b93ea7bdcc46e949) - Triggered with Siri and a passed in query. i.e. `Google JavaScript` which then presents results on the phone itself.
-- [DND 25 Minutes](https://www.icloud.com/shortcuts/749b40eff75240c390bbffb989f691ac) - Start Do Not Disturb mode for 25 minutes.
-- [DND For (x) Minutes](https://www.icloud.com/shortcuts/f40c99f508b64192a9e25272c3515f7b) - Turn on Do Not Disturb mode for X minutes.
+- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine.
+- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to see my day summary, search Google or ask questions to Assistant.
+- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanner Pro](https://readdle.com/scannerpro) to make a scan. Scanner Pro then automatically puts all scans I made to iCloud.
 - [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard to some app or a person.
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
