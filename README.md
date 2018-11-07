@@ -240,7 +240,7 @@ I color all the shortcuts I use as widgets with Grey color.
 Below are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate nearly all of them from widgets that can be seen above.
 
 - [Night](https://www.icloud.com/shortcuts/08e54f904f154c2abd82a6f05dcb4b49) - Night routine. A list of things to go through with automatic completion of Streaks habit.
-- [Morning](https://www.icloud.com/shortcuts/883c59ca68474493805b3bbca48896ec) - Morning routine. Two lists, followed but automatic completion of Streaks habit.
+- [Morning](https://www.icloud.com/shortcuts/883c59ca68474493805b3bbca48896ec) - Morning routine. Two lists, followed by automatic completion of Streaks habit.
 - [Idea](https://www.icloud.com/shortcuts/d5311401cd0948cebcb27346320fef20) - Quickly write down an idea with optional description to add to my [Ideas Trello board](https://trello.com/b/alB1ryRP).
 - [Assistant](https://www.icloud.com/shortcuts/9556f6a9695147c9af846983ef9b6c1a) - Opens Google Assistant app so I can see my day summary, search Google or ask questions to Assistant.
 - [Instagram](https://www.icloud.com/shortcuts/11978f7c1bfd4d40b4b77c72804e90df) - Choose one photo from photo library to upload to Instagram as story or post.
