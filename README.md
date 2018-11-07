@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Tv69r33.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/pqUkzuw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/wNz7PZR.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/rVETUoD.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/jnrKEdS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/BIh0OB4.jpg"></a>
 
 ##### Contents
 
@@ -239,10 +239,26 @@ I color all the shortcuts I use as widgets with Grey color.
 
 Below are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate nearly all of them from widgets that can be seen above.
 
-- [Morning](https://www.icloud.com/shortcuts/245f364cce24451ebbb751b320278089) - Go through my Morning routine.
-- [Assistant](https://www.icloud.com/shortcuts/b14efdbe7961433c9d8a2b6e36d168a0) - Opens Google Assistant app to see my day summary, search Google or ask questions to Assistant.
-- [Scan](https://www.icloud.com/shortcuts/d7764b7afabf4914bea31da0653baa66) - Opens camera app in [Scanner Pro](https://readdle.com/scannerpro) to make a scan. Scanner Pro then automatically puts all scans I made to iCloud.
-- [Share Clipboard](https://www.icloud.com/shortcuts/08d3f2d89d2348b3b9dc6d0214df2bbe) - Lets me share my clipboard to some app or a person.
+- [Night](https://www.icloud.com/shortcuts/08e54f904f154c2abd82a6f05dcb4b49) - Night routine. A list of things to go through with automatic completion of Streaks habit.
+- [Morning](https://www.icloud.com/shortcuts/883c59ca68474493805b3bbca48896ec) - Morning routine. Two lists, followed but automatic completion of Streaks habit.
+- [Idea](https://www.icloud.com/shortcuts/d5311401cd0948cebcb27346320fef20) - Quickly write down an idea with optional description to add to my [Ideas Trello board](https://trello.com/b/alB1ryRP).
+- [Assistant](https://www.icloud.com/shortcuts/9556f6a9695147c9af846983ef9b6c1a) - Opens Google Assistant app so I can see my day summary, search Google or ask questions to Assistant.
+- [Instagram](https://www.icloud.com/shortcuts/11978f7c1bfd4d40b4b77c72804e90df) - Choose one photo from photo library to upload to Instagram as story or post.
+- [Tweet](https://www.icloud.com/shortcuts/d3c1b6b8f79b43b78c3d1d18dbe2c9eb) - Open Tweetbot app to quickly send a Twitter tweet.
+- [Email](https://www.icloud.com/shortcuts/aacb2073dab14c7483261965cbea9338) - Start composing an email with Spark app.
+- [Event](https://www.icloud.com/shortcuts/f4f9b683395e4d1ea1325daa5115b19c) - Quickly type out a new event creation with Fantastical natural language support.
+- [Scan](https://www.icloud.com/shortcuts/dc8ef8833421481bbe6bc76e6d814314) - Opens camera app in [Scanner Pro](https://readdle.com/scannerpro) to make a scan. All scans are synced to iCloud.
+- [Translate](https://www.icloud.com/shortcuts/09bd07099d0c43d7aa2848cf88d86414) - Opens Google Translate app so I can quickly make a translation.
+- [Workout](https://www.icloud.com/shortcuts/45dcd45113ad421298ae6a28faffa771) - Choose from a list of activities (gym/run/yoga) and open an appropriate app to start recording the exercise.
+- [Food](https://www.icloud.com/shortcuts/a49ca79fa16b4739a0d3ec564575cce1) - Open MyFitnessPal to quickly log the food I ate. For me that's usually [vegan smoothies](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#readme).
+- [Playlists](https://www.icloud.com/shortcuts/16a7cafb5a364f869799a4d72fcc5d9d) - Choose from a list, a Spotify playlist I want to start playing.
+- [Listen](https://www.icloud.com/shortcuts/47305f72305247b293707276a46e2a16) - Choose from a list of (Podcast/Audibook/Music) and open appropriate apps so I can start listening to a book/podcast or music.
+- [Search](https://www.icloud.com/shortcuts/aabdf06af1ff429b990cfaeebc54ac9d) - Pick a website from a list to make a search query on. Similar to [Web Searches workflow](https://github.com/nikitavoloboev/alfred-web-searches).
+- [Focus](https://www.icloud.com/shortcuts/52c8c57d0f3a499f8044b6d12a3fdce6) - Start a 20/40/60 min Focus session. Starts a timer and turns on Do Not Disturb mode for chosen time.
+- [Pack](https://www.icloud.com/shortcuts/8c27fa96c454428cb83b8cf655bd7696) - Pick from a list of activities (normal/gym/plane) and present a list of items so I can pack my bag accordingly to make sure I don't forget anything.
+- [Home](https://www.icloud.com/shortcuts/46da0ee61afa491ab4f94020250cc67c) - Will show directions to my home address in Google Maps.
+- [Open Board](https://www.icloud.com/shortcuts/116f5c8bdfe94466a27d63a0318f8620) - Open a Trello board from a list of boards.
+- [New card](https://www.icloud.com/shortcuts/37e897d958bb49128b0c17a5b5b72329) - Create a new Trello card by filling in values for card name, its board and the list the card should be added to.
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
@@ -274,19 +290,19 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use three watch faces. One for fitness tracking, one for day to day operations and one for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/LaU75vp.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/QqI8sOo.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Mc8hA2o.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/2lfZnlm.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/bTfSb8z.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/AUVdxxl.jpg"></a>
 
 The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) that show amount of calories I burned for the day, minutes of exercise & standup time. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place.
+The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place. It also lets me start or end my fast and quickly see how long I've been fasting for with [Zero app](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8).
 
-The last watch face is one I activate in the evening and it shows information from my last sleep session and time left until I have to wake up so I get my ~ 8 hours of sleep. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I have I have throughout my day.
+The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I have I have throughout my day.
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
