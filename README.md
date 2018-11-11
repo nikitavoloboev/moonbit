@@ -30,6 +30,7 @@
 - [Control Center](#control-center)
 - [Games](#games)
 - [WatchOS](#watchos)
+- [iPad](#ipad)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
