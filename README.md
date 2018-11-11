@@ -301,6 +301,16 @@ The middle watch face is one I am using throughout the majority of the day. It s
 
 The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I have I have throughout my day.
 
+## iPad
+
+I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software solutions with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/SrR79pW.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/EecNins.jpg"></a>
+
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
