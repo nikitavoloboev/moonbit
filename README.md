@@ -300,7 +300,7 @@ The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch
 
 The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place. It also lets me start or end my fast and quickly see how long I've been fasting for with [Zero app](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8).
 
-The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I have I have throughout my day.
+The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I've done throughout my day.
 
 ## iPad
 
