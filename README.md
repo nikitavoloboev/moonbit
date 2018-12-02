@@ -51,11 +51,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
-- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) and work on tasks based on priority.
+- My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macos/macos-apps/2do) and work on tasks based on priority.
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits.html).
+- Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits).
 - If I get 30 ongoing repetitions, I've learned the habit, I remove it and add new ones.
 
 #### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
@@ -68,7 +68,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Day One](https://dayoneapp.com) - Digital journal
 
-- I often use it to check on events that happened to me `On this day`. I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html).
+- I often use it to check on events that happened to me `On this day`. I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one).
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
@@ -76,7 +76,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
 
-- Use it to read PDF books and documents. I love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books/books.html).
+- Use it to read PDF books and documents. I love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books).
 
 #### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
 
@@ -151,7 +151,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Reeder](http://reederapp.com/ios/) - RSS Reeder
 
-- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html).
+- Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs).
 
 ### Utilities
 
@@ -181,7 +181,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
 
-- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance/finance.html) for the month accordingly.
+- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
 
 ### Write
 
@@ -191,13 +191,13 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Taskmator](https://itunes.apple.com/us/app/taskmator-taskpaper-client/id806250172?mt=8) - TaskPaper Client
 
-- I use [TaskPaper](https://www.taskpaper.com/) on macOS to [brainstorm problems I am trying to solve](https://wiki.nikitavoloboev.xyz/research/solving-problems.html). This app lets me quickly edit my `Think` document on the go.
+- I use [TaskPaper](https://www.taskpaper.com/) on macOS to [brainstorm problems I am trying to solve](https://wiki.nikitavoloboev.xyz/research/solving-problems). This app lets me quickly edit my `Think` document on the go.
 
 ### Music
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 
-- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and [share playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) easily.
+- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and [share playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists) easily.
 
 ### Travel
 
@@ -300,7 +300,7 @@ The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch
 
 The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place. It also lets me start or end my fast and quickly see how long I've been fasting for with [Zero app](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8).
 
-The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits.html) to mark off any remaining habits I've done throughout my day.
+The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits) to mark off any remaining habits I've done throughout my day.
 
 ## iPad
 
