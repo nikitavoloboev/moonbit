@@ -322,6 +322,7 @@ If you found this interesting, I also have a [similar repository](https://github
 
 - [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
 - [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
+- [Shortcuts Gallery](https://shortcutsgallery.com/)
 
 ## Contributing
 
