@@ -307,10 +307,13 @@ The last watch face is one I activate in the evening and it shows information fr
 I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/8YquL3K.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/8kHtACC.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/hOYCuAO.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/0omI4XT.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" heigth="400" src="https://i.imgur.com/Ifwczc8.jpg"></a>
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
