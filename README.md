@@ -31,7 +31,6 @@
 - [Games](#games)
 - [WatchOS](#watchos)
 - [iPad](#ipad)
-  - [Games](#games)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
