@@ -31,6 +31,7 @@
 - [Games](#games)
 - [WatchOS](#watchos)
 - [iPad](#ipad)
+  - [Games](#games)
 - [My wonderful world of macOS](#my-wonderful-world-of-macos-)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -273,15 +274,10 @@ Here is how my control center looks:
 
 I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
 
-<img src="https://i.imgur.com/z4TKPN7.jpg" width="400" alt="img">
+<img src="https://i.imgur.com/8aAhFx0.jpg" width="400" alt="img">
 
-- [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
-- [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
-- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
-- [Human Resource Machine](https://itunes.apple.com/us/app/human-resource-machine/id1005098334?mt=8)
-- [the Sequence](https://itunes.apple.com/us/app/the-sequence/id1035217840?mt=8) - Build a sequence using special modules to transfer binary cell.
-- [the Sequence 2](https://itunes.apple.com/us/app/the-sequence-2/id1340353421?mt=8)
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
+- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
 
 ## WatchOS
 
@@ -310,6 +306,20 @@ I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketch
     <img width="400" heigth="400" src="https://i.imgur.com/g6icE5B.jpg"></a>
 
 > I keep all apps & folders in the dock due to superior switching of apps right from the dock inside any running app
+
+Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
+
+- [Pixave](http://www.littlehj.com/ios/) - Image organizer.
+
+### Games
+
+I sometimes like to play games on my iPad too. Here are the games I've been playing lately.
+
+- [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
+- [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
+- [Human Resource Machine](https://itunes.apple.com/us/app/human-resource-machine/id1005098334?mt=8)
+- [the Sequence](https://itunes.apple.com/us/app/the-sequence/id1035217840?mt=8) - Build a sequence using special modules to transfer binary cell.
+- [the Sequence 2](https://itunes.apple.com/us/app/the-sequence-2/id1340353421?mt=8)
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
