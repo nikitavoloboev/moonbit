@@ -236,10 +236,10 @@ Here are the widgets I use:
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
 - [Music](https://www.icloud.com/shortcuts/d1f7722952c74c60ab4d9d0799afe04d) - Open a Spotify playlist ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg)/[Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw)/[Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw))
-- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new Note in Ulysses.
+- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new note in Ulysses.
 - [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
 - [Share](https://www.icloud.com/shortcuts/15e638b504c740a2a9ff64a1daeef996) - Make new tweet with Tweetbot / share photo(s) on Instagram.
-- [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb for 10/20/30/40/50/60 minutes.
+- [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb mode for 10/20/30/40/50/60 minutes.
 - [Actions](https://www.icloud.com/shortcuts/6c3c5af9ce164c9b88cef7af6decff32) - Start making a scan with Scanner Pro / Log food with MyFitnessPal / Open Google Translate app / Open Google Assistant / Write new email with Spark / Log something with HealthFace.
 - [Listen](https://www.icloud.com/shortcuts/c2a5e6d222cf49069c37eb43f33985df) - Open Music app / Open Overcast (podcasts) / Open Oak (meditation) / Open Auidble (audiobooks) / Open Voice Dream (audiobooks).
 - [Routine](https://www.icloud.com/shortcuts/bd00f7eca7f546618ee82aee36496b90) - My morning and night routines.
