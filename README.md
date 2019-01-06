@@ -226,37 +226,25 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/bALIvyM.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/b6aJMAk.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/EPvs6WS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LOZlq9K.jpg"></a>
 
 ## Shortcuts
 
-I color all the shortcuts I use as widgets with Grey color.
+I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
-Below are all the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use. I activate nearly all of them from widgets that can be seen above.
-
-- [Night](https://www.icloud.com/shortcuts/08e54f904f154c2abd82a6f05dcb4b49) - Night routine. A list of things to go through with automatic completion of Streaks habit.
-- [Morning](https://www.icloud.com/shortcuts/883c59ca68474493805b3bbca48896ec) - Morning routine. Two lists, followed by automatic completion of Streaks habit.
-- [Idea](https://www.icloud.com/shortcuts/d5311401cd0948cebcb27346320fef20) - Quickly write down an idea with optional description to add to my [Ideas Trello board](https://trello.com/b/alB1ryRP).
-- [Assistant](https://www.icloud.com/shortcuts/9556f6a9695147c9af846983ef9b6c1a) - Opens Google Assistant app so I can see my day summary, search Google or ask questions to Assistant.
-- [Instagram](https://www.icloud.com/shortcuts/11978f7c1bfd4d40b4b77c72804e90df) - Choose one photo from photo library to upload to Instagram as story or post.
-- [Tweet](https://www.icloud.com/shortcuts/d3c1b6b8f79b43b78c3d1d18dbe2c9eb) - Open Tweetbot app to quickly send a Twitter tweet.
-- [Email](https://www.icloud.com/shortcuts/aacb2073dab14c7483261965cbea9338) - Start composing an email with Spark app.
-- [Event](https://www.icloud.com/shortcuts/f4f9b683395e4d1ea1325daa5115b19c) - Quickly type out a new event creation with Fantastical natural language support.
-- [Scan](https://www.icloud.com/shortcuts/dc8ef8833421481bbe6bc76e6d814314) - Opens camera app in [Scanner Pro](https://readdle.com/scannerpro) to make a scan. All scans are synced to iCloud.
-- [Translate](https://www.icloud.com/shortcuts/09bd07099d0c43d7aa2848cf88d86414) - Opens Google Translate app so I can quickly make a translation.
-- [Workout](https://www.icloud.com/shortcuts/45dcd45113ad421298ae6a28faffa771) - Choose from a list of activities (gym/run/yoga) and open an appropriate app to start recording the exercise.
-- [Food](https://www.icloud.com/shortcuts/a49ca79fa16b4739a0d3ec564575cce1) - Open MyFitnessPal to quickly log the food I ate. For me that's usually [vegan smoothies](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#readme).
-- [Playlists](https://www.icloud.com/shortcuts/16a7cafb5a364f869799a4d72fcc5d9d) - Choose from a list, a Spotify playlist I want to start playing.
-- [Listen](https://www.icloud.com/shortcuts/47305f72305247b293707276a46e2a16) - Choose from a list of (Podcast/Audibook/Music) and open appropriate apps so I can start listening to a book/podcast or music.
-- [Search](https://www.icloud.com/shortcuts/aabdf06af1ff429b990cfaeebc54ac9d) - Pick a website from a list to make a search query on. Similar to [Web Searches workflow](https://github.com/nikitavoloboev/alfred-web-searches).
-- [Focus](https://www.icloud.com/shortcuts/52c8c57d0f3a499f8044b6d12a3fdce6) - Start a 20/40/60 min Focus session. Starts a timer and turns on Do Not Disturb mode for chosen time.
-- [Pack](https://www.icloud.com/shortcuts/8c27fa96c454428cb83b8cf655bd7696) - Pick from a list of activities (normal/gym/plane) and present a list of items so I can pack my bag accordingly to make sure I don't forget anything.
-- [Home](https://www.icloud.com/shortcuts/46da0ee61afa491ab4f94020250cc67c) - Will show directions to my home address in Google Maps.
-- [Open Board](https://www.icloud.com/shortcuts/116f5c8bdfe94466a27d63a0318f8620) - Open a Trello board from a list of boards.
-- [New card](https://www.icloud.com/shortcuts/37e897d958bb49128b0c17a5b5b72329) - Create a new Trello card by filling in values for card name, its board and the list the card should be added to.
+- [Music](https://www.icloud.com/shortcuts/d1f7722952c74c60ab4d9d0799afe04d) - Open a Spotify playlist ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg)/[Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw)/[Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw))
+- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new Idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new Note in Ulysses.
+- [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
+- [Share](https://www.icloud.com/shortcuts/15e638b504c740a2a9ff64a1daeef996) - Make new tweet with Tweetbot / share photo(s) on Instagram.
+- [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb for 10/20/30/40/50/60 minutes.
+- [Actions](https://www.icloud.com/shortcuts/6c3c5af9ce164c9b88cef7af6decff32) - Start making a scan with Scanner Pro / Log food with MyFitnessPal / Open Google Translate app / Open Google Assistant / Write new email with Spark / Log something with HealthFace.
+- [Listen](https://www.icloud.com/shortcuts/c2a5e6d222cf49069c37eb43f33985df) - Open Music app / Open Overcast (podcasts) / Open Oak (meditation) / Open Auidble (audiobooks) / Open Voice Dream (audiobooks).
+- [Routine](https://www.icloud.com/shortcuts/bd00f7eca7f546618ee82aee36496b90) - My morning and night routines.
+- [Travel](https://www.icloud.com/shortcuts/1bb2ffb2351947369bbc88ee55373803) - Packing items (normal/plane/gym) / Directions home.
+- [Workout](https://www.icloud.com/shortcuts/f1ab0f92eb3b426d88a0dee589f6263d) - Open Strong app (gym) / Open Strava (running/biking) / Open Down Dog (yoga)
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
