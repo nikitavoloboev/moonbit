@@ -248,7 +248,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
-- Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005/2) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
+- Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
 
 ## Control Center
 
@@ -287,7 +287,7 @@ The last watch face is one I activate in the evening and it shows information fr
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with A & reading books with [PDF Expert](https://pdfexpert.com).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="400" heigth="400" src="https://i.imgur.com/g6icE5B.jpg"></a>
@@ -297,6 +297,9 @@ I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketch
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
 - [Pixave](http://www.littlehj.com/ios/) - Image organizer.
+- [Procreate](https://procreate.art) - Draw.
+- [Procreate](https://procreate.art) - Digital notepad.
+- [Infuse](https://firecore.com/infuse) - Video player.
 
 ### Games
 
