@@ -283,19 +283,19 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use three watch faces. One for fitness tracking, one for day to day operations and one for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/QqI8sOo.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/mmqWbKI.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2lfZnlm.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/B6NG6xB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/AUVdxxl.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/TjSiVrP.jpg"></a>
 
 The first watch face shows my [3 activity rings](https://www.apple.com/lae/watch/close-your-rings/) that show amount of calories I burned for the day, minutes of exercise & standup time. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer or do some breathing exercise to bring my mind into place. It also lets me start or end my fast and quickly see how long I've been fasting for with [Zero app](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8).
+The middle watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me start or end my fast and quickly see how long I've been fasting for with [Zero app](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) and more importantly, I can quickly start little bodyweight workouts with [Streaks Workout](https://streaksworkout.com/) for few minutes.
 
-The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). On waking up I use Day One button to quickly record my dream into my private dream journal. And I have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits) to mark off any remaining habits I've done throughout my day.
+The last watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). I also have quick access to my [Streaks habits](https://wiki.nikitavoloboev.xyz/focusing/habits) to mark off any remaining habits I've done throughout my day and ability to quickly log my weight with [HealthFace](https://healthfaceapp.com/).
 
 ## iPad
 
