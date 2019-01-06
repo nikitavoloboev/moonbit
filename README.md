@@ -236,7 +236,7 @@ Here are the widgets I use:
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
 - [Music](https://www.icloud.com/shortcuts/d1f7722952c74c60ab4d9d0799afe04d) - Open a Spotify playlist ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg)/[Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw)/[Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw))
-- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new Idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new Note in Ulysses.
+- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new Note in Ulysses.
 - [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
 - [Share](https://www.icloud.com/shortcuts/15e638b504c740a2a9ff64a1daeef996) - Make new tweet with Tweetbot / share photo(s) on Instagram.
 - [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb for 10/20/30/40/50/60 minutes.
