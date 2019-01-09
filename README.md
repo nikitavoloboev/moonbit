@@ -287,7 +287,7 @@ The last watch face is one I activate in the evening and it shows information fr
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with A & reading books with [PDF Expert](https://pdfexpert.com).
+I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="400" heigth="400" src="https://i.imgur.com/g6icE5B.jpg"></a>
