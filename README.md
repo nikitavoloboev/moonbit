@@ -298,7 +298,7 @@ Most apps on my iPad are the same as ones on my phone. The few apps that are iPa
 
 - [Pixave](http://www.littlehj.com/ios/) - Image organizer.
 - [Procreate](https://procreate.art) - Draw.
-- [Procreate](https://procreate.art) - Digital notepad.
+- [Notability](https://www.gingerlabs.com) - Digital notepad.
 - [Infuse](https://firecore.com/infuse) - Video player.
 
 ### Games
