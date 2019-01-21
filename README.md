@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/W5FCalf.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/1nhdPUd.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/FQp3xQB.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/JtA1ATZ.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/OdArOmh.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/czKIcns.jpg"></a>
 
 ##### Contents
 
@@ -211,9 +211,9 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Health
 
-#### [MyFitnessPal](https://itunes.apple.com/us/app/myfitnesspal/id341232718?mt=8) - Calorie Counter & Diet Tracker
+#### [Cronometer](https://itunes.apple.com/us/app/cron-o-meter/id465173198?mt=8) - Calorie Counter & Diet Tracker
 
-- Use the app to track all the food I eat. I eat a whole food plant based diet.
+- Use the app to track all the food I eat. I eat a whole food plant based diet. Love the quality database of foods it has and nicer interface than MyFitnessPal + no ads.
 
 ### Safari Browser
 
@@ -240,7 +240,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
 - [Share](https://www.icloud.com/shortcuts/15e638b504c740a2a9ff64a1daeef996) - Make new tweet with Tweetbot / share photo(s) on Instagram.
 - [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb mode for 10/20/30/40/50/60 minutes.
-- [Actions](https://www.icloud.com/shortcuts/6c3c5af9ce164c9b88cef7af6decff32) - Start making a scan with Scanner Pro / Log food with MyFitnessPal / Open Google Translate app / Open Google Assistant / Write new email with Spark / Log something with HealthFace.
+- [Actions](https://www.icloud.com/shortcuts/6c3c5af9ce164c9b88cef7af6decff32) - Start making a scan with Scanner Pro / Log food with Cronometer / Open Google Translate app / Open Google Assistant / Write new email with Spark / Log something with HealthFace.
 - [Listen](https://www.icloud.com/shortcuts/c2a5e6d222cf49069c37eb43f33985df) - Open Music app / Open Overcast (podcasts) / Open Oak (meditation) / Open Auidble (audiobooks) / Open Voice Dream (audiobooks).
 - [Routine](https://www.icloud.com/shortcuts/6b8d942b1b24494797838fa73a2a9d3f) - My morning and night routines.
 - [Travel](https://www.icloud.com/shortcuts/1bb2ffb2351947369bbc88ee55373803) - Packing items (normal/plane/gym) / Directions home.
