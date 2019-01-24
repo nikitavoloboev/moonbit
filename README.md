@@ -219,7 +219,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
-<img src="https://i.imgur.com/hCr86Cb.jpg" width="300" alt="img">
+<img src="https://i.imgur.com/TSVSugn.jpg" width="300" alt="img">
 
 ## Widgets
 
