@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/1nhdPUd.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IdXnOOI.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/JtA1ATZ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/sQ2Iihu.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/czKIcns.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/vEdeZtr.jpg"></a>
 
 ##### Contents
 
@@ -226,25 +226,25 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/b6aJMAk.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/XEE5j2s.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/LOZlq9K.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/7pMJONU.jpg"></a>
 
 ## Shortcuts
 
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
-- [Music](https://www.icloud.com/shortcuts/d1f7722952c74c60ab4d9d0799afe04d) - Open a Spotify playlist ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg)/[Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw)/[Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw))
-- [New](https://www.icloud.com/shortcuts/cd58a0527ab849978aefe7d0623d497a) - Create new 2Do task / event in Fantastical / new idea to put in [Ideas](https://trello.com/b/alB1ryRP) / new Trello card / new note in Ulysses.
 - [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
-- [Share](https://www.icloud.com/shortcuts/15e638b504c740a2a9ff64a1daeef996) - Make new tweet with Tweetbot / share photo(s) on Instagram.
 - [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb mode for 10/20/30/40/50/60 minutes.
-- [Actions](https://www.icloud.com/shortcuts/6c3c5af9ce164c9b88cef7af6decff32) - Start making a scan with Scanner Pro / Log food with Cronometer / Open Google Translate app / Open Google Assistant / Write new email with Spark / Log something with HealthFace.
-- [Listen](https://www.icloud.com/shortcuts/c2a5e6d222cf49069c37eb43f33985df) - Open Music app / Open Overcast (podcasts) / Open Oak (meditation) / Open Auidble (audiobooks) / Open Voice Dream (audiobooks).
-- [Routine](https://www.icloud.com/shortcuts/6b8d942b1b24494797838fa73a2a9d3f) - My morning and night routines.
+- [Listen](https://www.icloud.com/shortcuts/ee87e431af8844a8aa9064daddd36575) - Start playing a Spotify playlist: ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg), [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw) or [Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw)).
+- [New](https://www.icloud.com/shortcuts/0f548409f06542e58d97561e2c43d30d) - Create new Ulysses note / Create New contact / Make new scan with [Scanner Pro](https://readdle.com/scannerpro).
 - [Travel](https://www.icloud.com/shortcuts/1bb2ffb2351947369bbc88ee55373803) - Packing items (normal/plane/gym) / Directions home.
-- [Workout](https://www.icloud.com/shortcuts/f1ab0f92eb3b426d88a0dee589f6263d) - Open Strong app (gym) / Open Strava (running/biking) / Open Down Dog (yoga)
+- [Actions](https://www.icloud.com/shortcuts/38cd0da1dcae4512a39304980684b9d4) - Open Google Translate app / Open Google Assistant / Select photo to share on Instagram.
+- [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board and List to save it to.
+- [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
+- [Morning](https://www.icloud.com/shortcuts/7d3784ea05c44f239faf9b6e067d466a) - Start my morning routine.
+- [Night](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Start my night routine.
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
