@@ -278,7 +278,7 @@ I use Apple Watch as a way to track my health and fitness and view useful inform
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The second watch face is one I activate in the evening and it shows information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (have scheduled sleep from 22:00 to 6:00 every day).
+The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (have scheduled sleep from 22:00 to 6:00 every day).
 
 ## iPad
 
