@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/IdXnOOI.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ia8SBRz.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/sQ2Iihu.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/FuI1LgO.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/vEdeZtr.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/3mVKnV0.jpg"></a>
 
 ##### Contents
 
@@ -56,7 +56,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
 - Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits).
-- If I get 30 ongoing repetitions, I've learned the habit, I remove it and add new ones.
+- If I get 80 ongoing repetitions, I've learned the habit, I remove it and add new ones.
 
 #### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
 
@@ -72,11 +72,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
-- I use the app mainly as my meal planner for [recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I want to make during the day. I also use the app as a grocery list.
+- I use the app to collect my favorite [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
 
 #### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
 
-- Use it to read PDF books and documents. I love its `Text Reflow` feature that allows me to focus on the text and see only that. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books).
+- Use it to read PDF books and documents. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books).
 
 #### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
 
@@ -86,7 +86,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8) - Messenger
 
-- This is my favorite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
+- My favorite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
 - I also use the app to quickly send media/messages between my mac and the phone.
 
 #### [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8) - Twitter client
@@ -139,15 +139,15 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
 
-- All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing any Trello board I need quickly.
+- All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
 
 #### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
 
-- I have very low attention span on reading books so listening to audibooks is perfect for me. I listen to either a podcast or an audiobook when I am commuting or going to sleep.
+- I have low attention span on reading books so listening to audibooks is perfect for me. I listen to either a podcast or an audiobook when I am commuting or doing errands.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
-- Lets me listen to the plethora of podcasts I love. I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+- Lets me listen to the plethora of [podcasts I love](https://wiki.nikitavoloboev.xyz/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
 
 #### [Reeder](http://reederapp.com/ios/) - RSS Reeder
 
@@ -187,11 +187,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- Ulysses is my go-to place for anything I want to write. I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
-
-#### [Taskmator](https://itunes.apple.com/us/app/taskmator-taskpaper-client/id806250172?mt=8) - TaskPaper Client
-
-- I use [TaskPaper](https://www.taskpaper.com/) on macOS to [brainstorm problems I am trying to solve](https://wiki.nikitavoloboev.xyz/research/solving-problems). This app lets me quickly edit my `Think` document on the go.
+- I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
 ### Music
 
@@ -213,7 +209,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Cronometer](https://itunes.apple.com/us/app/cron-o-meter/id465173198?mt=8) - Calorie Counter & Diet Tracker
 
-- Use the app to track all the food I eat. I eat a whole food plant based diet. Love the quality database of foods it has and nicer interface than MyFitnessPal + no ads.
+- Use the app to track all the [food I eat](https://wiki.nikitavoloboev.xyz/health/nutrition/foods). I eat a whole food plant based diet. Love the quality database of foods it has and nicer interface than MyFitnessPal + no ads.
 
 ### Safari Browser
 
@@ -226,21 +222,23 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/XEE5j2s.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/PMld2t8.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/7pMJONU.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/MC6f5wM.jpg"></a>
 
 ## Shortcuts
 
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
 - [Search](https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713https://www.icloud.com/shortcuts/3108bb20e68448bcae583b4ba8117713) - Search a query on either Reddit or Twitter.
-- [Focus](https://www.icloud.com/shortcuts/f6a4134a67164572a65728968f29a781) - Start timer and activate Do Not Disturb mode for 10/20/30/40/50/60 minutes.
-- [Listen](https://www.icloud.com/shortcuts/ee87e431af8844a8aa9064daddd36575) - Start playing a Spotify playlist: ([Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=pEZ1YlgpQ9uq2xotkdkaCg), [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw) or [Life](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=u1RanblOQTG59Le3oOTmtw)).
-- [New](https://www.icloud.com/shortcuts/0f548409f06542e58d97561e2c43d30d) - Create new Ulysses note / Create New contact / Make new scan with [Scanner Pro](https://readdle.com/scannerpro).
-- [Travel](https://www.icloud.com/shortcuts/1bb2ffb2351947369bbc88ee55373803) - Packing items (normal/plane/gym) / Directions home.
-- [Actions](https://www.icloud.com/shortcuts/38cd0da1dcae4512a39304980684b9d4) - Open Google Translate app / Open Google Assistant / Select photo to share on Instagram.
+- [Timer](https://www.icloud.com/shortcuts/7e0be264064343048e05f1aeb8b8193d) - Start timer for 10/20/30/40/50/60 minutes when setting a timer with Siri is not appropriate.
+- [Bliss](https://www.icloud.com/shortcuts/abb0f99288a54a7098c31223d60806f8) - Start listening to my [Bliss Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?si=qXju17nxQLmfZqcnRFNnIw).
+- [Actions](https://www.icloud.com/shortcuts/00f983b517d24d08b3a91f15282378de) - Pack for plane / New Ulysses note / New scan with [Scanner Pro](https://readdle.com/scannerpro).
+- [Contacts](https://www.icloud.com/shortcuts/54595e0556d04267997af389ceafa9de) - Open Contacts app.
+- [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to my house in Google (fill it with your address).
+- [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
+- [Assistant](https://www.icloud.com/shortcuts/92c2eb07e496499eaaee4e5c4e8f377f) - Open Google Assistant.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board and List to save it to.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Morning](https://www.icloud.com/shortcuts/7d3784ea05c44f239faf9b6e067d466a) - Start my morning routine.
@@ -255,7 +253,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Vvb0eWJ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/GfWqar4.jpg"></a>
 
 ## Games
 
@@ -271,14 +269,14 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two watch faces. One for general use & one for for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/mMbuLsb.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/9tzFv5Y.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/HIWmV6w.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/CkzCPNc.jpg"></a>
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
 
-The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information from my last sleep session. I charge my phone in the evening & morning and sleep with my phone to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (have scheduled sleep from 22:00 to 6:00 every day).
+The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information from my last sleep session. I charge my phone at night and have [AutoSleep](http://autosleep.tantsissa.com) track the time I spent asleep. I also use [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) to track my longer fasts and [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) for quick recordings.
 
 ## iPad
 
