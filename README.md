@@ -314,7 +314,7 @@ I sometimes like to play games on my iPad too. Here are the games I've been play
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
 
