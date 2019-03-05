@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ia8SBRz.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/F1ptA7V.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/FuI1LgO.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/dXPfp7Q.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/3mVKnV0.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/UitATDh.jpg"></a>
 
 ##### Contents
 
@@ -222,10 +222,10 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/kvQ9zS0.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/SMnnxfu.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/aYnXx4O.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/RPL8xzg.jpg"></a>
 
 ## Shortcuts
 
@@ -233,23 +233,24 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 
 - [Morning](https://www.icloud.com/shortcuts/7d3784ea05c44f239faf9b6e067d466a) - Start my morning routine.
 - [Night](https://www.icloud.com/shortcuts/b7aa09d0ede24f2681a51b8a3b25e098) - Start my night routine.
-- [Due](https://www.icloud.com/shortcuts/d1f448a35055499ba4c45cd057b7a22c) - Start new [Due](https://www.dueapp.com) timer.
-- 2Do - Make new 2Do task. (waiting for dev to release it)
+- [Due](https://www.icloud.com/shortcuts/c8fbc15c14524a18a2354c87fc665824) - Open [Due](https://www.dueapp.com) app to start/edit timer(s).
+- 2Do - Make new 2Do task.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board and List to save it to.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Assistant](https://www.icloud.com/shortcuts/92c2eb07e496499eaaee4e5c4e8f377f) - Open Google Assistant.
+- [Life](https://www.icloud.com/shortcuts/e7ea5525974543beb4206899b19de7c4) - Start listening to my [Life Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=H7Dd1CtPRCW5Tp1-BEne-g).
+- [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
 - [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to my house in Google (fill it with your address).
 - [Next](https://www.icloud.com/shortcuts/5f73d230e5ba49e6bebc8ce91c64f61f) - Show directions to next event(s).
-- [Contacts](https://www.icloud.com/shortcuts/54595e0556d04267997af389ceafa9de) - Open Contacts app.
-- [Life](https://www.icloud.com/shortcuts/e7ea5525974543beb4206899b19de7c4) - Start listening to my [Life Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=H7Dd1CtPRCW5Tp1-BEne-g).
-- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
-- [Find](https://www.icloud.com/shortcuts/065318c7d9834461861b0394fbbcf777) - Find nearby (Coffee / Parks / Libraries / Restaurants / Attractions) on Google Maps.
-- [Coffee](https://www.icloud.com/shortcuts/e208ed543fb846189c18ff631f6765de) - Find nearby coffee places.
 - [Food](https://www.icloud.com/shortcuts/43547933cbd6453b937092914898426b) - Find nearby supermarkets.
+- [Find](https://www.icloud.com/shortcuts/2a80f9c290844e4ab15ab8dde672e329) - Find nearby (Parks / Libraries / Attractions / Coffee / Food) on Google Maps.
+- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- [Contacts](https://www.icloud.com/shortcuts/54595e0556d04267997af389ceafa9de) - Open Contacts app.
+- [Coffee](https://www.icloud.com/shortcuts/e208ed543fb846189c18ff631f6765de) - Find nearby coffee places.
 - [Share](https://www.icloud.com/shortcuts/43b71d4672ca40df9390497702cc97a7) - Make voice recording and share it.
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
-- [Actions](https://www.icloud.com/shortcuts/00f983b517d24d08b3a91f15282378de) - Pack for plane / New Ulysses note / New scan with [Scanner Pro](https://readdle.com/scannerpro).
+- [Actions](https://www.icloud.com/shortcuts/ce8658ab61c246c2a3be3ebf1180303a) - Pack for plane / New scan with [Scanner Pro](https://readdle.com/scannerpro).
 - [Timer](https://www.icloud.com/shortcuts/7e0be264064343048e05f1aeb8b8193d) - Start timer for 10/20/30/40/50/60 minutes when setting a timer with Siri is not appropriate.
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
@@ -277,14 +278,14 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two watch faces. One for general use & one for for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/32IqA0n.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/dUKQSve.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/847nyod.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/gzgl5OF.jpg"></a>
 
-The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with Fantastical). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a [Strong](http://strongapp.io) workout or a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button.
+The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button or a small bodyweight exercise workout with [Streaks Workout](https://streaksworkout.com).
 
-The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information from my last sleep session. I charge my phone in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). I also use [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) to track my fasts and [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) for quick recordings.
+The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information from my last sleep session. I charge my phone in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). I also use [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) for quick recordings and [Strong](http://strongapp.io) app for tracking bigger workout I do.
 
 ## iPad
 
