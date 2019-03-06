@@ -275,17 +275,17 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## WatchOS
 
-I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two watch faces. One for general use & one for for morning/evening routines.
+I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two Infograph Modular watch faces. One for general use & one for for morning/evening routines.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/dUKQSve.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/BfHZmJq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/gzgl5OF.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/HeBhalZ.jpg"></a>
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a [Strava](https://www.strava.com/mobile) running/biking session with a click of a button or a small bodyweight exercise workout with [Streaks Workout](https://streaksworkout.com).
 
-The second watch face is one I activate in the evening and it shows whether I completed my daily three rings and information from my last sleep session. I charge my phone in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). I also use [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) for quick recordings and [Strong](http://strongapp.io) app for tracking bigger workout I do.
+The second watch face is one I mostly activate in the evening and it shows my activity data and whether I completed my daily three rings and information as well as information from my last sleep session. I charge my phone in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com). I also use [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) for tracking my fasts and [Strong](http://strongapp.io) app for tracking bigger workouts I do.
 
 ## iPad
 
