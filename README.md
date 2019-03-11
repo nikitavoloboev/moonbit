@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/LQIVXHr.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/yQygBVS.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/OYTXEWU.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/2XRIqGC.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/5j4O0pr.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/kbgU6N5.jpg"></a>
 
 ##### Contents
 
@@ -41,7 +41,7 @@ For me, an iPhone is essentially a consumption and communication device. Everyth
 
 With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all times is exhausting and addictive.
 
-I use my phone when I am not using my computer. I use it to read books, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read Wikipedia, answer messages on Slack, Telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main ones. With that said, I try to use the best tools that I can to get these tasks completed.
+I use my phone when I am not using my computer. I use it to read books, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read Wikipedia, answer messages on Slack, Telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main things. With that said, I try to use the best tools that I can to get these tasks completed.
 
 ## Applications
 
