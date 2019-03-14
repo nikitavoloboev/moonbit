@@ -239,7 +239,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Assistant](https://www.icloud.com/shortcuts/92c2eb07e496499eaaee4e5c4e8f377f) - Open Google Assistant.
-- [Life](https://www.icloud.com/shortcuts/e7ea5525974543beb4206899b19de7c4) - Start listening to my [Life Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=H7Dd1CtPRCW5Tp1-BEne-g).
+- [Bliss](https://www.icloud.com/shortcuts/8c31b74c1ee544978dfed478f6b25180) - Start listening to my [Bliss Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=JfYPAzAcT0qyvJI08KEg2g).
 - [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
 - [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to my house in Google (fill it with your address).
 - [Next](https://www.icloud.com/shortcuts/5f73d230e5ba49e6bebc8ce91c64f61f) - Show directions to next event(s).
