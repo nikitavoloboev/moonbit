@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/yQygBVS.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2XRIqGC.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/QI0Tac1.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/kbgU6N5.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IZ3ijvV.jpg"></a>
 
 ##### Contents
 
