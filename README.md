@@ -292,7 +292,7 @@ The second watch face is one I mostly activate in the evening and it shows my ac
 I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching software diagrams with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/8VwPAnC.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/qpPx9sP.jpg"></a>
 
 > I keep all apps & folders in the dock due to superior switching of apps right from the dock inside any running app
 
