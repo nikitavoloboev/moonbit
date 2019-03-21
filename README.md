@@ -292,10 +292,10 @@ The second watch face is one I mostly activate in the evening and it shows my ac
 I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching things with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/5n0t8DF.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/5n0t8DF.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/aup35VT.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/aup35VT.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
