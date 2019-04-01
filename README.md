@@ -189,10 +189,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
-#### [Taskade](https://itunes.apple.com/app/taskade/id1264713923) - Writing
-
-- A beautiful outliner that lets you create task lists, notes and bullet journals.
-
 ### Music
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
