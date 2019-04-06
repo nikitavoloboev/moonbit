@@ -249,7 +249,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
 - [Share](https://www.icloud.com/shortcuts/43b71d4672ca40df9390497702cc97a7) - Make voice recording and share it.
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
-- [Actions](https://www.icloud.com/shortcuts/f389667a57b34317916d3665bddddd1a) - Contains all other actions I want to call. Calls:
+- [Actions](https://www.icloud.com/shortcuts/f389667a57b34317916d3665bddddd1a) - Contains all other actions I want to call:
   - [New scan with Scanner Pro](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42)
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
 
