@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/yQygBVS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/wcp3Vrq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KttzgJt.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/TvlBKYP.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/UIe7yMp.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/6Ky2JeO.jpg"></a>
 
 ##### Contents
 
@@ -234,7 +234,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Morning](https://www.icloud.com/shortcuts/7d3784ea05c44f239faf9b6e067d466a) - Start my morning routine.
 - [Night](https://www.icloud.com/shortcuts/b7aa09d0ede24f2681a51b8a3b25e098) - Start my night routine.
 - [Tweet](https://www.icloud.com/shortcuts/5899bf99e5244fd0aab0f89e7aca6293) - Make new tweet with Tweetbot.
-- [2Do](https://www.icloud.com/shortcuts/f68424d98cef42f98ca9e2a48fb4d60b) - Make new 2Do task.
+- [2Do](https://www.icloud.com/shortcuts/20bd25c63d854bef90a86741e3f368bb) - Make new 2Do task.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
