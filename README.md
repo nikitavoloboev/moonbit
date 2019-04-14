@@ -275,7 +275,7 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## WatchOS
 
-I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two Infograph Modular watch faces. One for general use & one for for morning/evening routines.
+I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two Infograph Modular watch faces. One for general use & one for evenings.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/7n6th07.jpg"></a>
