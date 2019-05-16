@@ -199,7 +199,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Prefer using it over Apple Maps.
 
-### Saari Browser
+### Safari Browser
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
