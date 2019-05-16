@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/wcp3Vrq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Ji1pGJe.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/FJCZNpQ.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/apciZdL.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/TfVwpnz.jpg"></a>
 
 ##### Contents
 
@@ -23,7 +23,6 @@
   - [Write](#write)
   - [Music](#music)
   - [Travel](#travel)
-  - [Health](#health)
   - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
@@ -55,8 +54,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Do something often enough and it becomes a habit. I use it [learn new healthy habits with time](https://wiki.nikitavoloboev.xyz/focusing/habits).
-- If I get 80 ongoing repetitions, I've learned the habit, I remove it and add new ones.
+- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits). There are 12 of them & I want to complete them all for a perfect day.
 
 #### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
 
@@ -64,7 +62,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Strong](http://strongapp.io) - Workout tracker
 
-- I use it to track my workouts. I have a few custom workouts that I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
+- I use it to track my workouts. I have a few custom workouts I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
 
 #### [Day One](https://dayoneapp.com) - Digital journal
 
@@ -80,7 +78,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
 
-- Use the app for listening to background noise as I dislike listening to music when trying to focus. I also use it to practice focused meditation.
+- Use the app for listening to background noise as I often dislike listening to music when trying to focus. I also use it to practice focused meditation.
 
 ### Social
 
@@ -121,13 +119,13 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) - Photo & Album Organizer
 
-- Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some library and this app lets me easily do that.
+- Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some folder and this app lets me easily do that.
 
 ### Learn
 
 #### [Books](https://www.apple.com/ibooks/)
 
-- Aside from PDFs that I read in PDF Expert, I also read `.epub` books which this app handles well. It also syncs my notes and highlights as I read the book.
+- Use it listen to audiobooks I downloaded because Audible is too expensive. As well as read books with `.epub` extension.
 
 #### [V for Wiki](http://v-for-wiki.com) - Wiki reader
 
@@ -175,10 +173,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use the app to block annoying ads and tracking in Safari.
 
-#### [ScanBot](https://itunes.apple.com/app/apple-store/id834854351?mt=8) - PDF Scanner
-
-- My life is fully digital. This means I scan every paper I write on.
-
 #### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
 
 - Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
@@ -205,13 +199,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Prefer using it over Apple Maps.
 
-### Health
-
-#### [Cronometer](https://itunes.apple.com/us/app/cron-o-meter/id465173198?mt=8) - Calorie Counter & Diet Tracker
-
-- Use the app to track all the [food I eat](https://wiki.nikitavoloboev.xyz/health/nutrition/foods). I eat a whole food plant based diet. Love the quality database of foods it has and nicer interface than MyFitnessPal + no ads.
-
-### Safari Browser
+### Saari Browser
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
