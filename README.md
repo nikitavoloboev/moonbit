@@ -277,23 +277,21 @@ The second watch face is one I mostly activate in the evening and it shows my ac
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching things with Notes & reading books with [PDF Expert](https://pdfexpert.com) & Books.
+I mostly use my iPad for drawing with [Procreate](https://procreate.art), sketching things with [Notability](https://www.gingerlabs.com) & reading books with [PDF Expert](https://pdfexpert.com) & Books.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/fI0c6YW.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/A8TEDWP.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/3SSg9n9.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/TGP8JvM.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/1DPlptt.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/SJcjTDl.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
 - [Procreate](https://procreate.art) - Draw.
-- [Notability](https://www.gingerlabs.com) - Digital notepad.
 - [Pixave](http://www.littlehj.com/ios/) - Image organizer.
-- [Infuse](https://firecore.com/infuse) - Video player.
 
 ### Games
 
