@@ -241,6 +241,10 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
   - [New scan with Scanner Pro](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42)
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
 
+I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
+
+![](https://i.imgur.com/yIPztUo.png)
+
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
 - Awesome app that lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. I plan to build a library that will let you create Alfred Workflows on iOS with Siri Shortcuts and either present results on screen or speak the results aloud.
