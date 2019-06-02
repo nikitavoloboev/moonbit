@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/wcp3Vrq.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/epEvkSB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/RdZsWPX.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/DN7ZVeo.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/YiuOFOQ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/h8rXXJQ.jpg"></a>
 
 ##### Contents
 
@@ -210,34 +210,34 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/BKz2KDm.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/Xpkyiu6.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Zi4oGmg.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Jaz2t3T.jpg"></a>
 
 ## Shortcuts
 
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
-- [Morning](https://www.icloud.com/shortcuts/7d3784ea05c44f239faf9b6e067d466a) - Start my morning routine.
-- [Night](https://www.icloud.com/shortcuts/b7aa09d0ede24f2681a51b8a3b25e098) - Start my night routine.
-- [Tweet](https://www.icloud.com/shortcuts/5899bf99e5244fd0aab0f89e7aca6293) - Make new tweet with Tweetbot.
-- [2Do](https://www.icloud.com/shortcuts/20bd25c63d854bef90a86741e3f368bb) - Make new 2Do task.
+- [Morning](https://www.icloud.com/shortcuts/7de6222951a644d5bac3e59edb61263c) - Start my morning routine.
+- [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
+- [Night](https://www.icloud.com/shortcuts/10a20212b120423b9dc03f81e8e91acd) - Start my night routine.
+- [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Assistant](https://www.icloud.com/shortcuts/92c2eb07e496499eaaee4e5c4e8f377f) - Open Google Assistant.
-- [Next](https://www.icloud.com/shortcuts/5f73d230e5ba49e6bebc8ce91c64f61f) - Show directions to next event(s).
-- [Find](https://www.icloud.com/shortcuts/2cfd8e287bdb41c983d0b70597d4bb32) - Find nearby (Parks / Libraries / Attractions / Coffee / Groceries) on Google Maps.
-- [Likes](https://www.icloud.com/shortcuts/bfa2bd334c5842359f58b65d28d320f7) - Start listening to my [Likes Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=-BxuShTTQNaTjm53uqEFFQ).
-- [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
-- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- [Next](https://www.icloud.com/shortcuts/4e1f4630493d419ba4bd4d4a24164da7) - Show directions to next event(s).
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
-- [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to my house in Google (fill it with your address).
+- [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to your home in Google Maps (must have `Home` address filled in).
+- [Find](https://www.icloud.com/shortcuts/6d139d0bc54d40e2bde180a4589fb4fa) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
+- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
+- [Likes](https://www.icloud.com/shortcuts/bfa2bd334c5842359f58b65d28d320f7) - Start listening to my [Likes Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=-BxuShTTQNaTjm53uqEFFQ).
 - [Timer](https://www.icloud.com/shortcuts/7e0be264064343048e05f1aeb8b8193d) - Start timer for 10/20/30/40/50/60 minutes when setting a timer with Siri is not appropriate.
 - [Share](https://www.icloud.com/shortcuts/43b71d4672ca40df9390497702cc97a7) - Make voice recording and share it.
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
-- [Actions](https://www.icloud.com/shortcuts/f389667a57b34317916d3665bddddd1a) - Contains all other actions I want to call:
+- [More](https://www.icloud.com/shortcuts/ff25889ab53d4d4d9f5d58fcdaf5835b) - Contains all other actions I want to call:
   - [New scan with Scanner Pro](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42)
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
 
@@ -270,14 +270,14 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two Infograph Modular watch faces. One for general use & one for evenings.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/7n6th07.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/u01yiAS.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/Ua6Vtdh.jpg"></a>
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a Workout (running/biking/walking) session with a click of a button or a small bodyweight exercise workout with [Streaks Workout](https://streaksworkout.com).
 
-The second watch face is one I mostly activate in the evening and it shows my activity data and whether I completed my daily three rings as well as information from my last sleep session. I charge my phone briefly in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (auto set to 6:30). I also use [HeartWatch](http://heartwatch.tantsissa.com/) to view my heart rate and [Strong](http://strongapp.io) app for tracking bigger workouts I do.
+The second watch face is one I mostly activate in the evening and it shows my activity data and whether I completed my daily three rings as well as information from my last sleep session. I charge my phone briefly in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (auto set to 6:30). I also use [Just Press Record](http://heartwatch.tantsissa.com/) to make quick audio recordings and [Strong](http://strongapp.io) app for tracking bigger workouts I do.
 
 ## iPad
 
