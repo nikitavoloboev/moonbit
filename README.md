@@ -273,7 +273,7 @@ I use Apple Watch as a way to track my health and fitness and view useful inform
     <img width="250" heigth="400" src="https://i.imgur.com/u01yiAS.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Ua6Vtdh.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/lGZhnii.jpg"></a>
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a Workout (running/biking/walking) session with a click of a button or a small bodyweight exercise workout with [Streaks Workout](https://streaksworkout.com).
 
