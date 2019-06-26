@@ -258,7 +258,7 @@ I use 3 colors for my shortcuts, Grey for ones that are activated from Widgets. 
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/GfWqar4.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ySxCCsm.jpg"></a>
 
 ## Games
 
