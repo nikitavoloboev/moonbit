@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/epEvkSB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/DN7ZVeo.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IPoHziD.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/h8rXXJQ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LIsjWC3.jpg"></a>
 
 ##### Contents
 
@@ -203,17 +203,17 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
 
-<img src="https://i.imgur.com/TSVSugn.jpg" width="300" alt="img">
+<img src="https://i.imgur.com/0KJBGhT.jpg" width="300" alt="img">
 
 ## Widgets
 
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/Xpkyiu6.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/HSA70Eq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Jaz2t3T.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ltxz5iq.jpg"></a>
 
 ## Shortcuts
 
@@ -241,9 +241,13 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
   - [New scan with Scanner Pro](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42)
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
 
-I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
+I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-![](https://i.imgur.com/yIPztUo.png)
+![](https://i.imgur.com/X4UMSqR.png)
+
+I use 3 colors for my shortcuts, Grey for ones that are activated from Widgets. Dark Blue for shortcuts that are ran from `More` shortcut. And light blue for everything else (shortcuts I am testing out but not using).
+
+![](https://i.imgur.com/0702tch.jpg)
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
@@ -260,7 +264,7 @@ Here is how my control center looks:
 
 I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
 
-<img src="https://i.imgur.com/8aAhFx0.jpg" width="400" alt="img">
+<img src="https://i.imgur.com/T7u37cx.jpg" width="400" alt="img">
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
 - [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
