@@ -26,6 +26,7 @@
   - [Safari Browser](#safari-browser)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
+  - [Automation triggered shortcuts](#automation-triggered-shortcuts)
 - [Control Center](#control-center)
 - [Games](#games)
 - [WatchOS](#watchos)
@@ -210,35 +211,35 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/HSA70Eq.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/i03g4pg.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ltxz5iq.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/GLNsf47.jpg"></a>
 
 ## Shortcuts
 
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
 
-- [Morning](https://www.icloud.com/shortcuts/7de6222951a644d5bac3e59edb61263c) - Start my morning routine.
-- [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
-- [Night](https://www.icloud.com/shortcuts/10a20212b120423b9dc03f81e8e91acd) - Start my night routine.
-- [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
-- [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
-- [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
-- [Assistant](https://www.icloud.com/shortcuts/92c2eb07e496499eaaee4e5c4e8f377f) - Open Google Assistant.
+- [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
+- [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
+- [Ask](https://www.icloud.com/shortcuts/78952a9606c64e0093dde6aa257513b9) - Open Google Assistant.
 - [Next](https://www.icloud.com/shortcuts/4e1f4630493d419ba4bd4d4a24164da7) - Show directions to next event(s).
+- [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
+- [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
+- [Breathe](https://www.icloud.com/shortcuts/c0d384954929452eba5228a23ed22d97) - Open [Oak app](https://www.oakmeditation.com) to play nature sounds for meditation or focus.
+- [Focus](https://www.icloud.com/shortcuts/688302ac7b3a4266807b0edd8ec5b13f) - Play my `Focus` instrumental song on Spotify. Usually it's Nils Frahm but sometimes changes.
 - [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to your home in Google Maps (must have `Home` address filled in).
 - [Find](https://www.icloud.com/shortcuts/6d139d0bc54d40e2bde180a4589fb4fa) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
 - [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
 - [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
-- [Likes](https://www.icloud.com/shortcuts/bfa2bd334c5842359f58b65d28d320f7) - Start listening to my [Likes Spotify playlist](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=-BxuShTTQNaTjm53uqEFFQ).
-- [Timer](https://www.icloud.com/shortcuts/7e0be264064343048e05f1aeb8b8193d) - Start timer for 10/20/30/40/50/60 minutes when setting a timer with Siri is not appropriate.
 - [Share](https://www.icloud.com/shortcuts/43b71d4672ca40df9390497702cc97a7) - Make voice recording and share it.
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
+- [Relax](https://www.icloud.com/shortcuts/0b76851b3c3d4bfe9f3d13ed894690f3) - Plays a relaxing song on Spotify. Useful when wanting to take a nap or going to sleep.
+- [Today](https://www.icloud.com/shortcuts/9816be0607cf4fa28b07e1753948ff0e) - Open `On This Day` in [Day One](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one). Shows my Instagram/Twitter + private entries I made 1/2/.. years ago.
 - [More](https://www.icloud.com/shortcuts/ff25889ab53d4d4d9f5d58fcdaf5835b) - Contains all other actions I want to call:
-  - [New scan with Scanner Pro](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42)
+  - [Scan](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42) - Make a scan with [Scanner Pro](https://apps.apple.com/us/app/scanner-pro/id333710667).
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
 
 I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
@@ -249,6 +250,11 @@ I use 3 colors for my shortcuts, Grey for ones that are activated from Widgets. 
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/0702tch.jpg"></a>
+
+### Automation triggered shortcuts
+
+- [Morning](https://www.icloud.com/shortcuts/7de6222951a644d5bac3e59edb61263c) - Start my morning routine. Triggered when wake up alarm is stopped.
+- [Night](https://www.icloud.com/shortcuts/10a20212b120423b9dc03f81e8e91acd) - Start my night routine. Triggered at 21:00 on all days.
 
 ### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
