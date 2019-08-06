@@ -214,7 +214,7 @@ Here are the widgets I use:
     <img width="250" helgth="400" src="https://i.imgur.com/x43lmP4.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/GLNsf47.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/reT9E35.jpg"></a>
 
 ## Shortcuts
 
