@@ -211,7 +211,7 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/i03g4pg.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/x43lmP4.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/GLNsf47.jpg"></a>
@@ -228,19 +228,18 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
-- [Breathe](https://www.icloud.com/shortcuts/c0d384954929452eba5228a23ed22d97) - Open [Oak app](https://www.oakmeditation.com) to play nature sounds for meditation or focus.
-- [Focus](https://www.icloud.com/shortcuts/688302ac7b3a4266807b0edd8ec5b13f) - Play my `Focus` instrumental song on Spotify. Usually it's Nils Frahm but sometimes changes.
-- [Home](https://www.icloud.com/shortcuts/fcb1a8f5cf574616a61a49e36997af79) - Show directions to your home in Google Maps (must have `Home` address filled in).
-- [Find](https://www.icloud.com/shortcuts/6d139d0bc54d40e2bde180a4589fb4fa) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
-- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
+- [Focus](https://www.icloud.com/shortcuts/fb369f28d11c46e9a71abf963d146ac0) - Open [Oak app](https://www.oakmeditation.com) to play nature sounds for meditation or focus.
+- [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
+- [Find](https://www.icloud.com/shortcuts/6f7426799acc4eb4ac16b979d5c86fa6) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work/Home) in Google Maps.
+- [Likes](https://www.icloud.com/shortcuts/758aabd8c7e94874b2514e36243d4036) - Play my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
 - [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
-- [Share](https://www.icloud.com/shortcuts/43b71d4672ca40df9390497702cc97a7) - Make voice recording and share it.
+- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- Saved - Opens `Saved messages` in Telegram. To make this shortcut yourself: `Close Shortcuts, write message to Saved Messages, Open Shortcuts. It will show up as suggested action`
+- [Streaks](https://www.icloud.com/shortcuts/6644b103498f476390f4ec5c23cc813c) - Opens [Streaks](https://streaksapp.com) app.
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
-- [Relax](https://www.icloud.com/shortcuts/0b76851b3c3d4bfe9f3d13ed894690f3) - Plays a relaxing song on Spotify. Useful when wanting to take a nap or going to sleep.
-- [Today](https://www.icloud.com/shortcuts/9816be0607cf4fa28b07e1753948ff0e) - Open `On This Day` in [Day One](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one). Shows my Instagram/Twitter + private entries I made 1/2/.. years ago.
-- [More](https://www.icloud.com/shortcuts/ff25889ab53d4d4d9f5d58fcdaf5835b) - Contains all other actions I want to call:
-  - [Scan](https://www.icloud.com/shortcuts/4330385840764ff382f5762dbb6d7b42) - Make a scan with [Scanner Pro](https://apps.apple.com/us/app/scanner-pro/id333710667).
 - [Pack](https://www.icloud.com/shortcuts/ab6d70f66b6c470d8c8f3a60c0250b71) - Checklist for items to bring when traveling.
+- [Today](https://www.icloud.com/shortcuts/9816be0607cf4fa28b07e1753948ff0e) - Open `On This Day` in [Day One](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one). Shows my Instagram/Twitter + private entries I made 1/2/.. years ago.
 
 I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
