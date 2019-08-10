@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/epEvkSB.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/uCJNmLQ.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/YfXcijI.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/bv6sNb0.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/fQkc3gz.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/OnfHaXJ.jpg"></a>
 
 ##### Contents
 
@@ -37,11 +37,11 @@
 
 ## Philosophy
 
-For me, an iPhone is essentially a consumption and communication device. Everything I can do on the phone, I can do faster and better on my MacBook. Thus I find it is very valuable to give each of these devices a well defined purpose and use them appropriately.
+For me, an iPhone is essentially a consumption and communication device. Everything I can do on the phone, I can do faster and better on my MacBook. Thus I find it is valuable to give each of these devices a well defined purpose and use them appropriately.
 
-With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content. Reddit, Hacker News, Medium or any other news outlet you prefer to stay on top of news. Staying on top of everything at all times is exhausting and addictive.
+With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content or any other news outlet you prefer to stay on top of things. Staying on top of everything at all times is exhausting and addictive.
 
-I use my phone when I am not using my computer. I use it to read books, make photographs, quickly edit them, check tasks I have set out to do, listen to podcasts, music, audio books, read Wikipedia, answer messages on Slack, Telegram, write quick notes and memos, search the internet and read my mail. I of course do other things too, but these are the main things. With that said, I try to use the best tools that I can to get these tasks completed.
+I use my phone when I am not using my computer. I use it to send & read messages, make photographs, check & write tasks I have to do, listen to podcasts, music, audio books, read wiki, write quick notes and more. I try to use the best tools that I can to get these tasks completed. And I mindfully spend my time on my phone to make sure I don't waste it.
 
 ## Applications
 
@@ -67,15 +67,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Day One](https://dayoneapp.com) - Digital journal
 
-- I often use it to check on events that happened to me `On this day`. I wrote about all the different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one).
+- I use it to check on events that happened to me `On this day`. I wrote about different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one).
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
 - I use the app to collect my favorite [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
-
-#### [PDF Expert](https://itunes.apple.com/us/app/pdf-expert-by-readdle/id743974925?mt=8) - PDF reader/editor
-
-- Use it to read PDF books and documents. I try to not waste time on my phone and always do something proactive and useful. I also have a [huge list of books I want to read](https://wiki.nikitavoloboev.xyz/books).
 
 #### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
 
@@ -158,10 +154,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
 
-#### [Google Assistant](https://itunes.apple.com/us/app/google-assistant/id1220976145?mt=8)
-
-- Other than Siri shortcuts, Siri is still very limited in what it can do. Gooogle assistant is much better at understanding a [broad range of commands](http://ok-google.io).
-
 #### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
 
 - I store all my documents and files in iCloud, however I love using Google Docs/Sheets and I use IFTTT to log automatically various things like [saving all my liked YouTube videos to a Google Sheet](https://ifttt.com/applets/74691784d-save-all-of-your-liked-videos-in-a-spreadsheet).
@@ -194,11 +186,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Foursquare](https://itunes.apple.com/us/app/foursquare-city-guide/id306934924?mt=8) - Restaurants and bars nearby
 
-- Use the app to mark all the places I've been too and make many lists of places I've liked.
+- Use the app to mark places I've been too and see what's best around my current year (as Google Maps doesn't have this feature).
 
 #### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
 
-- Prefer using it over Apple Maps.
+- Collect lists of places I want to visit and acts as my general travel guide for the world.
 
 ### Safari Browser
 
@@ -277,17 +269,17 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## WatchOS
 
-I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events. I use two Infograph Modular watch faces. One for general use & one for evenings.
+I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/u01yiAS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/q0D1DCb.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/lGZhnii.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/BReVYOP.jpg"></a>
 
-The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). I can also quickly start a timer and do some breathing exercise to bring my mind into place. It also lets me quickly start a Workout (running/biking/walking) session with a click of a button or a small bodyweight exercise workout with [Streaks Workout](https://streaksworkout.com).
+The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start a Workout (running/biking/walking) with a click of a button. And I can quickly start a timer and see my activity ring progress from a glance.
 
-The second watch face is one I mostly activate in the evening and it shows my activity data and whether I completed my daily three rings as well as information from my last sleep session. I charge my phone briefly in the evening and sleep with my watch to accurately track my sleep with [AutoSleep](http://autosleep.tantsissa.com) and wake up during light sleep with haptic feedback from [AutoWake](https://autowake.tantsissa.com) (auto set to 6:30). I also use [Just Press Record](http://heartwatch.tantsissa.com/) to make quick audio recordings and [Strong](http://strongapp.io) app for tracking bigger workouts I do.
+The second watch face is one I mostly activate when I do exercise. It shows all my activity data for the day and my heart rate. I start my workouts using [Strong](http://strongapp.io) app on iOS and I often do bodyweight exercises with [Streaks Workout](https://streaksworkout.com).
 
 ## iPad
 
