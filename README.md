@@ -258,15 +258,6 @@ Here is how my control center looks:
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" heigth="400" src="https://i.imgur.com/ySxCCsm.jpg"></a>
 
-## Games
-
-I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
-
-<img src="https://i.imgur.com/T7u37cx.jpg" width="400" alt="img">
-
-- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
-- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
-
 ## WatchOS
 
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
@@ -301,8 +292,12 @@ Most apps on my iPad are the same as ones on my phone. The few apps that are iPa
 
 ### Games
 
-I sometimes like to play games on my iPad too. Here are the games I've been playing lately.
+I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
 
+## Games
+
+- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
+- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
 - [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
 - [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
 - [Human Resource Machine](https://itunes.apple.com/us/app/human-resource-machine/id1005098334?mt=8)
