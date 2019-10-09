@@ -263,10 +263,10 @@ Here is how my control center looks:
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/q0D1DCb.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/EN8urRq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/BReVYOP.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/4aKuNpA.jpg"></a>
 
 The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start a Workout (running/biking/walking) with a click of a button. And I can quickly start a timer and see my activity ring progress from a glance.
 
