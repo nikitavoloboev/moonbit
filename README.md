@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/2LEPLZJ.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/tD18X5f.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/u5vo60S.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/jqj2Frn.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/exRdhU7.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/PcgC2Kh.jpg"></a>
 
 ##### Contents
 
@@ -203,10 +203,10 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/x43lmP4.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/LxflhqS.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/reT9E35.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/FzRDiYh.jpg"></a>
 
 ## Shortcuts
 
