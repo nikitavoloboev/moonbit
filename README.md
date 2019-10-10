@@ -290,11 +290,9 @@ Most apps on my iPad are the same as ones on my phone. The few apps that are iPa
 - [Procreate](https://procreate.art) - Draw.
 - [Pixave](http://www.littlehj.com/ios/) - Image organizer.
 
-### Games
+## Games
 
 I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
-
-## Games
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
 - [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
