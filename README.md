@@ -277,13 +277,10 @@ The second watch face is one I mostly activate when I do exercise. It shows all 
 I mostly use my iPad for drawing with [Procreate](https://procreate.art), reading books and sketching things with Notes.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/gg46VOE.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/gAkSx6i.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/UtlBcYT.jpg"></a>
-
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/LJZxeeY.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/FRo0Vzg.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
