@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/tD18X5f.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/jqj2Frn.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/eKTSl3z.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/PcgC2Kh.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/MzULe6h.jpg"></a>
 
 ##### Contents
 
@@ -203,10 +203,10 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/LxflhqS.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/f9CCIim.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/FzRDiYh.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ksEOwRs.jpg"></a>
 
 ## Shortcuts
 
