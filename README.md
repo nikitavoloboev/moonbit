@@ -223,7 +223,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
 - [Focus](https://www.icloud.com/shortcuts/18f522233d6340718b8b295ee0dbd03b) - Open [Dark Noise](https://darknoise.app) app & play Fire sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
-- [Find](https://www.icloud.com/shortcuts/357558e30abe4802ba302dae609cf391) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work/Home) in Google Maps.
+- [Find](https://www.icloud.com/shortcuts/357558e30abe4802ba302dae609cf391) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
 - [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
 - [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
