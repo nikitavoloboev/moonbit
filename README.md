@@ -235,7 +235,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 
 I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-![]https://i.imgur.com/8vZ0N10.png)
+![](https://i.imgur.com/8vZ0N10.png)
 
 I use 2 colors for my shortcuts, Grey for ones that are activated from Widgets and Brown for every other shortcut.
 
