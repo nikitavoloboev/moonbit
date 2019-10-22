@@ -1,4 +1,4 @@
-# My wonderful world of iOS [![Thanks](http://bit.ly/saythankss)](https://github.com/users/nikitavoloboev/sponsorship)
+# My wonderful world of iOS [![Thanks](http://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
 
 > List of applications and tools that make my iOS experience even more amazing
 
@@ -314,6 +314,6 @@ I love finding new awesome tools and apps. If you have a favorite tool or app th
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/users/nikitavoloboev/sponsorship) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
 [![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
