@@ -53,10 +53,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - My task manager of choice. I [use tags to organize my tasks](https://wiki.nikitavoloboev.xyz/macos/macos-apps/2do) and work on tasks based on priority.
 
-#### [Streaks](https://streaksapp.com) - Habit tracker
-
-- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits). There are 12 of them & I want to complete them all for a perfect day.
-
 #### [Fantastical](https://itunes.apple.com/nl/app/fantastical-2-for-iphone/id718043190?mt=8) - Calendar
 
 - Prefer it to stock calendar app due to a cleaner design and ability to add events quickly with natural language.
@@ -71,11 +67,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
-- I use the app to collect my favorite [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
+- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
 
-#### [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) - Meditation
+#### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Use the app for listening to background noise as I often dislike listening to music when trying to focus. I also use it to practice focused meditation.
+- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits). There are 12 of them & I want to complete them all for a perfect day.
 
 ### Social
 
@@ -184,13 +180,9 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Travel
 
-#### [Foursquare](https://itunes.apple.com/us/app/foursquare-city-guide/id306934924?mt=8) - Restaurants and bars nearby
-
-- Use the app to mark places I've been too and see what's best around my current year (as Google Maps doesn't have this feature).
-
 #### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
 
-- Collect lists of places I want to visit and acts as my general travel guide for the world.
+- Collect [lists of places](https://wiki.nikitavoloboev.xyz/travel/visited) I want to visit and acts as my general travel guide for the world.
 
 ### Safari Browser
 
