@@ -264,10 +264,10 @@ The second watch face is one I mostly activate when I do exercise. It shows all 
 I mostly use my iPad for drawing with [Procreate](https://procreate.art), reading books and sketching things with Notes.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/gAkSx6i.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/502my6H.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/FRo0Vzg.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/9F6U5Qy.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
@@ -276,7 +276,7 @@ Most apps on my iPad are the same as ones on my phone. The few apps that are iPa
 
 ## Games
 
-I don't play games often but the games I do like to play on iOS are usually puzzles. Here are some games I am playing now.
+I don't play games often but the games I do like to play on iOS are usually puzzles.
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
 - [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
