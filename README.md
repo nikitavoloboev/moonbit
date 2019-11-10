@@ -213,7 +213,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
-- [Focus](https://www.icloud.com/shortcuts/18f522233d6340718b8b295ee0dbd03b) - Open [Dark Noise](https://darknoise.app) app & play Fire sound.
+- [Focus](https://www.icloud.com/shortcuts/8857f549516b4e84948674de2053d3d5) - Open [Dark Noise](https://darknoise.app) app & play rain sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Find](https://www.icloud.com/shortcuts/357558e30abe4802ba302dae609cf391) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
 - [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
