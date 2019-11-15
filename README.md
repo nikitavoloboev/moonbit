@@ -154,7 +154,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - I store all my documents and files in iCloud, however I love using Google Docs/Sheets and I use IFTTT to log automatically various things like [saving all my liked YouTube videos to a Google Sheet](https://ifttt.com/applets/74691784d-save-all-of-your-liked-videos-in-a-spreadsheet).
 
-#### [GitHawk](http://githawk.com/) - GitHub on the Go
+#### [GitHub](https://github.com/mobile) - GitHub on the Go
 
 - Use it respond to issues on GitHub as well as create issues to repositories.
 
