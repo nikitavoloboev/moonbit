@@ -261,7 +261,7 @@ The second watch face is one I mostly activate when I do exercise. It shows all 
 
 ## iPad
 
-I mostly use my iPad for drawing with [Procreate](https://procreate.art), reading books and sketching things with Notes.
+I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & reading books.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="400" heigth="400" src="https://i.imgur.com/502my6H.jpg"></a>
