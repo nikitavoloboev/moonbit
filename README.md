@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/tD18X5f.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/ilRD4qd.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/eKTSl3z.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/UlNRSvm.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/MzULe6h.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/KhAJjOf.jpg"></a>
 
 #### Contents
 
@@ -195,10 +195,10 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/f9CCIim.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/vF8pmvl.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ksEOwRs.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LKP2KGb.jpg"></a>
 
 ## Shortcuts
 
@@ -208,20 +208,20 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
 - [Ask](https://www.icloud.com/shortcuts/78952a9606c64e0093dde6aa257513b9) - Open Google Assistant.
-- [Next](https://www.icloud.com/shortcuts/4e1f4630493d419ba4bd4d4a24164da7) - Show directions to next event(s).
+- [Next](https://www.icloud.com/shortcuts/495dcc6aa4ec4d87a103a6b43ef59bd8) - Show directions to next event(s).
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
 - [Focus](https://www.icloud.com/shortcuts/8857f549516b4e84948674de2053d3d5) - Open [Dark Noise](https://darknoise.app) app & play rain sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
-- [Find](https://www.icloud.com/shortcuts/357558e30abe4802ba302dae609cf391) - Find nearby (Nightlife/Libraries/Parks/Coffee/Groceries/Attractions/Restaurants/Work) in Google Maps.
+- [Search](https://www.icloud.com/shortcuts/bdaeb1ff3efe495eba396692a6dd5215) - Search Twitter app (Tweetbot search is worse).
 - [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
-- [Photo](https://www.icloud.com/shortcuts/3ff25e98d6a74c59b460efd61ff503cf) - Open [Halide](https://halide.cam) camera to make photo.
+- [Places](https://www.icloud.com/shortcuts/37c914ea7fd94d0caf815f932f33b741) - Find nearby (Parks/Libraries/Groceries/Restaurants/Attractions/Cafes) in Google Maps.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
-- [Likes](https://www.icloud.com/shortcuts/4ba6e0368be74f2ab5d21ad0ce340b4d) - Play my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
-- [Streaks](https://www.icloud.com/shortcuts/6644b103498f476390f4ec5c23cc813c) - Opens [Streaks](https://streaksapp.com) app.
 - [Home](https://www.icloud.com/shortcuts/6fc677dd93cb4bab9897e9388c895660) - Get directions to Home in Google Maps.
+- [Streaks](https://www.icloud.com/shortcuts/6644b103498f476390f4ec5c23cc813c) - Opens [Streaks](https://streaksapp.com) app.
+- [Likes](https://www.icloud.com/shortcuts/4ba6e0368be74f2ab5d21ad0ce340b4d) - Play my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
 - [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
 - [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
 
