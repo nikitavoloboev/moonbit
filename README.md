@@ -197,9 +197,6 @@ Here are the widgets I use:
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="250" helgth="400" src="https://i.imgur.com/vF8pmvl.jpg"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/LKP2KGb.jpg"></a>
-
 ## Shortcuts
 
 I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
