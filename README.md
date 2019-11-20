@@ -250,14 +250,14 @@ Here is how my control center looks:
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/EN8urRq.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/4JQF26r.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/4aKuNpA.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/PhpmJud.jpg"></a>
 
-The main watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start a Workout (running/biking/walking) with a click of a button. And I can quickly start a timer and see my activity ring progress from a glance.
+The first watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
 
-The second watch face is one I mostly activate when I do exercise. It shows all my activity data for the day and my heart rate. I start my workouts using [Strong](http://strongapp.io) app on iOS and I often do bodyweight exercises with [Streaks Workout](https://streaksworkout.com).
+The second watch face is one I activate when I want to see the progress on my activity rings. It shows both my activity data & my heart rate.
 
 ## iPad
 
