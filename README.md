@@ -61,17 +61,9 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - I use it to track my workouts. I have a few custom workouts I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
 
-#### [Day One](https://dayoneapp.com) - Digital journal
-
-- I use it to check on events that happened to me `On this day`. I wrote about different journals I use and how [here](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one).
-
-#### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
-
-- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
-
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits). There are 12 of them & I want to complete them all for a perfect day.
+- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits) I want to complete each day.
 
 ### Social
 
@@ -90,7 +82,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Spark](https://sparkmailapp.com) - Mail client
 
-- My favorite email client that I love due its simplicity of UI and UX as well as separation of emails based on their type (Inbox, newsletters) and ability to snooze emails.
+- My favorite email client that I love due its simplicity of UI and UX as well as separation of emails based on their type (Inbox, newsletters).
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 
@@ -118,7 +110,7 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Books](https://www.apple.com/ibooks/)
 
-- Use it listen to audiobooks I downloaded because Audible is too expensive. As well as read books with `.epub` extension.
+- Use it to read books (PDF & EPUB). And listen to audio books I downloaded that Audible doesn't have.
 
 #### [V for Wiki](http://v-for-wiki.com) - Wiki reader
 
@@ -126,11 +118,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8) - Online publishing platform
 
-- Use the app to read articles on Medium in Night Mode.
+- Use the app to read articles in night mode.
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
 
-- All of my [ideas](https://trello.com/b/alB1ryRP) and plans live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
+- All of my [ideas](https://trello.com/b/alB1ryRP) and goals live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
 
 #### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
 
@@ -152,11 +144,11 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
 
-- I store all my documents and files in iCloud, however I love using Google Docs/Sheets and I use IFTTT to log automatically various things like [saving all my liked YouTube videos to a Google Sheet](https://ifttt.com/applets/74691784d-save-all-of-your-liked-videos-in-a-spreadsheet).
+- I store all my documents and files in iCloud, however I love using Google Docs/Sheets for collaborating on documents.
 
 #### [GitHub](https://github.com/mobile) - GitHub on the Go
 
-- Use it respond to issues on GitHub as well as create issues to repositories.
+- Use it respond or create issues on GitHub & keep up to date on activity of my watched repos.
 
 #### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
 
@@ -165,6 +157,10 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
 
 - Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
+
+#### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
+
+- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
 
 ### Write
 
