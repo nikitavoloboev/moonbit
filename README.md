@@ -281,7 +281,7 @@ I don't play games often but the games I do like to play on iOS are usually puzz
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 If you found this interesting, I also have a [similar repository](https://github.com/nikitavoloboev/my-mac-os#readme) going over what applications I use on macOS.
 
