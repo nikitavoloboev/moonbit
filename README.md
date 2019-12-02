@@ -257,10 +257,10 @@ The second watch face is one I activate when I want to see the progress on my ac
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & reading books.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/502my6H.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/HkWcjnJ.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/9F6U5Qy.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/GXQjqv3.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
