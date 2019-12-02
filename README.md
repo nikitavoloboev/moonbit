@@ -254,7 +254,7 @@ The second watch face is one I activate when I want to see the progress on my ac
 
 ## iPad
 
-I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & reading books.
+I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & playing [Chess](https://lichess.org).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="400" heigth="400" src="https://i.imgur.com/HkWcjnJ.jpg"></a>
