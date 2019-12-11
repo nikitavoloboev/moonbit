@@ -191,7 +191,7 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/vF8pmvl.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/UpXdn15.jpg"></a>
 
 ## Shortcuts
 
@@ -243,24 +243,16 @@ Here is how my control center looks:
 I use Apple Watch as a way to track my health and fitness and view useful information at a glance like current time and events.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/4JQF26r.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Cbv6c9r.jpg"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/PhpmJud.jpg"></a>
-
-The first watch face is one I am using throughout the majority of the day. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
-
-The second watch face is one I activate when I want to see the progress on my activity rings. It shows both my activity data & my heart rate.
+I use only one Infograph Modular watch face. It shows the current time and day, the weather and my current or future calendar events (with [Fantastical](https://flexibits.com/fantastical)). It also lets me quickly start cardio workout (running/biking) or bodyweight workout (with [Streaks Workout](https://streaksworkout.com)). I can also start a timer or see the time of a timer if one is already running.
 
 ## iPad
 
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & playing [Chess](https://lichess.org).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/HkWcjnJ.jpg"></a>
-
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/GXQjqv3.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/F3Wgb7W.jpg"></a>
 
 Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
 
