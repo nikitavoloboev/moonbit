@@ -165,8 +165,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Use the app to read through my [Inoreader](https://www.inoreader.com) feeds of [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs).
 
-### Utilities
-
 ### Write
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
