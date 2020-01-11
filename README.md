@@ -57,12 +57,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Prefer it to stock calendar app due to a cleaner design and ability to add events quickly with natural language.
 
-#### [Safari](https://www.apple.com/uk/safari/) - Browser
-
-- One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are my top bookmarked sites I use:
-
-<img src="https://i.imgur.com/VFzek42.jpg" width="300" alt="img">
-
 #### [Strong](http://strongapp.io) - Workout tracker
 
 - Use it to track my workouts. I have few custom workouts I made that I can start and simply follow the exercises and the number of sets for the exercise as my workout progresses. I most usually start and track my workouts with my [Apple Watch](#watchos) using [Streaks Workout](https://streaksworkout.com) to start bodyweight exercise workouts and Workouts to start cardio workouts (Running/Cycling).
@@ -94,6 +88,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
 - I use the app to collect my favorite [plant based recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
+
+#### [Safari](https://www.apple.com/uk/safari/) - Browser
+
+- One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are my top bookmarked sites I use:
+
+<img src="https://i.imgur.com/VFzek42.jpg" width="300" alt="img">
 
 ### Social
 
