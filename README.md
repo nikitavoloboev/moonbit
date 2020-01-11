@@ -9,21 +9,20 @@
     <img width="250" heigth="400" src="https://i.imgur.com/UlNRSvm.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KhAJjOf.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/qsinsMT.jpg"></a>
 
 #### Contents
 
 - [Philosophy](#philosophy)
 - [Applications](#applications)
-  - [Productivity](#productivity)
+  - [Utilities](#utilities)
   - [Social](#social)
   - [Photos](#photos)
   - [Learn](#learn)
-  - [Utilities](#utilities)
   - [Write](#write)
   - [Music](#music)
   - [Travel](#travel)
-  - [Safari Browser](#safari-browser)
+  - [Automation](#automation)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
   - [Automation triggered shortcuts](#automation-triggered-shortcuts)
@@ -47,7 +46,7 @@ I use my phone when I am not using my computer. I use it to send & read messages
 
 Here is a list of apps that I use the most in my day to day life, sorted by category and their importance.
 
-### Productivity
+### Utilities
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
@@ -57,6 +56,12 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Prefer it to stock calendar app due to a cleaner design and ability to add events quickly with natural language.
 
+#### Safari
+
+One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
+
+<img src="https://i.imgur.com/VFzek42.jpg" width="300" alt="img">
+
 #### [Strong](http://strongapp.io) - Workout tracker
 
 - I use it to track my workouts. I have a few custom workouts I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
@@ -64,6 +69,30 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
 - Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits) I want to complete each day.
+
+#### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
+
+- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
+
+#### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
+
+- I store all my documents and files in iCloud, however I love using Google Docs/Sheets for collaborating on documents.
+
+#### [GitHub](https://github.com/mobile) - GitHub on the Go
+
+- Use it respond or create issues on GitHub & keep up to date on activity of my watched repos.
+
+#### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
+
+- Use the app to block annoying ads and tracking in Safari.
+
+#### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
+
+- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
+
+#### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
+
+- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
 
 ### Social
 
@@ -138,30 +167,6 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 ### Utilities
 
-#### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
-
-- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
-
-#### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
-
-- I store all my documents and files in iCloud, however I love using Google Docs/Sheets for collaborating on documents.
-
-#### [GitHub](https://github.com/mobile) - GitHub on the Go
-
-- Use it respond or create issues on GitHub & keep up to date on activity of my watched repos.
-
-#### [Wipr](https://itunes.apple.com/us/app/wipr/id1030595027) - Safari ad blocker
-
-- Use the app to block annoying ads and tracking in Safari.
-
-#### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
-
-- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
-
-#### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
-
-- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
-
 ### Write
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
@@ -172,30 +177,34 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8) - Music streaming
 
-- Prefer using Spotify over Apple Music due to superior music discovery and ability to create and [share playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists) easily.
+- Love using it due to superior music recommendation, UI/UX and social features like [playlist sharing](https://wiki.nikitavoloboev.xyz/music/music-playlists) .
 
 ### Travel
 
 #### [Google Maps](https://itunes.apple.com/us/app/google-maps-transit-food/id585027354?mt=8) - GPS, City Navigation & Traffic
 
-- Collect [lists of places](https://wiki.nikitavoloboev.xyz/travel/visited) I want to visit and acts as my general travel guide for the world.
+- Use it as my main navigation app and a travel guide. Collect [lists of places I want to visit and places I loved seeing](https://wiki.nikitavoloboev.xyz/travel/visited).
 
-### Safari Browser
+### Automation
 
-One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
+#### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
 
-<img src="https://i.imgur.com/VFzek42.jpg" width="300" alt="img">
+- Lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. Plan to learn how to use it well to write more sophisticated shortcuts.
+
+#### [Pushcut](https://www.pushcut.io/) - Smart notifications that trigger your automation
+
+- Didn't find a use for it yet.
 
 ## Widgets
 
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/UpXdn15.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/HUb21kd.jpg"></a>
 
 ## Shortcuts
 
-I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use as widgets with Grey color. I activate nearly all of them from widgets that can be seen above.
+I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use with one color (Grey) for consistency. All the top shortcuts I use are activated with widgets (as seen above).
 
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
@@ -206,37 +215,28 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
-- [Focus](https://www.icloud.com/shortcuts/8857f549516b4e84948674de2053d3d5) - Open [Dark Noise](https://darknoise.app) app & play rain sound.
+- [Focus](https://www.icloud.com/shortcuts/b579d573c40f44f5955666c883fb747f) - Open [Dark Noise](https://darknoise.app) app & play fire sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Search](https://www.icloud.com/shortcuts/bdaeb1ff3efe495eba396692a6dd5215) - Search Twitter app (Tweetbot search is worse).
 - [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
-- [Places](https://www.icloud.com/shortcuts/37c914ea7fd94d0caf815f932f33b741) - Find nearby (Parks/Libraries/Groceries/Restaurants/Attractions/Cafes) in Google Maps.
+- [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
+- [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
+- [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
-- [Home](https://www.icloud.com/shortcuts/6fc677dd93cb4bab9897e9388c895660) - Get directions to Home in Google Maps.
+- [Likes](https://www.icloud.com/shortcuts/4ba6e0368be74f2ab5d21ad0ce340b4d) - Open my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
 - [Streaks](https://www.icloud.com/shortcuts/6644b103498f476390f4ec5c23cc813c) - Opens [Streaks](https://streaksapp.com) app.
-- [Likes](https://www.icloud.com/shortcuts/4ba6e0368be74f2ab5d21ad0ce340b4d) - Play my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
-- [Record](https://www.icloud.com/shortcuts/2fe83073c5e0428481b3e0d59938eef0) - Open [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) app.
 - [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
 
-I use a `Test` shortcut often to prototype new ideas quickly. I then duplicate the shortcut & give it a name and place it accordingly. I use the same idea of `Test` prototype macro with [Keyboard Maestro macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
+I use a `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
-![](https://i.imgur.com/8vZ0N10.png)
-
-I use 2 colors for my shortcuts, Grey for ones that are activated from Widgets and Brown for every other shortcut.
-
-<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/nSWA4rD.jpg"></a>
-
-### [Scriptable](https://itunes.apple.com/us/app/scriptable/id1405459188?mt=8) - Automation using JavaScript
-
-- Lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone.
+![](https://i.imgur.com/r0XXifl.png)
 
 ## Control Center
 
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/5N6ZCM6.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/KeIAlB0.jpg"></a>
 
 ## WatchOS
 
@@ -249,19 +249,19 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) & playing [Chess](https://lichess.org).
+I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil. I also enjoy using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380) and playing [Chess](https://lichess.org).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="400" heigth="400" src="https://i.imgur.com/F3Wgb7W.jpg"></a>
 
-Most apps on my iPad are the same as ones on my phone. The few apps that are iPad specific are:
+Most apps on my iPad are identical to my phone. The few apps that are iPad specific are:
 
 - [Procreate](https://procreate.art) - Draw.
 - [Pixave](http://www.littlehj.com/ios/) - Image organizer.
 
 ## Games
 
-I don't play games often but the games I do like to play on iOS are usually puzzles.
+I prefer using PS4 for playing games as the games there are much better. There were a few games on iOS I did like though.
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
 - [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
