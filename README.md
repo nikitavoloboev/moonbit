@@ -15,7 +15,7 @@
 
 - [Philosophy](#philosophy)
 - [Applications](#applications)
-  - [Utilities](#utilities)
+  - [Productivity](#productivity)
   - [Social](#social)
   - [Photos](#photos)
   - [Learn](#learn)
@@ -23,6 +23,7 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Automation](#automation)
+- [Other apps](#other-apps)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
   - [Automation triggered shortcuts](#automation-triggered-shortcuts)
@@ -46,7 +47,7 @@ I use my phone when I am not using my computer. I use it to send & read messages
 
 Here is a list of apps that I use the most in my day to day life, sorted by category and their importance.
 
-### Utilities
+### Productivity
 
 #### [2Do](https://www.2doapp.com/ios/) - Flexible task manager
 
@@ -58,25 +59,25 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 #### Safari
 
-One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are the ones I use most often on iOS:
+One of the best features of Safari is fast access to bookmarks on opening of new tabs. Here are my top bookmarked sites I use:
 
 <img src="https://i.imgur.com/VFzek42.jpg" width="300" alt="img">
 
 #### [Strong](http://strongapp.io) - Workout tracker
 
-- I use it to track my workouts. I have a few custom workouts I made that I can then start and simply follow the exercises and the number of sets for the exercise as my workout progresses.
+- Use it to track my workouts. I have few custom workouts I made that I can start and simply follow the exercises and the number of sets for the exercise as my workout progresses. I most usually start and track my workouts with my [Apple Watch](#watchos) using [Streaks Workout](https://streaksworkout.com) to start bodyweight exercise workouts and Workouts to start cardio workouts (Running/Cycling).
 
 #### [Streaks](https://streaksapp.com) - Habit tracker
 
-- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits) I want to complete each day.
+- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits) I want to complete each day. Get notification at 22:20 every day as a reminder to go to sleep and check on the habits.
 
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
 
-- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. With iOS 12, the app seamlessly integrates with the OS so I can autofill my saved passwords in seconds.
+- Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. It seamlessly integrates with the OS so I can autofill saved passwords in seconds.
 
 #### [Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) - Cloud Storage
 
-- I store all my documents and files in iCloud, however I love using Google Docs/Sheets for collaborating on documents.
+- All my documents (files) are stored in iCloud. However Google Docs/Sheets are amazing tools for collaborating on documents.
 
 #### [GitHub](https://github.com/mobile) - GitHub on the Go
 
@@ -88,26 +89,25 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 
 #### [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8)
 
-- Use the app to track my ongoing subscriptions. I review it at the start of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
+- Use the app to track my ongoing subscriptions. I review it at the end of every month and [update my budget](https://wiki.nikitavoloboev.xyz/finance) for the month accordingly.
 
 #### [Paprika](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868?ls=1&mt=8) - Recipe manager
 
-- I use the app to collect my favorite [vegan recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
+- I use the app to collect my favorite [plant based recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/recipes).
 
 ### Social
 
 #### [Telegram](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8) - Messenger
 
-- My favorite messenger and I prefer it over others due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use.
-- I also use the app to quickly send media/messages between my mac and the phone.
+- My favorite messenger due its speed, its ability to sync with a native macOS client and the many free and awesome stickers you can use. I use Pocket to add links I want to check at some point in time. I also use Telegram Saved Messages and send messages to myself (links/quick-todos) that are of higher priority than Pocket. Adding quick todo to Telegram is much quicker than 2Do and it is assumed that the todo/note will be dealt with as soon as possible. I also use Saved Messages to share media between devices.
 
 #### [Tweetbot](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8) - Twitter client
 
-- My favorite Twitter client. I prefer it over others for its ability to sync timelines with the macOS app and the night theme.
+- My favorite Twitter client. Prefer it over official client for its ability to sync timelines with the macOS app, night theme and no ads. I do use the official Twitter app for searching as it has profile suggestions on searches that Tweetbot doesn't have.
 
 #### [Apollo](https://itunes.apple.com/us/app/apollo-for-reddit/id979274575?mt=8) - Reddit client
 
-- My preferred client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customized the app to work with my own gestures.
+- My favorite client for browsing Reddit. I love how you can operate the app seamlessly with gestures. I also customized the app to work with my own gestures (i.e. swiping back & forth by initiating the swipe in the middle of the screen and not on the side).
 
 #### [Spark](https://sparkmailapp.com) - Mail client
 
@@ -115,7 +115,7 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 
 #### [Slack](https://itunes.apple.com/app/slack-team-communication/id618783545) - Team communication
 
-- I only keep essential teams I am signed up on there.
+- Only keep essential teams I am signed up on there.
 
 ### Photos
 
@@ -123,17 +123,17 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 
 - The place for all my personal photos/videos synced with iCloud. I love its Memories features.
 
-#### [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Image editor and photo sharing
-
-- Use it to quickly edit photographs I made as I much prefer its filters and editing options than other photo editors. I then post the edited photos I like to Instagram.
-
-#### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
-
-- Like it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
-
 #### [Slidebox](https://itunes.apple.com/us/app/slidebox-photo-manager/id984305203?mt=8) - Photo & Album Organizer
 
 - Use the app to quickly delete bad photos and sort photos into albums quickly. I try have all the photos in my Photos library be placed in some folder and this app lets me easily do that.
+
+#### [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Image editor and photo sharing
+
+- Use it to quickly edit photographs I made as I much prefer its filters and editing options than other photo editors. I then post the edited photos I like to Instagram. I prefer to not edit the photos shot on the phone and only edit photos shot with a proper camera.
+
+#### [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt%3D8) - Photo sharing
+
+- Love it as a way to [share my life](https://www.instagram.com/nikitavoloboev/) through photographs, videos and stories.
 
 ### Learn
 
@@ -151,15 +151,15 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 
 #### [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Project management tool
 
-- All of my [ideas](https://trello.com/b/alB1ryRP) and goals live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
-
-#### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
-
-- I have low attention span on reading books so listening to audibooks is perfect for me. I listen to either a podcast or an audiobook when I am commuting or doing errands.
+- All of my [ideas](https://trello.com/b/alB1ryRP) and projects live on Trello. The app makes accessing [any Trello board I need](https://wiki.nikitavoloboev.xyz/sharing/my-trello) quickly.
 
 #### [Overcast](https://overcast.fm) - Podcasts
 
 - Lets me listen to the plethora of [podcasts I love](https://wiki.nikitavoloboev.xyz/podcasts). I love its [smart speed](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b#.f05tiojfo) feature to cut out on silent pauses.
+
+#### [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks
+
+- If I am not listening to a podcast or relaxing by playing music, I listen to books.
 
 #### [Reeder](http://reederapp.com/ios/) - RSS Reeder
 
@@ -171,7 +171,7 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- I mostly use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
+- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
 
 ### Music
 
@@ -194,6 +194,16 @@ One of the best features of Safari is fast access to bookmarks on opening of new
 #### [Pushcut](https://www.pushcut.io/) - Smart notifications that trigger your automation
 
 - Didn't find a use for it yet.
+
+### Other apps
+
+I don't go over describing all the apps I use and you can see for yourself the apps I use in above screenshots. As I only have two spaces on my phone to minimize hand movement, I had to use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise). Some of these folders are filled to the second level. Specifically these three folders:
+
+![](https://i.imgur.com/jhH6MOS.png)
+
+Here are the contents of all of these folders with names of the apps inside, if you wish to try them too.
+
+![](https://i.imgur.com/PFAZTsx.png)
 
 ## Widgets
 
