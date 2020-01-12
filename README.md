@@ -225,7 +225,7 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Focus](https://www.icloud.com/shortcuts/b579d573c40f44f5955666c883fb747f) - Open [Dark Noise](https://darknoise.app) app & play fire sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Search](https://www.icloud.com/shortcuts/bdaeb1ff3efe495eba396692a6dd5215) - Search Twitter app (Tweetbot search is worse).
-- [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens `private-notes` in Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
+- [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
 - [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
 - [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
 - [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
