@@ -256,10 +256,10 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil. I also enjoy using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380) and playing [Chess](https://lichess.org).
+I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art)/Notes and Apple Pencil. And sometimes using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="400" heigth="400" src="https://i.imgur.com/F3Wgb7W.jpg"></a>
+    <img width="400" heigth="400" src="https://i.imgur.com/6cTC3pN.jpg"></a>
 
 Most apps on my iPad are identical to my phone. The few apps that are iPad specific are:
 
