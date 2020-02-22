@@ -258,7 +258,7 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art)/Notes and Apple Pencil. And sometimes using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/6cTC3pN.jpg)
+![](https://i.imgur.com/bOX8rP8.jpg)
 
 Most apps on my iPad are identical to my phone. The few apps that are iPad specific are:
 
