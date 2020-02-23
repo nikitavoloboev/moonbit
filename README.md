@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/ilRD4qd.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/35sybVW.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/nMFbdVG.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/Mu9LmtS.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/pIWSV76.jpg"></a>
 
 #### Contents
 
@@ -23,6 +23,7 @@
   - [Music](#music)
   - [Travel](#travel)
   - [Automation](#automation)
+  - [Dev page](#dev-page)
   - [Other apps](#other-apps)
 - [Widgets](#widgets)
 - [Shortcuts](#shortcuts)
@@ -192,13 +193,17 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 - Didn't find a use for it yet.
 
+### Dev page
+
+As I develop apps for iOS, I have 3rd page dedicated to `in development` apps.
+
+![](https://i.imgur.com/lLMvjH8.jpg)
+
 ### Other apps
 
-I don't go over describing all the apps I use and you can see for yourself the apps I use in above screenshots. As I only have two spaces on my phone to minimize hand movement, I had to use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise). Some of these folders are filled to the second level. Specifically these three folders:
+I don't go over describing all the apps I use and you can see for yourself the apps I use in above screenshots. As I only have two active spaces on my phone to minimize hand movement, I had to use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise). Some of these folders are filled to the second level.
 
-![](https://i.imgur.com/jhH6MOS.png)
-
-Here are the contents of all of these folders with names of the apps inside, if you wish to try them too.
+Here are contents of all of these folders with names of apps inside, if you wish to try them too.
 
 ![](https://i.imgur.com/PFAZTsx.png)
 
@@ -207,7 +212,7 @@ Here are the contents of all of these folders with names of the apps inside, if 
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/HUb21kd.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/oerW8Lp.jpg"></a>
 
 ## Shortcuts
 
@@ -216,23 +221,23 @@ I color all the [shortcuts](https://support.apple.com/guide/shortcuts/welcome/io
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Event](https://www.icloud.com/shortcuts/450504cfd9154d02ac4957ed40869ed4) - Create new event with Fantastical.
 - [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
-- [Ask](https://www.icloud.com/shortcuts/78952a9606c64e0093dde6aa257513b9) - Open Google Assistant.
+- [Ask](https://www.icloud.com/shortcuts/5a5ce4ca0b544dbc8b75b9b62e3769ba) - Ask Google Assistant using the app.
 - [Next](https://www.icloud.com/shortcuts/495dcc6aa4ec4d87a103a6b43ef59bd8) - Show directions to next event(s).
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
-- [Tweet](https://www.icloud.com/shortcuts/f2b25ba22de1448392c61f4d0147986d) - Make new tweet with Tweetbot.
+- [Tweet](https://www.icloud.com/shortcuts/af9b8f223ec440daa04da332581f8415) - Start typing new tweet.
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
 - [Focus](https://www.icloud.com/shortcuts/b579d573c40f44f5955666c883fb747f) - Open [Dark Noise](https://darknoise.app) app & play fire sound.
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
-- [Search](https://www.icloud.com/shortcuts/bdaeb1ff3efe495eba396692a6dd5215) - Search Twitter app (Tweetbot search is worse).
 - [Notes](https://www.icloud.com/shortcuts/dfa44db105aa4e8ea4f1af019c5a1324) - Opens Ulysses. Will be replaced to activate Ulysses file search (when Ulysses adds such action).
+- Saved - Open Telegram Saved Messages. Can replicate it by adding an action to send message to yourself (Telegram provides it).
 - [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
 - [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
+- Find - Will be an action to search through Alfred workflows on iOS (building the app now).
 - [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
-- [Likes](https://www.icloud.com/shortcuts/4ba6e0368be74f2ab5d21ad0ce340b4d) - Open my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=OvTLCr86TWOI8eHcQlct7A).
-- [Streaks](https://www.icloud.com/shortcuts/6644b103498f476390f4ec5c23cc813c) - Opens [Streaks](https://streaksapp.com) app.
-- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with Spark.
+- [Today](https://www.icloud.com/shortcuts/4b3f8820158242819487ff90cb5285e4) - Open [Timehop](https://www.timehop.com) app to see past events that happened. Need to write my own app to do same as this one is bad.
+- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with [Spark](https://sparkmailapp.com).
 
 I use a `Test` shortcut to prototype new actions/ideas quickly. I then duplicate the working prototype & give it appropriate name. I use the same prototyping idea with [KM macros](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros).
 
