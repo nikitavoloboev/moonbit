@@ -197,7 +197,8 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 
 As I develop apps for iOS, I have 3rd page dedicated to `in development` apps.
 
-![](https://i.imgur.com/lLMvjH8.jpg)
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="250" helgth="400" src="https://i.imgur.com/lLMvjH8.jpg"></a>
 
 ### Other apps
 
