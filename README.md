@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/nMFbdVG.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/pePcefH.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/pIWSV76.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/J9vLRUK.jpg"></a>
 
 #### Contents
 
@@ -213,7 +213,7 @@ Here are contents of all of these folders with names of apps inside, if you wish
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/oerW8Lp.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/HCrF0xf.jpg"></a>
 
 ## Shortcuts
 
