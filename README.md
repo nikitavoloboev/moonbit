@@ -13,7 +13,7 @@
 
 #### Contents
 
-- [Philosophy](#philosophy)
+- [Focus](#focus)
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Social](#social)
@@ -35,17 +35,15 @@
 - [Related](#related)
 - [Contributing](#contributing)
 
-## Philosophy
+## Focus
 
-For me, an iPhone is essentially a consumption and communication device. Everything I can do on the phone, I can do faster and better on my MacBook. Thus I find it is valuable to give each of these devices a well defined purpose and use them appropriately.
+I have two active spaces on my phone to minimize hand movement & I use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise) to keep non essential apps away. Everything is optimized for reachability and ideally aesthetics (color matching).
 
-With all the freedom and power that a smartphone brings, it also brings a lot of **distraction**. There is Twitter, Reddit, Instagram with their endless feeds of streaming live updating content or any other news outlet you prefer to stay on top of things. Staying on top of everything at all times is exhausting and addictive.
-
-I use my phone when I am not using my computer. I use it to send & read messages, make photographs, check & write tasks I have to do, listen to podcasts, music, audio books, read wiki, write quick notes and more. I try to use the best tools that I can to get these tasks completed. And I mindfully spend my time on my phone to make sure I don't waste it.
+iPhone for me is a consumption and communication device with limited creation. Everything I can do on the phone, I can do faster and better on [macOS](https://github.com/nikitavoloboev/my-mac-os). Thus I limit & focus the kinds of activity I can do on the phone. Podcasts, chat, making photos, travel..
 
 ## Applications
 
-Here is a list of apps that I use the most in my day to day life, sorted by category and their importance.
+Here is a list of apps I use the most in my day to day life, sorted by category and their importance.
 
 ### Productivity
 
@@ -198,15 +196,13 @@ Here is a list of apps that I use the most in my day to day life, sorted by cate
 As I develop apps for iOS, I have 3rd page dedicated to `in development` apps.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/lLMvjH8.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/DNMifyn.jpg"></a>
 
 ### Other apps
 
-I don't go over describing all the apps I use and you can see for yourself the apps I use in above screenshots. As I only have two active spaces on my phone to minimize hand movement, I had to use folders (with [blank names](https://lifehacker.com/how-to-hide-your-app-folder-names-in-ios-1829744268) to reduce noise). Some of these folders are filled to the second level.
+I go over describing all the top apps I use (not in folder) above. Here are contents of all of the folders with names of apps inside.
 
-Here are contents of all of these folders with names of apps inside, if you wish to try them too.
-
-![](https://i.imgur.com/PFAZTsx.png)
+![](https://i.imgur.com/gFx5EeW.jpg)
 
 ## Widgets
 
