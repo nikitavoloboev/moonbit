@@ -6,10 +6,10 @@
     <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/coHk3uL.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/oU2lGrf.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/E2Z28hT.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/YCz0G4Q.jpg"></a>
 
 #### Contents
 
@@ -213,17 +213,17 @@ Here are contents of all of these folders with names of apps inside, if you wish
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/gg6F6Pz.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/KEfxTwK.jpg"></a>
 
 ## Shortcuts
 
-I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use with one color (Grey) for consistency. All the top shortcuts I use are activated with widgets (as seen above).
+I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I use with gray color for consistency. All the top shortcuts I use are activated with widgets (as seen above).
 
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Event](https://www.icloud.com/shortcuts/4b73f41a0f97415ba13ca93c47e54b2b) - Create new event with Fantastical.
-- [Trello](https://www.icloud.com/shortcuts/7d689c9ae14144f59734d0d87db23f97) - Create new Trello card optionally filling in Name/Board/List to save it to.
-- [Ask](https://www.icloud.com/shortcuts/5a5ce4ca0b544dbc8b75b9b62e3769ba) - Ask Google Assistant.
 - [Next](https://www.icloud.com/shortcuts/495dcc6aa4ec4d87a103a6b43ef59bd8) - Show directions to next event(s).
+- [Today](https://www.icloud.com/shortcuts/6bc094e5bd844670ac71d76e0dd5ab7c) - Open today's day in Fantastical.
+- [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/af9b8f223ec440daa04da332581f8415) - Start typing new tweet.
@@ -232,11 +232,11 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Photo](https://www.icloud.com/shortcuts/a209e209f1864eed89377e1f70a47587) - Open Camera app to take photo/video.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
-- [Search](https://www.icloud.com/shortcuts/85f15d73c71344838fb2d59e916c02b7) - Make search with Twitter app.
+- [Ask](https://www.icloud.com/shortcuts/5a5ce4ca0b544dbc8b75b9b62e3769ba) - Ask Google Assistant.
+- [Sort](https://www.icloud.com/shortcuts/fb0625ff34874e7aa0f40a489a3a0014) - Open [Slidebox](http://slidebox.co).
 - [Notes](https://www.icloud.com/shortcuts/e9b73752268c453bb4e044a4419e1a67) - Opens Ulysses Favorite notes.
-- Saved - Open Telegram Saved Messages. Can replicate it by adding an action to send message to yourself (Telegram provides it).
-- [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
 - [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with [Spark](https://sparkmailapp.com).
+- Saved - Open Telegram Saved Messages. Can replicate it by adding an action to send message to yourself (Telegram provides it).
 - [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
 - [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
 
