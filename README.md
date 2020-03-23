@@ -59,10 +59,6 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 - Use it to track my workouts. I have few custom workouts I made that I can start and simply follow the exercises and the number of sets for the exercise as my workout progresses. I most usually start and track my workouts with my [Apple Watch](#watchos) using [Streaks Workout](https://streaksworkout.com) to start bodyweight exercise workouts and Workouts to start cardio workouts (Running/Cycling).
 
-#### [Streaks](https://streaksapp.com) - Habit tracker
-
-- Do something often enough and it becomes a habit. I use the app to track my [essential life habits](https://wiki.nikitavoloboev.xyz/focusing/habits) I want to complete each day. Get notification at 22:20 every day as a reminder to go to sleep and check on the habits.
-
 #### [1Password](https://itunes.apple.com/us/app/1password/id568903335?mt=8) - Password manager
 
 - Can't live without the app. It holds all my passwords and anything private so that I only need to remember one thing. My master password. It seamlessly integrates with the OS so I can autofill saved passwords in seconds.
@@ -187,10 +183,6 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 - Lets you write JavaScript code and combine it with Siri Shortcuts. Can even [edit the code on the mac](https://talk.automators.fm/t/code-editing-on-the-mac/2005) and instantly run the shortcuts on the phone. Plan to learn how to use it well to write more sophisticated shortcuts.
 
-#### [Pushcut](https://www.pushcut.io/) - Smart notifications that trigger your automation
-
-- Didn't find a use for it yet.
-
 ### Dev page
 
 As I develop apps for iOS, I have 3rd page dedicated to `in development` apps.
@@ -258,7 +250,7 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 ## iPad
 
-I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art)/Notes and Apple Pencil. And sometimes using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
+I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil & using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
 ![](https://i.imgur.com/llPa96X.jpg)
 
