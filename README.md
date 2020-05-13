@@ -3,13 +3,13 @@
 > List of applications and tools that make my iOS experience even more amazing
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/UAyhhWw.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/q6lSHQI.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/oU2lGrf.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/faN6HSB.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/YCz0G4Q.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/9N2zJgM.png"></a>
 
 #### Contents
 
@@ -185,10 +185,10 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 ### Dev page
 
-As I develop apps for iOS, I have 3rd page dedicated to `in development` apps.
+As I develop apps for iOS, I have 3rd page dedicated to `in development` apps. The empty icons are added with [Makeovr](http://www.makeovr.io/up.php).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/DNMifyn.jpg"></a>
+    <img width="250" helgth="400" src="hhttps://i.imgur.com/uSm3F08.png"></a>
 
 ### Other apps
 
@@ -201,7 +201,7 @@ I go over describing all the top apps I use (not in folder) above. Here are cont
 Here are the widgets I use:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="https://i.imgur.com/KEfxTwK.jpg"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/QWpKVZk.jpg"></a>
 
 ## Shortcuts
 
@@ -210,21 +210,21 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 - [Translate](https://www.icloud.com/shortcuts/fdaecce3abdd424c97cfb2b62cad8e4d) - Open Google Translate.
 - [Event](https://www.icloud.com/shortcuts/4b73f41a0f97415ba13ca93c47e54b2b) - Create new event with Fantastical.
 - [Next](https://www.icloud.com/shortcuts/495dcc6aa4ec4d87a103a6b43ef59bd8) - Show directions to next event(s).
-- [Today](https://www.icloud.com/shortcuts/6bc094e5bd844670ac71d76e0dd5ab7c) - Open today's day in Fantastical.
+- [Ask](https://www.icloud.com/shortcuts/5a5ce4ca0b544dbc8b75b9b62e3769ba) - Ask Google Assistant.
 - [Places](https://www.icloud.com/shortcuts/aabd468fe26b48ffa47d6f803aa5b35e) - Find (Work/Parks/Libraries/Groceries/Restaurants/Attractions/Cafes/Home) in Google Maps.
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/af9b8f223ec440daa04da332581f8415) - Start typing new tweet.
-- [Focus](https://www.icloud.com/shortcuts/b579d573c40f44f5955666c883fb747f) - Open [Dark Noise](https://darknoise.app) app & play fire sound.
+- [Focus](https://www.icloud.com/shortcuts/bbfec2eaa7a2469787068e02550a9eff) - Play rain sound using [Dark Noise](https://darknoise).
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Photo](https://www.icloud.com/shortcuts/a209e209f1864eed89377e1f70a47587) - Open Camera app to take photo/video.
 - [Drive](https://www.icloud.com/shortcuts/5b68f7221cde454b81ca99c3c743f636) - Search Google Drive.
-- [Ask](https://www.icloud.com/shortcuts/5a5ce4ca0b544dbc8b75b9b62e3769ba) - Ask Google Assistant.
 - [Sort](https://www.icloud.com/shortcuts/fb0625ff34874e7aa0f40a489a3a0014) - Open [Slidebox](http://slidebox.co).
 - [Notes](https://www.icloud.com/shortcuts/e9b73752268c453bb4e044a4419e1a67) - Opens Ulysses Favorite notes.
-- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with [Spark](https://sparkmailapp.com).
 - Saved - Open Telegram Saved Messages. Can replicate it by adding an action to send message to yourself (Telegram provides it).
+- [Mail](https://www.icloud.com/shortcuts/ca26fe735cfc442d9d61bd4a3d3201bd) - Create new mail with [Spark](https://sparkmailapp.com).
+- [Home](https://www.icloud.com/shortcuts/78681323f246442b86ea8383bb323cdd) - Show public transport directions to Home in Google Maps.
 - [Record](https://www.icloud.com/shortcuts/e2d5cdb3a99f49ffa3ff047aa5bb83ed) - Start recording audio. Tap to stop. Then share it.
 - [Dictate](https://www.icloud.com/shortcuts/0df99b056c2345f0881acdce6a2b1f0b) - Start recording speech and transcribe it to text. Tap to stop. Then share the text.
 
@@ -237,7 +237,7 @@ I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate t
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/KeIAlB0.jpg"></a>
+    <img width="250" heigth="400" src="hhttps://i.imgur.com/MF29Z2p.jpg"></a>
 
 ## WatchOS
 
@@ -252,24 +252,16 @@ I use only one Infograph Modular watch face. It shows the current time and day, 
 
 I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.art) and Apple Pencil & using it as second screen with [Sidecar](https://support.apple.com/en-me/HT210380).
 
-![](https://i.imgur.com/llPa96X.jpg)
-
-Most apps on my iPad are identical to my phone. The few apps that are iPad specific are:
-
-- [Procreate](https://procreate.art) - Draw.
-- [Pixave](http://www.littlehj.com/ios/) - Image organizer.
+![](https://i.imgur.com/nIApZQU.png)
 
 ## Games
 
-I prefer using PS4 for playing games as the games there are much better. There were a few games on iOS I did like though.
+I prefer using PS4 for playing games as the games there are much better. There are some games I did like still on iOS.
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
-- [Shapeuku](https://itunes.apple.com/nl/app/shapeuku-shape-puzzle-game/id1406128582?l=en&mt=8) - Shape puzzle game.
-- [Mind Cards](https://itunes.apple.com/us/app/mind-cards/id1411999677?mt=8) - Strategy card game.
-- [DATA WING](https://itunes.apple.com/us/app/data-wing/id1206723870?mt=8) - A neon racing adventure.
-- [Human Resource Machine](https://itunes.apple.com/us/app/human-resource-machine/id1005098334?mt=8)
-- [the Sequence](https://itunes.apple.com/us/app/the-sequence/id1035217840?mt=8) - Build a sequence using special modules to transfer binary cell.
-- [the Sequence 2](https://itunes.apple.com/us/app/the-sequence-2/id1340353421?mt=8)
+- [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
+- [INSIDE](https://apps.apple.com/us/app/playdeads-inside/id1201642309)
+- [FTL: Faster Than Light](https://apps.apple.com/us/app/ftl-faster-than-light/id833951143)
 
 ## [My wonderful world of macOS 💻](https://github.com/nikitavoloboev/my-mac-os#readme)
 
