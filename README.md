@@ -258,7 +258,7 @@ I mostly use my iPad for drawing & sketching with [Procreate](https://procreate.
 
 I prefer using PS4 for playing games as the games there are much better. There are some games I did like still on iOS.
 
-- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Chess game with multiplayer and puzzles.
+- [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 - [Hearthstone](https://apps.apple.com/us/app/hearthstone/id625257520)
 - [INSIDE](https://apps.apple.com/us/app/playdeads-inside/id1201642309)
 - [FTL: Faster Than Light](https://apps.apple.com/us/app/ftl-faster-than-light/id833951143)
