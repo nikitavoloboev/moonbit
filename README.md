@@ -188,7 +188,7 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 As I develop apps for iOS, I have 3rd page dedicated to `in development` apps. The empty icons are added with [Makeovr](http://www.makeovr.io/up.php).
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" helgth="400" src="hhttps://i.imgur.com/uSm3F08.png"></a>
+    <img width="250" helgth="400" src="https://i.imgur.com/uSm3F08.png"></a>
 
 ### Other apps
 
