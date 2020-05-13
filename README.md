@@ -237,7 +237,7 @@ I use `Test` shortcut to prototype new actions/ideas quickly. I then duplicate t
 Here is how my control center looks:
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="hhttps://i.imgur.com/MF29Z2p.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/MF29Z2p.jpg"></a>
 
 ## WatchOS
 
