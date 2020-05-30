@@ -163,7 +163,7 @@ Here is a list of apps I use the most in my day to day life, sorted by category 
 
 #### [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8) - Writing
 
-- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it.
+- I use the app to make edits to my [wiki](https://wiki.nikitavoloboev.xyz). Since the wiki is a bunch of markdown files in a folder that I keep on Dropbox, I can add that folder to Ulysses as external folder and make edits to it. I use [Monokai Night theme](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4).
 
 ### Music
 
