@@ -215,7 +215,7 @@ I color all [shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) I
 - [2Do](https://www.icloud.com/shortcuts/88d8f30c7ae9437a8ad292793c61b57e) - Make new 2Do task.
 - [Contacts](https://www.icloud.com/shortcuts/c0c71e89165a4c1e8fe4efa8900412b4) - Type into [Cardhop](https://flexibits.com/cardhop).
 - [Tweet](https://www.icloud.com/shortcuts/af9b8f223ec440daa04da332581f8415) - Start typing new tweet.
-- [Focus](https://www.icloud.com/shortcuts/bbfec2eaa7a2469787068e02550a9eff) - Play rain sound using [Dark Noise](https://darknoise).
+- [Focus](https://www.icloud.com/shortcuts/bbfec2eaa7a2469787068e02550a9eff) - Play rain sound using [Dark Noise](https://darknoise.app).
 - [Podcast](https://www.icloud.com/shortcuts/54d1a3caa4d547a5805f310f0fbcb102) - Play most recently played or first unplayed [podcast episode](https://wiki.nikitavoloboev.xyz/podcasts).
 - [HN](https://www.icloud.com/shortcuts/a21eba16d13e45a6bdf8805d0d3e3222) - Opens [hckrnews](http://hckrnews.com) in Safari in new tab.
 - [Photo](https://www.icloud.com/shortcuts/a209e209f1864eed89377e1f70a47587) - Open Camera app to take photo/video.
