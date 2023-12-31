@@ -1,0 +1,50 @@
+I am currently making [Learn Anything](https://learn-anything.xyz) {" & "} [KusKus](https://kuskus.app). [Sharing things](https://wiki.nikiv.dev/sharing/), writing a [wiki](https://wiki.nikiv.dev/) and building [ideas](https://wiki.nikiv.dev/ideas/).
+
+All my code projects can be neatly seen [here](https://github.com/nikitavoloboev#src). In more detail they are:
+
+## Learn Anything
+
+[Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
+
+The [end goal](https://wiki.nikiv.dev/ideas/learn-anything) is to create a machine learning system that can craft personalized study plans for learning any topic and an open knowledge graph anyone can explore and extend.
+
+## KusKus
+
+[KusKus](http://kuskus.app) is a fast fully keyboard driven todo app with AI features and GitHub integration.
+
+## Alfred Workflows
+
+I programmed some [Alfred](https://www.alfredapp.com) workflows I still use. Keep a list of [some nice ones](https://github.com/learn-anything/alfred-workflows) too.
+
+- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
+- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes.
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds.
+- [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
+
+I plan to write a lot more either Alfred or [Raycast](https://www.raycast.com) extensions.
+
+## CLI
+
+- [License Up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+
+## Go libraries
+
+- [Markdown parser](https://github.com/nikitavoloboev/markdown-parser) - Parse markdown to grab various things.
+
+## My macOS and iOS workflow
+
+I share fully my [macOS](https://github.com/nikitavoloboev/my-mac) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [config](https://github.com/nikitavoloboev/config). I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in my wiki.
+
+And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
+
+## Curated lists
+
+This part will be fully handled by [LA](https://learn-anything.xyz) soon. But I keep some [curated lists](https://github.com/learn-anything/curated-lists) which include things like [books](https://github.com/learn-anything/books), [courses](https://github.com/learn-anything/courses), [blogs](https://github.com/learn-anything/blogs) and more.
+
+And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting) and a list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work) .
+
+## Other things
+
+I am continuously [learning](https://wiki.nikiv.dev/education/learning), [writing](https://wiki.nikiv.dev/articles), reading [books](https://wiki.nikiv.dev/books/) and [research papers](https://wiki.nikiv.dev/research-papers/), [making videos](https://www.youtube.com/@nikitavoloboev/videos) and [writing code](https://github.com/nikitavoloboev#src).

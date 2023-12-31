@@ -1,0 +1,1 @@
+- show currently playing Spotify song (or last played song if no song is playing)

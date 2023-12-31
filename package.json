@@ -1,0 +1,28 @@
+{
+  "name": "nikiv.dev",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "node ./.output/server/index.mjs",
+    "db": "cd edgedb && bun --watch cli/cli.ts"
+  },
+  "dependencies": {
+    "@cyco130/vite-plugin-mdx": "^1.0.2",
+    "@solidjs/router": "^0.10.5",
+    "@solidjs/start": "^0.4.2",
+    "@vinxi/plugin-mdx": "^3.6.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "solid-js": "^1.8.7",
+    "solid-mdx": "^0.0.7",
+    "tailwindcss": "^3.3.3",
+    "vinxi": "0.0.54"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,17 @@
+dist
+.solid
+.output
+.vercel
+.netlify
+netlify
+.env
+.env*.local
+/node_modules
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+gitignore
+.DS_Store
+Thumbs.db
