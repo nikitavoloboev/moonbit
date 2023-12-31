@@ -13,7 +13,8 @@
 		"types": ["vinxi/client"],
 		"isolatedModules": true,
 		"paths": {
-      "~/*": ["./src/*"]
-    }
+      "~/*": ["./src/*"],
+			"@grafbase/generated": ["./grafbase/generated"]
+    },
 	}
 }

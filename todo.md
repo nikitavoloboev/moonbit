@@ -1,1 +1,7 @@
+- deploy with cloudflare pages
+  - https://nitro.unjs.io/deploy/providers/cloudflare
+  - https://nitro.unjs.io/deploy/providers/cloudflare#cloudflare-pages
+  - https://nitro.unjs.io/deploy/#changing-the-deployment-preset
+- setup playground for edgedb/grafbase experiments
+  - add custom edgedb, store all kinds of things
 - show currently playing Spotify song (or last played song if no song is playing)
