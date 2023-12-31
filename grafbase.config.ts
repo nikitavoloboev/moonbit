@@ -15,12 +15,15 @@ const g = graph.Standalone()
 //
 g.query("recentSpotifySong", {
   returns: g.string(),
-  resolver: "recent-spotify-song",
+  resolver: "resolvers/recent-spotify-song",
 })
 
 export default config({
   graph: g,
   // Authentication - https://grafbase.com/docs/auth
+  experimental: {
+    codegen: true,
+  },
   auth: {
     // OpenID Connect
     // const oidc = auth.OpenIDConnect({ issuer: g.env('OIDC_ISSUER_URL') })

@@ -16,3 +16,4 @@ gitignore
 .DS_Store
 Thumbs.db
 .vinxi
+.grafbase

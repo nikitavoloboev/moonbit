@@ -14,7 +14,7 @@
 		"isolatedModules": true,
 		"paths": {
       "~/*": ["./src/*"],
-			"@grafbase/generated": ["./grafbase/generated"]
+			"@grafbase/generated": ["./generated"]
     },
 	}
 }

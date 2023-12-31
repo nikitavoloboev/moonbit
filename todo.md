@@ -5,3 +5,6 @@
 - setup playground for edgedb/grafbase experiments
   - add custom edgedb, store all kinds of things
 - show currently playing Spotify song (or last played song if no song is playing)
+- setup https://grafbase.com/blog/introducing-the-grafbase-postgres-connector
+  - together with edgedb, to test grafbase connector api + be able to test raw postgres features
+  - same for sqlite at the edge maybe

@@ -8,7 +8,7 @@ const recentSpotifySongResolver: Resolver["Query.recentSpotifySong"] = async (
   info
 ) => {
   try {
-    console.log("run")
+    return "ok"
   } catch (err) {
     throw new GraphQLError(JSON.stringify(err))
   }
