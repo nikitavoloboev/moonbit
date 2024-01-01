@@ -10,7 +10,13 @@ const { default: mdx } = pkg
 // TODO: add ssr to the website
 // add https://github.com/cyco130/vite-plugin-mdx (open issue https://discord.com/channels/722131463138705510/910635844119982080/1190950777880060037)
 export default defineConfig({
-  start: { ssr: false, extensions: ["mdx", "md"] },
+  start: {
+    ssr: false,
+    extensions: ["mdx", "md"],
+    server: {
+      preset: "cloudflare_pages",
+    },
+  },
   plugins: [
     mdx.withImports({})({
       jsx: true,
