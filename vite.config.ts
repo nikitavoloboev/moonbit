@@ -6,6 +6,7 @@ import pkg from "@vinxi/plugin-mdx"
 const { default: mdx } = pkg
 
 // https://nitro.unjs.io/deploy/providers/cloudflare deploy on cloudflare pages
+// using https://ryanjc.com/blog/solidstart-cloudflare-pages/ to deploy solid start 2
 
 // TODO: add ssr to the website
 // add https://github.com/cyco130/vite-plugin-mdx (open issue https://discord.com/channels/722131463138705510/910635844119982080/1190950777880060037)

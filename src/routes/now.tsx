@@ -16,10 +16,10 @@ export default function Now() {
         <a href="https://wiki.nikiv.dev/looking-back/">look backs</a> reflecting
         on what I worked &amp; thought about.
       </p>
-      <p>
+      {/* <p>
         Currently spending time in Saint Petersburg.{" "}
         <a href="https://twitter.com/nikitavoloboev">Say 👋</a>.
-      </p>
+      </p> */}
     </PageWrap>
   )
 }
