@@ -2,4 +2,4 @@
 
 Writing monthly [look backs](https://wiki.nikiv.dev/looking-back/) reflecting on what I worked & thought about.
 
-Currently spending time in Saint Petersburg. [Say 👋](https://twitter.com/nikitavoloboev).
+[Say 👋](https://twitter.com/nikitavoloboev).
