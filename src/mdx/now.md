@@ -2,4 +2,4 @@
 
 Writing monthly [look backs](https://wiki.nikiv.dev/looking-back/) reflecting on what I worked & thought about.
 
-[Say 👋](https://twitter.com/nikitavoloboev).
+Sharing latest photos of where I am now on [IG](https://www.instagram.com/nikitavoloboev). [Say 👋](https://twitter.com/nikitavoloboev).
