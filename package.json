@@ -1,10 +1,12 @@
 {
+  "name": "nikiv.dev",
   "scripts": {
     "dev": "vinxi dev",
     "start": "node ./.output/server/index.mjs",
     "build": "vinxi build --preset cloudflare-pages",
     "db": "cd edgedb && bun --watch cli/cli.ts"
   },
+  "type": "module",
   "dependencies": {
     "@cyco130/vite-plugin-mdx": "^1.0.2",
     "@grafbase/sdk": "^0.13.1",
@@ -25,9 +27,7 @@
   "engines": {
     "node": ">=18"
   },
-  "name": "nikiv.dev",
   "prettier": {
     "semi": false
-  },
-  "type": "module"
+  }
 }
