@@ -8,19 +8,19 @@
   "dependencies": {
     "@cyco130/vite-plugin-mdx": "^1.0.2",
     "@grafbase/sdk": "^0.13.1",
-    "@solidjs/router": "^0.10.5",
-    "@solidjs/start": "^0.4.2",
-    "@vinxi/plugin-mdx": "^3.6.7",
-    "autoprefixer": "^10.4.14",
+    "@solidjs/router": "^0.10.9",
+    "@solidjs/start": "^0.4.9",
+    "@vinxi/plugin-mdx": "^3.7.0",
+    "autoprefixer": "^10.4.16",
     "graphql": "^16.8.1",
-    "postcss": "^8.4.26",
-    "solid-js": "^1.8.7",
+    "postcss": "^8.4.33",
+    "solid-js": "^1.8.11",
     "solid-mdx": "^0.0.7",
-    "tailwindcss": "^3.3.3",
-    "vinxi": "0.0.54"
+    "tailwindcss": "^3.4.1",
+    "vinxi": "0.1.2"
   },
   "devDependencies": {
-    "@grafbase/sdk": "~0.13.1"
+    "@grafbase/sdk": "~0.14.0"
   },
   "engines": {
     "node": ">=18"
