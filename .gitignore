@@ -17,3 +17,4 @@ gitignore
 Thumbs.db
 .vinxi
 .grafbase
+pnpm-lock.yaml
