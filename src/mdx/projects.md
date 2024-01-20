@@ -10,7 +10,7 @@ The [end goal](https://wiki.nikiv.dev/ideas/learn-anything) is to create a machi
 
 ## KusKus
 
-[KusKus](http://kuskus.app) is a fast fully keyboard driven todo app with AI features and GitHub integration.
+[KusKus](http://kuskus.app) is a food/drink sharing app.
 
 ## Alfred Workflows
 

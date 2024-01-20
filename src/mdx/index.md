@@ -6,7 +6,7 @@
 
 💻 I also share a [course on macOS automation](https://macos.nikiv.dev), teaching how to use macOS fast with [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) and [many more tools](https://wiki.nikiv.dev/sharing/my-workflow) .
 
-✅ And I am building [KusKus](https://kuskus.app), a fast todo app with AI features and GitHub integration.
+🍽 And I am building [KusKus](https://kuskus.app), a food/drink sharing app.
 
 🌐 I share my thoughts on [X](https://twitter.com/nikitavoloboev). I share my [code](https://github.com/nikitavoloboev#src) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
