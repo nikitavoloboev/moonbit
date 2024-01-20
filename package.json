@@ -8,18 +8,18 @@
   },
   "type": "module",
   "dependencies": {
-    "@cyco130/vite-plugin-mdx": "^1.0.2",
-    "@grafbase/sdk": "^0.13.1",
+    "@cyco130/vite-plugin-mdx": "^1.0.3",
+    "@grafbase/sdk": "^0.15.0",
     "@solidjs/router": "^0.10.9",
-    "@solidjs/start": "^0.4.9",
+    "@solidjs/start": "^0.4.10",
     "@vinxi/plugin-mdx": "^3.7.0",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.17",
     "graphql": "^16.8.1",
     "postcss": "^8.4.33",
     "solid-js": "^1.8.11",
     "solid-mdx": "^0.0.7",
     "tailwindcss": "^3.4.1",
-    "vinxi": "0.1.2"
+    "vinxi": "0.1.4"
   },
   "devDependencies": {
     "@grafbase/sdk": "~0.14.0"
