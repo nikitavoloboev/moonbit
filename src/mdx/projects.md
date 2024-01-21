@@ -35,7 +35,7 @@ I plan to write a lot more either Alfred or [Raycast](https://www.raycast.com) e
 
 ## My macOS and iOS workflow
 
-I share fully my [macOS](https://github.com/nikitavoloboev/my-mac) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [config](https://github.com/nikitavoloboev/config). I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in my wiki.
+I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which applications and tools I use and love. I also share my [config](https://github.com/nikitavoloboev/config). I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in my wiki.
 
 And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
 
