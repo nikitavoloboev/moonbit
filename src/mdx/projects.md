@@ -18,24 +18,14 @@ I programmed some [Alfred](https://www.alfredapp.com) workflows I still use. Kee
 
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
 - [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
-- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
-- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes.
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds.
 - [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 
-I plan to write a lot more either Alfred or [Raycast](https://www.raycast.com) extensions.
-
-## CLI
-
-- [License Up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
-
-## Go libraries
-
-- [Markdown parser](https://github.com/nikitavoloboev/markdown-parser) - Parse markdown to grab various things.
+I plan to write a lot more Alfred and [Raycast](https://www.raycast.com) extensions.
 
 ## My macOS and iOS workflow
 
-I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which applications and tools I use and love. I also share my [config](https://github.com/nikitavoloboev/config). I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in my wiki.
+I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which apps/CLIs/configs I use and love. I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in wiki and [course](https://macos.nikiv.dev). [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is life changing.
 
 And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
 

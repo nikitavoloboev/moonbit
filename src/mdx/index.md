@@ -4,9 +4,9 @@
 
 📚 My main focus is on building [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything.xyz) website for learning any topic as fast as possible.
 
-💻 I also share a [course on macOS automation](https://macos.nikiv.dev), teaching how to use macOS fast with [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) and [many more tools](https://wiki.nikiv.dev/sharing/my-workflow) .
+🥑 I am also building [KusKus](https://kuskus.app), a food/drink sharing app.
 
-🍽 And I am building [KusKus](https://kuskus.app), a food/drink sharing app.
+💻 I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which apps/CLIs/configs I use and love. I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in wiki and [course](https://macos.nikiv.dev). [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is life changing.
 
 🌐 I share my thoughts on [X](https://twitter.com/nikitavoloboev). I share my [code](https://github.com/nikitavoloboev#src) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
