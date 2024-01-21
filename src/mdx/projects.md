@@ -23,9 +23,13 @@ I programmed some [Alfred](https://www.alfredapp.com) workflows I still use. Kee
 
 I plan to write a lot more Alfred and [Raycast](https://www.raycast.com) extensions.
 
+## Preferred tech stack
+
+Web apps/sites are all built with Solid/TypeScript. Database uses EdgeDB served via Grafbase GraphQL. Local first architectures. Using Tauri/Rust for desktop apps. SwiftUI for mobile apps. With some Go servers.
+
 ## My macOS and iOS workflow
 
-I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which apps/CLIs/configs I use and love. I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in wiki and [course](https://macos.nikiv.dev). [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is life changing.
+I share fully my [macOS/iOS personal setup](https://github.com/nikitavoloboev/config). Where I share which apps/CLIs/configs I use and love. I [describe my workflow more extensively](https://wiki.nikiv.dev/sharing/my-workflow) in wiki and [course](https://macos.nikiv.dev).
 
 And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
 

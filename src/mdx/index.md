@@ -10,7 +10,7 @@
 
 🌐 I share my thoughts on [X](https://twitter.com/nikitavoloboev). I share my [code](https://github.com/nikitavoloboev#src) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
-🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://open.spotify.com/user/nikitavoloboev) .
+🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://open.spotify.com/user/nikitavoloboev).
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/config) so I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
