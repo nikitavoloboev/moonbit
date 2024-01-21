@@ -10,7 +10,7 @@ The [end goal](https://wiki.nikiv.dev/ideas/learn-anything) is to create a machi
 
 ## KusKus
 
-[KusKus](http://kuskus.app) is a food/drink sharing app.
+[KusKus](http://kuskus.app) is an [open source](https://github.com/kuskusapp/kuskus) app for food/drink sharing.
 
 ## Alfred Workflows
 
