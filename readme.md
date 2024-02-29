@@ -4,7 +4,7 @@
 
 ## Setup
 
-Everything is driven using [bun](https://bun.sh) commands.
+[Bun](https://bun.sh/) is used to run things.
 
 ```
 bun i
