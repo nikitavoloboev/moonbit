@@ -4,6 +4,8 @@
 
 ## Setup
 
+<!-- TODO: add nix dep setup, then have bun drive all the scripts -->
+
 [Bun](https://bun.sh/) is used to run things.
 
 ```
