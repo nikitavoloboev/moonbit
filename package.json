@@ -9,7 +9,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@cyco130/vite-plugin-mdx": "^1.0.4",
     "@solidjs/router": "^0.13.0",
     "@solidjs/start": "^0.7.5",
     "@vinxi/plugin-mdx": "^3.7.1",
