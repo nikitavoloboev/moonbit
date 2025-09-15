@@ -1,0 +1,12 @@
+{
+  "name": "nikitavoloboev/moonbit",
+  "version": "0.1.0",
+  "deps": {
+    "moonbitlang/x": "0.4.34"
+  },
+  "readme": "readme.md",
+  "repository": "nikitavoloboev/moonbit",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "description": ""
+}
